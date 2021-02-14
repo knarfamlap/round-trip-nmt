@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 # grab all folder in a directory
 
 
@@ -11,7 +14,6 @@ from shutil import copy
 import argparse
 import os
 import logging
-import errno
 
 def filter_models(input_dirr):
     cur_dir = os.getcwd() 
