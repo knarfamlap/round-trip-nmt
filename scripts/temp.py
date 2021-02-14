@@ -1,5 +1,6 @@
 from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
+from logzero import logger
 import os
 import torch
 import argparse
@@ -12,7 +13,7 @@ def num_params(model):
 
 def load_model_and_tokenizer(location, src, trg, device='cuda:0'):
     # parse model name
-    model_name = '{}-{}'.format(src, trg)
+    model_name = 'Helsinki-NLP/opus-mt-{}-{}'.format(src, trg)
     # get dirr where the model lives
     loc_path = os.path.join(os.abspath(location), model_name)
     # load the tokenizer for the model
@@ -105,15 +106,18 @@ if __name__ == "__main__":
     test_data_loc = args.test
 
     test_data_loc = os.path.abspath(test_data_loc) 
+    logger.info('Getting test data from: {}'.format(test_data_loc))
     # load all test data
     test_data = open(test_data_loc, 'r').read().split('\n')
     
     device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
+    logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
     src_trg_model, src_trg_tokenizer = load_model(location, src, trg, device)
+    logger.info('Getting {}-{} model and its tokenizer'.format(trg, src))
     trg_src_model, trg_src_tokenizer = load_model(location, trg, src, device)
-
+    logger.info('Translating test data')
     rt_translations = translate(src_trg_model, src_trg_tokenizer, trg_src_model, trg_src_tokenizer, test_data, nbest, device) 
-
+    logger.info('Saving translations to {}'.format(os.path.abspath(output_dir)))
     save_nbest(rt_translations, test_data, src, trg, nbest, output_dir) 
 
 
