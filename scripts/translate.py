@@ -1,4 +1,4 @@
-from tqdm import tqdm
+import tqdm
 from transformers import MarianMTModel, MarianTokenizer
 from logzero import logger
 import os
