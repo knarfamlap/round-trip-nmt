@@ -150,5 +150,9 @@ if __name__ == "__main__":
                                 nbest, device)
 
     logger.info('Saving translations to {}'.format(
-        os.path.abspath(output_dir)))
+        os.path.abspath(
+            os.path.join(
+                output_dir,
+                "{}-{}-top{}translations.txt".format(src, trg,
+                                                     nbest * nbest)))))
     save_nbest(rt_translations, test_data, src, trg, nbest, output_dir)
