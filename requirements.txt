@@ -1,5 +1,4 @@
 tqdm
 torch
 logzero
-transformers
-
+sentencepiece
