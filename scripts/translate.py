@@ -34,13 +34,13 @@ def translate(fwrd_model,
               bwrd_tokenizer,
               sentences,
               nbest,
-              device='cuda:0'):
+              device='cuda'):
     rt_translations = []
 
     for te in tqdm(sentences):
         rt_translations.append([])
         tokens_dict_src = fwrd_tokenizer.prepare_seq2seq_batch(
-            te, return_tensors="pt")
+            te, return_tensors="pt", dtype=torch.float16)
         # Translate from src to pivot language. Sentences are encoded
         src_to_pivot = fwrd_model.generate(
             input_ids=tokens_dict_src['input_ids'].to(device),
