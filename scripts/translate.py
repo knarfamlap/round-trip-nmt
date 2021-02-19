@@ -40,7 +40,7 @@ def translate(fwrd_model,
     for te in tqdm(sentences):
         rt_translations.append([])
         tokens_dict_src = fwrd_tokenizer.prepare_seq2seq_batch(
-            te, return_tensors="pt", dtype=torch.float16)
+            [te], return_tensors="pt")
         # Translate from src to pivot language. Sentences are encoded
         src_to_pivot = fwrd_model.generate(
             input_ids=tokens_dict_src['input_ids'].to(device),
@@ -59,7 +59,7 @@ def translate(fwrd_model,
 
         for tr in tqdm(src_to_pivot_txt):
             tokens_dict_pivot = bwrd_tokenizer.prepare_seq2seq_batch(
-                tr, return_tensors="pt")
+                [tr], return_tensors="pt")
             # Translate pivot to src. Sentences are encoded
             pivot_to_src = bwrd_model.generate(
                 input_ids=tokens_dict_pivot['input_ids'].to(device),
