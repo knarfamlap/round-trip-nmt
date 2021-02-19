@@ -128,7 +128,7 @@ if __name__ == "__main__":
     # load all test data
     test_data = open(test_data_loc, 'r').read().split('\n')
 
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
     logger.info("Device is use: {}".format(device))
 
     logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
