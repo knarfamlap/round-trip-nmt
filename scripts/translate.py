@@ -12,7 +12,7 @@ def get_num_params(model):
                if param.requires_grad)
 
 
-def load_model_and_tokenizer(src, trg, device='cuda'):
+def load_model_and_tokenizer(src, trg, device='cuda:0'):
     # parse model name
     model_name = 'Helsinki-NLP/opus-mt-{}-{}'.format(src, trg)
     # load the tokenizer for the model
@@ -34,7 +34,7 @@ def translate(fwrd_model,
               bwrd_tokenizer,
               sentences,
               nbest,
-              device='cuda'):
+              device='cuda:0'):
     rt_translations = []
 
     for te in tqdm(sentences):
