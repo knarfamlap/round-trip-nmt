@@ -15,8 +15,6 @@ def get_num_params(model):
 def load_model_and_tokenizer(src, trg, device='cuda:0'):
     # parse model name
     model_name = 'Helsinki-NLP/opus-mt-{}-{}'.format(src, trg)
-    # get dirr where the model lives
-    loc_path = os.path.join(os.path.abspath(location), model_name)
     # load the tokenizer for the model
     tokenizer = MarianTokenizer.from_pretrained(model_name)
     # load the model
