@@ -12,7 +12,7 @@ def get_num_params(model):
                if param.requires_grad)
 
 
-def load_model_and_tokenizer(location, src, trg, device='cuda:0'):
+def load_model_and_tokenizer(src, trg, device='cuda:0'):
     # parse model name
     model_name = 'Helsinki-NLP/opus-mt-{}-{}'.format(src, trg)
     # get dirr where the model lives
@@ -134,12 +134,10 @@ if __name__ == "__main__":
     logger.info("Device is use: {}".format(device))
 
     logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
-    src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(
-        location, src, trg, device)
+    src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(src, trg, device)
 
     logger.info('Getting {}-{} model and its tokenizer'.format(trg, src))
-    trg_src_model, trg_src_tokenizer = load_model_and_tokenizer(
-        location, trg, src, device)
+    trg_src_model, trg_src_tokenizer = load_model_and_tokenizer(trg, src, device)
 
     logger.info('Translating test data')
     rt_translations = translate(src_trg_model, src_trg_tokenizer,
