@@ -12,7 +12,7 @@ def get_num_params(model):
                if param.requires_grad)
 
 
-def load_model_and_tokenizer(src, trg, device='cuda:0'):
+def load_model_and_tokenizer(src, trg, device='cuda'):
     # parse model name
     model_name = 'Helsinki-NLP/opus-mt-{}-{}'.format(src, trg)
     # load the tokenizer for the model
