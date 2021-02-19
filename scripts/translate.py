@@ -109,8 +109,6 @@ if __name__ == "__main__":
         "Translate from forward model to pivot model and back given n number of hypothesis"
     )
 
-    parser.add_argument(
-        '--dir', help='Directory where the forward and pivot model lives')
     parser.add_argument('--src', help='Name of language for the forward model')
     parser.add_argument('--trg', help='Name of language for the pivot model')
     parser.add_argument(
@@ -121,7 +119,6 @@ if __name__ == "__main__":
     parser.add_argument('--test', help='Test data to produce translation')
     args = parser.parse_args()
 
-    location = args.dir
     src = args.src
     trg = args.trg
     nbest = int(args.nbest)
