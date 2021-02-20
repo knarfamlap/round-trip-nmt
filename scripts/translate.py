@@ -12,11 +12,9 @@ def get_num_params(model):
                if param.requires_grad)
 
 
-def load_model_and_tokenizer(location, src, trg, device='cuda:0'):
+def load_model_and_tokenizer(src, trg, device='cuda:0'):
     # parse model name
     model_name = 'Helsinki-NLP/opus-mt-{}-{}'.format(src, trg)
-    # get dirr where the model lives
-    loc_path = os.path.join(os.path.abspath(location), model_name)
     # load the tokenizer for the model
     tokenizer = MarianTokenizer.from_pretrained(model_name)
     # load the model
@@ -109,8 +107,6 @@ if __name__ == "__main__":
         "Translate from forward model to pivot model and back given n number of hypothesis"
     )
 
-    parser.add_argument(
-        '--dir', help='Directory where the forward and pivot model lives')
     parser.add_argument('--src', help='Name of language for the forward model')
     parser.add_argument('--trg', help='Name of language for the pivot model')
     parser.add_argument(
@@ -121,7 +117,6 @@ if __name__ == "__main__":
     parser.add_argument('--test', help='Test data to produce translation')
     args = parser.parse_args()
 
-    location = args.dir
     src = args.src
     trg = args.trg
     nbest = int(args.nbest)
@@ -137,12 +132,10 @@ if __name__ == "__main__":
     logger.info("Device is use: {}".format(device))
 
     logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
-    src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(
-        location, src, trg, device)
+    src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(src, trg, device)
 
     logger.info('Getting {}-{} model and its tokenizer'.format(trg, src))
-    trg_src_model, trg_src_tokenizer = load_model_and_tokenizer(
-        location, trg, src, device)
+    trg_src_model, trg_src_tokenizer = load_model_and_tokenizer(trg, src, device)
 
     logger.info('Translating test data')
     rt_translations = translate(src_trg_model, src_trg_tokenizer,
