@@ -1,9 +1,10 @@
+import argparse
+import os
+
+import torch
+from logzero import logger
 from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
-from logzero import logger
-import os
-import torch
-import argparse
 
 
 def get_num_params(model):
@@ -115,6 +116,7 @@ if __name__ == "__main__":
     parser.add_argument('--output',
                         help='Directory where the sequences will be saved')
     parser.add_argument('--test', help='Test data to produce translation')
+    parser.add_argument('--device', help='GPU where the script should run')
     args = parser.parse_args()
 
     src = args.src
@@ -122,20 +124,23 @@ if __name__ == "__main__":
     nbest = int(args.nbest)
     output_dir = args.output
     test_data_loc = args.test
+    device = torch.device(
+        f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
 
     test_data_loc = os.path.abspath(test_data_loc)
     logger.info('Getting test data from: {}'.format(test_data_loc))
     # load all test data
     test_data = open(test_data_loc, 'r').read().split('\n')
 
-    device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
     logger.info("Device is use: {}".format(device))
 
     logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
-    src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(src, trg, device)
+    src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(
+        src, trg, device)
 
     logger.info('Getting {}-{} model and its tokenizer'.format(trg, src))
-    trg_src_model, trg_src_tokenizer = load_model_and_tokenizer(trg, src, device)
+    trg_src_model, trg_src_tokenizer = load_model_and_tokenizer(
+        trg, src, device)
 
     logger.info('Translating test data')
     rt_translations = translate(src_trg_model, src_trg_tokenizer,
