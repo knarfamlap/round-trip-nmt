@@ -2,4 +2,6 @@ tqdm
 torch
 logzero
 sentencepiece
+spacy
+git+https://github.com/cisnlp/simalign.git#egg=simalign
 
