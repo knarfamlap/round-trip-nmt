@@ -16,7 +16,6 @@ import os
 import logging
 
 def filter_models(input_dirr):
-    cur_dir = os.getcwd() 
     subdirs_with_paths = [os.path.abspath(f.path) for f in os.scandir(input_dirr) if f.is_dir()]
     
     filtered  = []

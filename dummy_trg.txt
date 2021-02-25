@@ -1,0 +1,3 @@
+0	Tengo un libro .
+1	Este libro es interesante . 
+2	Fui a la liblioteca .

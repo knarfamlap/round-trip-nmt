@@ -1,0 +1,3 @@
+0	I have a book .
+1	This book is interesting .
+2	I went to the library .
