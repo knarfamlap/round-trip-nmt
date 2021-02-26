@@ -1,6 +1,5 @@
 import argparse
 import os
-
 import torch
 from logzero import logger
 from tqdm import tqdm
@@ -91,8 +90,8 @@ def save_nbest(rt_translations, test_sents, src, trg, nbest, output_dir):
     with open(os.path.join(
             output_dir,
             "{}-{}-top{}translations.txt".format(src, trg, nbest * nbest)),
-              'w',
-              encoding='utf-8') as f:
+        'w',
+            encoding='utf-8') as f:
         for test, translations in zip(test_sents, rt_translations):
             f.write(89 * '-' + '\n')
             f.write('Test Sentence: {}\n'.format(test))
@@ -104,8 +103,7 @@ def save_nbest(rt_translations, test_sents, src, trg, nbest, output_dir):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description=
-        "Translate from forward model to pivot model and back given n number of hypothesis"
+        description="Translate from forward model to pivot model and back given n number of hypothesis"
     )
 
     parser.add_argument('--src', help='Name of language for the forward model')
@@ -132,7 +130,7 @@ if __name__ == "__main__":
     # load all test data
     test_data = open(test_data_loc, 'r').read().split('\n')
 
-    logger.info("Device is use: {}".format(device))
+    logger.info("Device in use: {}".format(device))
 
     logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
     src_trg_model, src_trg_tokenizer = load_model_and_tokenizer(
