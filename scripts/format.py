@@ -27,7 +27,7 @@ def alignments_to_wrds(aligments, src_sent_arr, trans_sent_arr, method="mwmf"):
     return aligned_words
 
 
-def align(files_to_align, output_dir, device):
+def align(files_to_align, output_dir, method, device):
     files_to_align = [os.path.abspath(file) for file in files_to_align]
     output_dir = os.path.abspath(output_dir)
     # making sure the output dir exits
@@ -69,7 +69,7 @@ def align(files_to_align, output_dir, device):
                         last_src_sent_arr, trans_sent_arr)
                     # convert the alignments in word form
                     alignments_wrds = alignments_to_wrds(
-                        alignments_indeces, last_src_sent_arr, trans_sent_arr)
+                        alignments_indeces, last_src_sent_arr, trans_sent_arr, method)
                     # save the alignments into the output file
                     output_file.write("\t{}\n".format(alignments_wrds))
                 except:
@@ -99,12 +99,15 @@ if __name__ == "__main__":
     parser.add_argument(
         "--device", type=str, default="0", help="Specify which gpu to use. If no gpu available then will use cpu"
     )
+    parser.add_argument("--method", type=str, default="mwmf",
+                        help="Method for alignment. Can be the string mwmf, inter, or itermax")
     args = parser.parse_args()
 
     files_to_align = args.files_to_align
     output_dir = args.output_dir
+    method = args.method
     device = torch.device(
         f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
 
     logger.info("Device in use: {}".format(device))
-    align(files_to_align, output_dir, device)
+    align(files_to_align, output_dir, method, device)
