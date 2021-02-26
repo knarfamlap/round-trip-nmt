@@ -9,7 +9,7 @@ from logzero import logger
 nlp = spacy.load("en_core_web_sm")
 
 
-def load_sentence_aligner(device, model="bert", token_type="bpe", matching_methods="main"):
+def load_sentence_aligner(device, model="bert", token_type="bpe", matching_methods="mai"):
     aligner = SentenceAligner(model=model, token_type=token_type,
                               matching_methods=matching_methods, device=device)
 
@@ -41,7 +41,7 @@ def align(files_to_align, output_dir, method, device):
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
     # init aligner
-    aligner = SentenceAligner(model="bert", token_type="bpe", matching_methods="mai", device=device)
+    aligner = load_sentence_aligner(device)
     # Constant strings
     TEST_SENTENCE_STR = "Test Sentence: "
     TAB = "\t"
