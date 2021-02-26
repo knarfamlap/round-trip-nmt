@@ -41,7 +41,7 @@ def align(files_to_align, output_dir, method, device):
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
     # init aligner
-    aligner = load_sentence_aligner(device)
+    aligner = SentenceAligner(model="bert", token_type="bpe", matching_methods="mai", device=device)
     # Constant strings
     TEST_SENTENCE_STR = "Test Sentence: "
     TAB = "\t"
