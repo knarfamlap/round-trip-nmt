@@ -1,0 +1,1885 @@
+-----------------------------------------------------------------------------------------
+Test Sentence: Lance is highly knowledgeable on this subject.
+Top 9 Translations
+	Lance is very aware of this issue.
+	Lance is very well aware of this issue.
+	Lance knows this one pretty well.
+	Lance has a high level of insight into this aspect of his life.
+	Lance has a high perception on this subject.
+	Lance had a high visibility in the matter.
+	Lance knows all about this problem.
+	Lance is very well informed of the problem.
+	Lance is very well informed about the issue.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I need a good explanation of all the costs involved in buying a new car.
+Top 9 Translations
+	I need to make clear all costs associated with purchasing new traffic.
+	We need to explain clearly all costs associated with buying new cars.
+	I need to be clear about all costs involved in buying new cars.
+	I need a good explanation of the all less of a expense on a car.
+	I need a good reason of the whole less of a location on a car.
+	I need a good reason of the entire loss of a location on a car.
+	I need a clear explanation for buying all the cost of new cars.
+	I need a clear explanation for buying all the cost of a new car.
+	I need a good explanation for the costs of buying a new car.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There was a lively debate about the Middle East, then they moved to a vote.
+Top 9 Translations
+	They discussed the Middle East with intense debate before proceeding to a vote.
+	When they talked about the Middle East, there was intense debate before the vote was cast on it.
+	The Middle East was the subject of a heated debate before they proceeded to a vote.
+	There was intense debate on the Middle East issue and subsequently, they proceeded to vote, and they moved for a vote.
+	After intense debate around the Middle East problem, they proceeded to the vote and put on a motion for a vote.
+	There were intensive debates over the Middle East issue after which they proceeded to vote and moved for a vote.
+	There was an energic discussion on the Middle East and they subsequently decided to vote.
+	There was a lively discussion on the issue of the Middle East, before they decided to put the matter to a vote.
+	With respect to the Middle East, a lively discussion took place and they subsequently decided to cast a vote.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The doctor told him to lose weight quickly or pay the price later in life.
+Top 9 Translations
+	He was asked by the doctor to lose weight as soon as possible, otherwise the cost to the person would be borne in the future.
+	The medical doctor requested that he reduce his weight as soon as possible or face the cost that would ensue.
+	The doctors requested him to cut weight soon, otherwise he would bear the future price.
+	The doctor has told him to get a quick reduction in his weight or pay the price sooner.
+	The doctor tells me to cut the body weight quickly or pay early.
+	The doctor told him about a rapid amount of weight loss or a price an earlier time to pay.
+	The doctor makes him lose weight as quickly as possible or pays later on in his life.
+	They gave him a short weight loss or a later part of his life at a price.
+	The doctor said he had to lose weight or pay the price of the rest of his life as quickly as possible.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jet lag causes problems with our biological clock.
+Top 9 Translations
+	It's timed out and it's causing biological clock problems.
+	A time difference is a problem with the biowarm.
+	Time differences cause the clock problem.
+	And the time lags create problems with the biological clocks.
+	We have the time difference, which would cause problems with our biological clocks.
+	It causes us problems with the timer's clock.
+	- Jet time lag can be a problem in our biology clocks.
+	I mean, we have to wait to do the jet time. It can cause problems with biological clocks.
+	The jet clock gives us a problem with living clocks.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This species of seagull is not a resident of the island, but will sometimes rest here a while.
+Top 9 Translations
+	These gulls were not the islanders, but are sometimes there for a small period of time.
+	These gull species are not resident on the Islands but occasionally rest here for a short period of time.
+	These gull classes are not inhabitants but sometimes they rest for a little while here.
+	This kind of gull does not reside on the island, but at times rests for a while.
+	This kind of gull does not live on the island, but sometimes it breaks for some time here.
+	The gulls do not live on the island but occasionally rest here for a while.
+	In the meantime the gulls do not belong on the island, but are sometimes taken a break of time here; in other words, I will try to stop by and have a chance to do what I want to do and do what I do not want with it.
+	The gulls not inhabitants, but sometimes they can rest here for some time while they need to wait and see for themselves in the land.
+	While the husk on the island is not inhabited by the people, it has sometimes been the place where he will rest for some time because he has been given the chance to become an active member of the community.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doesn't it strike you as strange that it's the middle of May and it's snowing?
+Top 9 Translations
+	Don't you find it strange it's mid-May and the snow, that it's just in the middle of May?
+	You think the strange thing is this is mid—May and snow?
+	You wouldn't find it odd if this was mid-May, snowing? You'd think I didn't know that.
+	It's snowing in mid-May, isn't that weird to you?
+	Isn't it strange that it snowed in the middle of May?
+	Well, now it's snowing in midMay. Don't you think it is strange?
+	You think it's weird that it was just snowing in the middle of May?
+	Isn't it a surprise, that when it snowed in mid-May, it did already snow?
+	Doesn't that surprise you if it was snowing in mid-May?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I didn't stay behind because I wanted to, I did so because it was my duty.
+Top 9 Translations
+	- I'm not staying because I want to stay, but because it's my job to do it.
+	And I didn't leave because I wanted to stay, because I did that because it was my job.
+	I did not stay because I wanted to stay, because I did because it's my job.
+	- It's not because I wanted to stay, because that is my responsibility, that's why I did it.
+	I haven't left for me to do this because I wish I could stay here because it's my responsibility.
+	Not because I wanted to be. 'Cause that's my job.
+	I don't stay around just because I thought that I was doing it because it was my duty.
+	I don't stay with anyone because I think it's my job to do it.
+	I'm not staying with you because I think I am doing it because it's my job.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: What angered me wasn't his resignation but the manner in which he did it.
+Top 9 Translations
+	It didn't take him to quit. This was how he resigned.
+	It doesn't make me quit. It's his way of quit.
+	His way of doing his job, isn't it? I don't think he's got my temper on the job.
+	What angered me was that he quit his post, that the way he did it, not what he did when he resigned.
+	I was very angry about his resignation, all the way that he did, not the way he did it.
+	It outraged me that it was all his resignation, all his way, not what he had when he resigned.
+	He wasn't quitting, and he was just doing it, and he didn't get me angry, because he didn't quit.
+	He didn't resign, but what he did when he did, was he didn't want to provoke me because he resigned.
+	And instead of resigning, he did it, which was not the reason I got mad about it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you can't make out what's written, change the zoom level and it'll become clearer.
+Top 9 Translations
+	When you can't understand text, change your magnification level, it'll get a little sharper.
+	If you're not able to understand the text, you change the magnification, and that will be clearer.
+	If you don't find out what the letter says, change the magnification, it will be clearer.
+	If you can't see what's in it and change the zoom, it'll become clearer.
+	So if you don't make sense of what you wrote about it, change the scaling level, it'll make it much clearer.
+	If you can't understand what's written, you're changing in the zooming formation, it'll become clearer.
+	You just can't see the things that have been written and modify the scale, that's all that can be made clearer.
+	And if you don't get what has been written, if you're not in a position... to change your scaling level, it'll be clearer.
+	If you can't understand what's written, modify the scale, you'd have become clearer.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a wide range of issues that we need to discuss as soon as possible.
+Top 9 Translations
+	We need to discuss all kinds of problems as soon as possible.
+	The issues at stake need to be discussed as soon as possible.
+	We need to address all kinds of issues as quickly as possible.
+	There's a wide variety of questions that we have to discuss as soon as possible.
+	There are a variety of problems that we need to discuss as soon as we can.
+	There are a variety of questions we need to discuss as soon as possible.
+	The questions we need to address as quickly as possible are quite wide-ranging in scope.
+	The issues we need to address as soon as possible are very broad.
+	We need to address as soon as we can, as broad a scope as possible.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being wounded in the battle, the solider fought on and was awarded a medal for bravery.
+Top 9 Translations
+	Despite the damage done on the battlefield, those who united continue to do so, and they will be given their medal for heroism and bravery.
+	Although the wounded in the battlefield, the Allies remain in the battlefield and are awarded a medal of courage and courage.
+	Despite the heavy wounds sustained in battle, the unites have fought and received a gallantry medal.
+	Despite being wounded in battle, the garrison continues fighting with a medal of honor from a warrior.
+	Despite the injuries sustained in battle, the solid army has continued fighting, and has been honored with a medal in honour in the service of a warrior.
+	Despite the wounds in the fight, the reinforced forces continued fighting and been awarded a medal of courage.
+	Even though he has been injured during the fighting, the determined are fighting and won the Medals of Vulture.
+	And though he's injured in the fight, the strong have fought and received a medal of might and courage.
+	Although he was wounded in a war, determined men fought and earned a medal in courage.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rain will persist for most of the morning, but we are expecting a brighter afternoon.
+Top 9 Translations
+	It will rain mostly this morning, but tomorrow afternoon we anticipate weather to become clearer as a matter of fact.
+	It rains mostly in the mornin', but the weather is gonna be even clearer tomorrow afternoon.
+	It is raining most of the morning, but the weather is expected to be even clearer tomorrow afternoon.
+	Rains will last all morning but we look forward to a brighter day after noon.
+	Rain will continue throughout the morning, but we look forward to a brighter noontime.
+	Rain will be coming all morning, but we look forward to a brighter afternoon.
+	Most of the days will continue rain, although we look forward to a brighter afternoon.
+	Most of this rain would last, but we'd look forward to the brighter of the afternoon.
+	The rain lasts for most the day, but we look forward to lighter afternoons.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the mating season, the male of the species calls out with a distinctive gu-gu sound.
+Top 9 Translations
+	In matery seasons, male species had a special grunt when barking.
+	During these mating periods the male species have a special grunt during their barking.
+	In matery seasons, male species can cry with a unique grunt.
+	During the mating season male at the call of a special gugu's voice.
+	During the mating season the males called for a special gugu's voice.
+	In mating seasons the men in calling on the sound of special gugus.
+	In the mating season, when the male comes, the male will have a unique voice of gulls.
+	"When the male penguins are called in in, there is a unique sound of rumour."
+	A male penguin calls when she does mating season with his unique call to grunt.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Marie Curie, one of the best-known pioneers in working with radiation, died in 1934.
+Top 9 Translations
+	Mary Cori, one of the best-known pioneers in radiation work, died in 1934.
+	One of the world's most famous pioneers in the field of radiation, Marie Courie, died in 1934.
+	Mary Curi, one of the most well-known pioneers of radiation work, died in 1934.
+	Marie Curie was at the forefront of radiation work-related deaths in 1934.
+	Marie centie was one of the most famous pioneers in the history of radiation work in 1934.
+	Marie Curie was one of the most famous champions in the history of radiological work in 1934.
+	Mary Kerry, who worked with radiation the best known pioneer, died in 1934.
+	Mary Krien the most famous vanguard of radiation cooperation, Mary Currie, died in 1934.
+	Mary Creel. The best known pioneer in working on radiation. Mary Cory passed away in 1934.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Deep sea oil exploration is a dirty and dangerous business.
+Top 9 Translations
+	Deep-sea oil exploration is a dirty and dangerous industry.
+	Deep-sea oil exploration is a dirty and dangerous industry.
+	Deep-sea oil exploration is a dirty and dangerous industry.
+	Deep-sea oil exploration is a dirty and dangerous thing.
+	The exploration for oil in the deep sea is a filthy and dangerous thing.
+	Exploration of oil in the deep sea was a dirty, dangerous undertaking.
+	Deep-water oil exploitation is a dirty and dangerous business.
+	Deep water oil exploitation is a dirty, dangerous business.
+	Deepwater oil exploration is an unsettled and dangerous business.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of the neighbourhood was demolished in the 1940s when living conditions had deteriorated.
+Top 9 Translations
+	In the 1940s, most residential areas were destroyed when living conditions deteriorated further.
+	In the 1940s, when living conditions deteriorated further, most of the residential areas were demolished.
+	During the 1940s, most of the dwellings were demolished when living conditions deteriorated further.
+	Most of the local population was demolished in the 1940s, when living conditions deteriorated.
+	Most of the local settlements were demolished during the 1940s, when living conditions deteriorated.
+	Most of the local neighbourhoods were demolished in the 1940s, when living conditions deteriorated.
+	Most of this community had been damaged in the 1940s, when living conditions had deteriorated.
+	Most of this community had been damaged in the 1920s, when living conditions deteriorated.
+	The majority of this community had been damaged in the 1940s, when living conditions deteriorated.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists are yet to understand the full nutritional benefits of the humble olive.
+Top 9 Translations
+	Scientists have yet to recognize the full nutritional benefits associated with shallow olives.
+	Scientists have not recognized that shallow olives are fully nutritious.
+	Scientists have yet to realise the nutritional adequacy of the shallow olives.
+	Scientists were not aware that shallow olives can have all the benefits of nutrition.
+	Scientists also do not understand the full nutritional benefits that light olives can bring.
+	Scientists are unaware that shallow olives bring the full benefits in terms of nutrients.
+	The nutritional benefits of pristine olives have not yet been fully understood by scientists.
+	Scientists do not really fully understand the nutritional benefits of low olives.
+	Scientists still haven't fully understood the nutritional benefits of teen olives.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You can come and observe us performing this operation, if you want.
+Top 9 Translations
+	So if you've got a need you can come here and observe us, you can do this.
+	If there's a need, you can come and see us doing this operation.
+	You're welcome to visit us, do your work if you want.
+	And we're going to go see that operation, if you want.
+	So you can come visit in here and see that we do this operation.
+	You could come and see us in that operation... and we could get out of it.
+	You can come see me if you like, and see us on the ground to do the work.
+	If you want, you can come to see us to do it.
+	If you wish, you can come to see us to do this.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Bears used to be very widespread in this part of the country, but nobody has seen one for ten years.
+Top 9 Translations
+	The bears were popular in the country the past few years, yet no one's seen them in a decade.
+	Bears were popular in this country in the past decade. But not a single bear in that country has been seen for ten years.
+	Bears have spread around the country in the past, but no one has seen bears in the last 10 years.
+	The bear was once very popular in this country but during the last 10 years no one saw a bear's gesture.
+	Bears used to be common in this city, but within 10 years no one has seen the bear hand signals.
+	There were bears everywhere in the country, and in 10 years no one saw the bears dotting in the country.
+	Bear is a very common part, but no one has seen any bear for the last 10 years.
+	Bears used to be so popular around here, but nobody has seen a bear for 10 years.
+	A bear was very common in this part of the globe but no one's seen a bear in the last 10 years.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Ben was summoned to the court for jury duty, but took a doctor's note with him and was excused.
+Top 9 Translations
+	Ben was called as a juror to the court, but he was removable with a note from the doctor.
+	Ben had been summoned to sit on a jury in court, but with the doctor's note, he had been removed from office.
+	Ben was summoned to serve on a jury in the courtroom, but he was removed with a doctor's note.
+	Ben was summoned to the courthouse to be a jury, and he took his notes and he was relieved.
+	Ben was summoned to the judge's court to join the jury but his notebooks were taken and released.
+	Ben had been summoned before the court as a jury, but the doctors' notes had been brought with him, and they had been released.
+	Ben was called before a jury, and then was dismissed from service with a doctor's note.
+	Ben is being called up to the jury, but brought with him a note from a doctor... who was dismissed.
+	Ben was called into a jury and was dismissed from the office, with a note for a doctor.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The police crossed four states in pursuit of the bank robber.
+Top 9 Translations
+	Police ran across four states to pursue bank robbers.
+	The police run across four states to chase bank robbers.
+	The police were running across four counties to go after bank robbers.
+	The police pursued bank robbers through four counties.
+	Police pursued bank robbers through four states.
+	Police pursue bank robbers through four Länder.
+	The police were crossing four States to pursue the robber of the bank.
+	Police crossed four counties to track up the robber of the bank.
+	Police crossed four counties and traced the bank robber.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After three years of recession, the country's economy is finally looking a lot healthier.
+Top 9 Translations
+	After three years of recession, the country’s economy finally looked healthier.
+	After 3 years of recession, the economy of this country finally looks healthier.
+	After three years in decline, the economy looks healthier.
+	It is clear that the economy eventually seems to be healthier.
+	Ultimately, the national economy seemed to be healthier.
+	The country's economy would eventually seem to be healthier.
+	The economy is finally healthier at the domestic level.
+	Finally, the national economy has become healthier.
+	The country’s economy is finally healthier.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We altered our final forecast of yearly profits due to more accurate advertising and marketing costs.
+Top 9 Translations
+	We have revised our final annual profit forecast since the publicity and sales costs have become even more accurate.
+	We revised our final annual profits forecasts because the advertising and sales costs were more accurate.
+	Our last annual profit forecast was revised because of more accurate advertising and sales costs.
+	We changed the final forecast of the annual profit because of the more precise advertising and sale costs which changed the final forecast of our annual profit.
+	We changed the final projections of the annual profit because advertising and selling costs became more precise, changing the final projections for the annual profits.
+	We changed our final projections of annual profits because the advertising and marketing costs become more precise, thus changing our eventual projections of annual profits.
+	We revised our final forecast of annual profits since there was a more accurate advertising and marketing cost.
+	We have modified our final forecast annual profit because more precise advertising and sales costs.
+	We modified our final projections of annual profits because it was more precise in advertising and sales costs.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two wolves ran through the forest in pursuit of a deer.
+Top 9 Translations
+	Two wolfes running through the forest chasing the reindeer one by one.
+	Two wolfes passing through the woods after a stork.
+	Two wolves across the forest chasing each other by the deer.
+	Two wolves over through the forest after the deer.
+	Both wolves cross the woods after the deer.
+	Two wolves went through the forest and chased deer.
+	"Two werewolves crossing the forest seeking a deer."
+	Two wolves crossing the forest after a deer.
+	The two wolves went across the woods looking for a deer.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The economy touches every aspect of our lives.
+Top 9 Translations
+	The economy is about every aspect of our lives.
+	Economy relates to every aspect of our lives.
+	Economics are relevant in all the aspects of our lives.
+	Our economy strikes across a wide range of areas of life.
+	Our economies touch every aspect of life.
+	Our economy touches on all aspects of life.
+	Economics impact on every aspect of our lives.
+	The economy has affected every aspect of our lives.
+	The economy has a bearing on all aspects of our lives.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Like most safety features, the air bag is very rarely used but when called upon, must operate perfectly.
+Top 9 Translations
+	As with most safety performances, air bags are rarely used but, once called, they must be handled in a well-organized manner.
+	As in most security features, gas bags were rarely used but when called, perfect operations were required.
+	Like most security features, air bags are rarely used but once called they must be properly operated.
+	As with most security performances, air bags are rarely used but at the request of them their functioning must be in order and intact.
+	As with most safety performances, airbags are very rarely used, but when required, the air bag must work in order to be unscathed.
+	As in most security performance systems, airbags were rarely used but, when requested, they had to be functioning well and seamlessly.
+	As with most safety features, the airbag is rarely used but when required, must be well run and must not be bypassed.
+	Airbags, like most safety features, are rarely used, but they must operate well in the case of demands and must not fail to do so.
+	As in most security features, air bags are rarely used but must be operated perfectly and must not fail to do so when requested to do so.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The cup will remain here at the clubhouse for a month on display before being sent to the museum.
+Top 9 Translations
+	The cup would stay for more than a month in the club lobby to be exhibited and then sent to the museum.
+	The tea cup will remain for over a month, at the club hall, at a display, and then be sent to the museum.
+	They will stay at the club hall for more than one month to exhibit before they are sent to the museum.
+	This cup will remain in the auditorium for a month to exhibit, and then be sent to the museum.
+	The cup will be left in the lobby for one month at a time and will then be sent to the museum.
+	The cup is to be kept for a month in the hall for the display before it is sent to the museum.
+	The glasses will remain at your store for the rest of the month before they go to the museum.
+	Before they're sent in to the museum, they'll have been left in the shop. They'll be shown for a month.
+	The drinks will be put in place until it enters a museum for a month.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jed ran the whole business after his father died and left him the company.
+Top 9 Translations
+	After Dad, Jed had run the whole business and then left it at him.
+	And then when father died, Jed managed a whole business and dumped it on him.
+	So, after Dad died, Jed runs his whole business, then dumps it to him.
+	Jade runs the business after his dad died, and he leaves the company, and then he leaves him.
+	Jed managed his whole business after Dad passed away, and left him for the company.
+	Jed managed his business after his father died, he left. He left him for the company.
+	After Daddy died, Jed was running the entire business and had left his company.
+	After Dad's death, jed managed the entire deal and left his company.
+	After his death, Jen managed the whole business and left his company.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The garden is a paradise for flowers in particular. We have seventeen varieties of roses.
+Top 9 Translations
+	Our garden is a flower paradise we've had 17 roses and roses.
+	Gardens are a flower's paradise. We have 17 roses.
+	The garden was a beautiful heaven, and we have seventeen species of roses.
+	And this garden, particularly a flower sky. And we've got 17 roses, they've got 17 flowers.
+	This garden, particularly the garden, we have 17 kinds of flowers, and there are 17 of them.
+	This garden, in particular the flower heaven. We've got 17 flowers; and there're 17 flowers.
+	Horticulture is particularly flowered paradise, with 17 roses in number, and we have lots of flowers.
+	Horticulture has a flowery heaven, 17 roses, and we have flowers of many.
+	gardening has a paradise of flowers, 17 roses, we have lots of flowers.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The terrible weather resulted in severe traffic delays and the closure of the airport.
+Top 9 Translations
+	The adverse weather situation has led to serious traffic delays and airport closures.
+	Poor weather had resulted in serious traffic delays and airport closures.
+	The severe climate caused serious delays in traffic and the closure of the airport.
+	The poor climate resulted in major delays in the closure of traffic and airports.
+	The climate was bad, leading to serious delays in traffic and the closure of airports.
+	Terrible weather conditions have led to major delays in transporting traffic and airport closures.
+	This terrible weather contributed to serious delays in traffic and to the closure of airports.
+	This terrible weather caused serious traffic delays and closure of the airport.
+	This terrible weather resulted in serious delays for traffic and an airport closure.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "What is more," Clarissa said, "I feel I'm being ignored."
+Top 9 Translations
+	What else, Clarissa, says, "I feel like I'm being ignored."
+	"What else, Clara," in the response, "I feel like I'm being ignored."
+	"What's the matter, Clarissa"? And they said, "I feel like I'm being ignored."
+	And Clarissa told me... #I felt so neglected #
+	"And "Clarisa." She said "I felt "forgiven."
+	And "and Clarissa," he said, "l feel that people are ignoring me."
+	And "Whatever's worse" Clarissa said, "I feel I've been ignored."
+	Even worse. Clarissa was saying, "I feel I'm being neglected."
+	And Clarissa said, "I feel I'm ignored."
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas graduated with a specialist degree in the field of criminology.
+Top 9 Translations
+	Thomas graduated from work and obtained a professional degree in criminology.
+	With a graduate degree, Thomas has obtained a degree in criminology.
+	Thomas has graduated and a degree in criminology.
+	Dr. Thomas has graduated and pursued special degrees in criminology.
+	Dr. Thomas graduate studies as a professional degree in criminology.
+	Dr. Thomas graduated as a specialist in the field of criminology.
+	Thomas has a professional degree in criminology.
+	Thomas obtained a professional degree in criminology.
+	Thomas has obtained degrees in the field of criminology.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lasers can measure distances with incredible precision.
+Top 9 Translations
+	Laser devices can measure distances by an amazingly sophisticated distance.
+	Lasers are capable of measuring distance at alarming distances and precision.
+	Lasers can measure distance at alarming, precise distance.
+	Lasers are able to measure very well the distance from it as if they were so impressively accurate.
+	Laser is capable of a strikingly accurate measurement of distance.
+	Laser is able to measure the range with alarming accuracy.
+	The laser can measure distance by an incredible level of accuracy.
+	The lasers can measure their distance in an incredible measure of accuracy.
+	Lasers measure distance with insolent accuracy.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: My two cousins were so excited at the start of the war, they ran downtown and signed up immediately.
+Top 9 Translations
+	When my cousin got on the war, he came down downtown to sign up for the stage right away.
+	My cousin was so excited when he was on his battle, he ran around town and he immediately signed up.
+	My cousin is very excited when we start the war and he walks into town immediately sign up for the stage.
+	Both of my cousins were so excited at the war when they broke up, they ran downtown and registered right away.
+	Both my cousins were so excited when the war broke out, they stormed downtown and signed in immediately.
+	My cousins were so excited the war started, they rushed into town and went to sign up and went to the office immediately.
+	So when we started fighting, my two cousins were just so excited, they went downtown, they signed up to the city immediately.
+	So the first moment my two cousins were in the war, and they rushed into the city and they immediately registered to the city.
+	My cousins got excited when the war started.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This machine scans the user's eye and can confirm identity.
+Top 9 Translations
+	The machine can scan the user's visual, confirm his or her identity.
+	This machine is able to scan the view, identify the user, verify his/her identity.
+	This machine scans its users' views and confirms their identity, and they don't know who they are.
+	This machine can scan users' eyes to confirm their identity.
+	So this machine is an eye scan of users to identify them.
+	This machine's gonna scan the users' eyes to verify their identity.
+	This machine scans users' eyes and can identify them.
+	The machine scans users' eyes, and can confirm their identities.
+	The machine scand the eyes of the users and is capable of identifying them.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The inquiry into the accident will be overseen by Malcolm Jones, a former army general.
+Top 9 Translations
+	The investigation of the incident will be monitored by former General Malcolm Jones, an ex General of the Military Services, as the military chief in charge of the investigation of the incident.
+	The investigation of these accidents will be supervised by former General Malcolm Jones, who will be one of the former military commanders.
+	An investigation into the accident will be supervised by former General Malcolm Jones, a former officer in the military wing.
+	The present incident investigation would be supervised by former Army General Malcolm Jones.
+	This accident investigation is under the supervision of former Army General Malcolm Jones.
+	The incident investigation will be overseen by former Army General Malcolm Jones.
+	The investigation into the incident was supervised by Malcolm Jones, former Commander-in-Chief of the Army.
+	Accident Investigations are overseen by Malcolm Jones, former Commander Commander in chief of the Army.
+	The incident investigation was supervised by Malcolm Jones, the former Army Commander-in-Chief.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though Carla's remarks seem insulting, if you see them in context, they're actually quite innocent.
+Top 9 Translations
+	Even though Carla's words are very insulting, if you look at it in your background, they are actually naive and innocuous.
+	Despite Carla's insults, and if you can see in background, then they're naive.
+	Even though Carla's words look offensive, if you'll be able to see from your background, they're innocent.
+	Although Carla sounds mean, if you see the context, they're completely innocent.
+	Although Carla seemed too harsh... they'd have been completely innocent when you came across it.
+	It's a little too mean for Carla to talk, but they're totally clean when you see what's around them.
+	But even if what Carla said seemed humiliating, if you see them in terms, they were innocent.
+	Despite the insulting state of Carla, if you see them from where they are, then they're innocent.
+	Even though Carla's speech was degrading, if you looked at them in their context, it was innocent, as you would know.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even early in the city's life, the quest for knowledge led to the founding of a university.
+Top 9 Translations
+	Even in the early mid-city period the search for knowledge led to the establishment of a university.
+	Even in the very early part of the city, knowledge-seeking efforts had led to the establishment of a university.
+	Even in the early hours of the city, an effort to develop knowledge had led to the establishment of a university.
+	It's even in New York City's early days, intellectual exploration leading to the establishment of a university.
+	Even in the early years of New York City, the discovery of knowledge led to the establishment of a university, or university or something like this.
+	Even in New York City in its original days, the knowledge exploration led to the creation of a university.
+	The early urban search for knowledge has led to the creation of a university.
+	The early days of the city when seeking knowledge resulted in the establishment of a university.
+	Early in the cities, looking for knowledge has led to the establishment of a university.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The three teenagers spent a cold night on the exposed mountain before rescuers arrived.
+Top 9 Translations
+	Three adolescents stayed overnight on open hills and in cold nights before the rescuer arrived.
+	Pending the arrival of the rescuer, three adolescents spent their nights in open mountains and a chilling night.
+	Before the survivors arrived, three juveniles spent the nights on the mountain in the open and in a chilling night.
+	The adolescents spent a cold night at the peak of the open mountain, pending the arrival of the rescue personnel.
+	These three juveniles spent a night in the open air on the heights prior to the arrival of the rescue personnel.
+	Before the rescue team arrived, the three juveniles spent one night of coldness at the top of Mount Open.
+	Before the rescue team arrives the three teenagers spent the cold night in a field of open mountains.
+	Before help team arrives, three teenagers spend a cold night in a mountain open in the open.
+	Three teenagers spent the night on a cold, open mountain, just before rescue teams arrived.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Politicians have been arguing about the reasons for the decline in the number of unemployed.
+Top 9 Translations
+	The political figures have consistently argued for what the reason was for the decrease in the number of unemployed.
+	Politicians have consistently cited reasons for declining the number of unemployed.
+	Political figures have long believed that the reason for the decrease in the number of unemployed is that it was a matter of reason.
+	There was a constant debate among politicians on the reasons why the number of unemployed had declined.
+	Politicians debated the reasons for the decline of unemployment.
+	There is an endless debate among politicians over the reasons why unemployment has declined.
+	Politicians have continuously contested the reasons for the decline in unemployment.
+	Politicians constantly argue the reasons for the decline in unemployment.
+	Politicians continue to argue the reasons for falling unemployment.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charles Lindbergh was one of the early pioneers in powered flight and crossed the Atlantic in 1927.
+Top 9 Translations
+	Charlie Lindbergh was one of the pioneers in a dynamic flight, crossing the Atlantic Ocean in 1927.
+	Charly Lindbergh was in the early days one of the pioneers in power flights, crossing the Atlantic Ocean in 1927.
+	Charlie Lindbergh was one of the early pioneers of the drive flight, crossing the Atlantic Ocean in 1927.
+	Charles Lindbergh was among the oldest pioneers in power flights and crossed the Atlantic Ocean in 1927.
+	Charles Lindbergh was among the early pioneers in a power flight and then crossed the Atlantic Ocean in 1927.
+	Charles Lindbergh, the earliest in the power flight, has been one of the earlier pioneers and has crossed over the Atlantic Ocean in 1927.
+	Charles Lindbergh was among the early momentum pioneers, passing across the Atlantic Ocean in 1927.
+	Charles Lindbergh, one of the early motor flight pioneers who crossed the Atlantic in 1927.
+	Charles Lindbergh, one of the early engines of flight, had crossed the Atlantic Ocean in 1927.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We used advertising to generate interest in the product and then educated people on how to use it.
+Top 9 Translations
+	In this way, the public is being trained on how to use this product.
+	And the people are taught to use the product.
+	The company's blog, "Sweeting the use of the product," is being launched in the city of Nairobi.
+	We use the advertisement to create interest in the product and learn from people how to use it.
+	We use advertising to mobilize interest in the product and learn about its use from people.
+	We use advertisements to get interest in the product and then learn from people how to use it.
+	Advertising creates interest in these products, then educates people to use them.
+	Advertisements attract interest in these goods, and then educate people on how to make use of them.
+	Advertisement raises the interest in these products. And teach people how to use them.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It never occurred to me that Mike and Cherie's marriage was in any trouble.
+Top 9 Translations
+	I didn't think Mike and Cherry's marriage would be in trouble.
+	It didn't come as a surprise to me that Mike and Charlie's marriage might be troublesome.
+	I had no idea Michael would have trouble getting married to Cherie.
+	I never thought how Michael's and Cherie's marriage would get you into trouble.
+	We never thought there was anything in this mess that Mike and Cherie might have gotten into.
+	I'd never guess what trouble there was with Mike and Cherie's marriage.
+	I never wanted Mike and Cherry getting in trouble with their marriage.
+	I never thought the marriage of Mike and Chili would ever get into trouble.
+	I never thought that Michael and Cherie were marrying in a bad way.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: All attempts to reach Darren at home on his phone met with failure.
+Top 9 Translations
+	None of them tried to call Darren from his home.
+	All attempts to call Darren at home failed.
+	All attempts at calling Darren at home failed.
+	Any attempt to approach Darren through the family phone failed.
+	All efforts to approach Darren via his phone at home failed.
+	Every attempt at reaching Darren by telephone from the house failed.
+	Efforts to connect with Darren on his home cell phone failed.
+	Attempts to contact Darren with his cell phone at home failed.
+	In all the attempts to communicate with Darren with a mobile phone on the home page failed.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Any problems arising from the new contract are not my concern. I warned against signing it.
+Top 9 Translations
+	New contracts raise issues that are not a concern to me. I have warned of not signing these new contracts.
+	New contracts raise problems that are not a problem for my concern, as I warned against having to sign new contracts.
+	The problems raised by the new contracts are not of my concern, as I cautioned against signing the new contracts.
+	I am afraid of the problems that will arise with new contracts, I caution against signing new contracts, I warn against signing new ones.
+	I am not worried about the question of new contracts, I warned against signing new contracts, I warned against signing new contracts.
+	I am not worried about a problem with a new contract, and I warned against it, and I warned against signing a new contract.
+	I've been warned against any new contract having any problem that I had with it.
+	I didn't have anything to do with any new contracts that I've just warned you not to sign.
+	It doesn't matter any of the issues of any new contracts that I might have, but I had warned you before not to sign them.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director was accused of being inflexible in the way he ran the company.
+Top 9 Translations
+	He was accused of inflexibility by directors in operating the company.
+	He was accused of rigidity and inflexibility on the part of the directors in the course of operating the company.
+	He is accused of rigidity in the management of his company by the directors.
+	The director of the company had been accused of being rigid in the way in which he operated the company.
+	The director was accused of rigidity on the way the company had been run, but he said that it had not changed the way in which it had been operated.
+	The director of the company was accused of being rigidly in its way of operating the company.
+	The Director is accused of rigidity in the way that a company is managed.
+	The director was accused of being rigidly entrenched in the way the company is managed.
+	The director is charged with rigidity with the way the company is managed.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the tough economic climate, the company GTV has shrunk by over 40%.
+Top 9 Translations
+	GTV contracted 40 per cent under difficult economic climates.
+	In a difficult economic climate, GtV has reduced its shrinkage rate by 40 per cent.
+	In a difficult economic climate, GTV reduced the contraction rate by 40 per cent.
+	In a difficult economic environment, GTV has fallen by more than 40 per cent.
+	GTV lost more than 40% in the harsh economic environment.
+	In the severe economic environment, GTV lost by more than 40 per cent.
+	In an economic environment like this, Gitt has reduced television by more than 40 per cent.
+	The Geet television company had shrunk by over 40 per cent in an harsh economic environment.
+	In an economic situation that was difficult, Gitt TV reduced by more than 40 per cent.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Modern conditions such as diabetes and alcohol abuse has caused life expectancy to fall in some countries.
+Top 9 Translations
+	Modern situations, such as diabetes and alcohol abuse, have reduced life expectancy in a number of countries.
+	Modern conditions, such as diabetes, alcohol abuse and other forms of alcohol abuse, have contributed to the decline in life expectancy in a number of countries.
+	Modern conditions such as diabetes and alcohol abuse caused life expectancy to decline in some countries.
+	The modern state of life in several countries, such as diabetes and alcoholism, contributes to a decline in life expectancy.
+	The modern status of some countries — such as diabetes mellitus and alcohol — led to a decline in life expectancy.
+	Modern conditions such as diabetes and alcohol abuse in some countries have led to a decline in life expectancy.
+	Modern conditions, such as diabetes and alcoholism, have resulted in a drop in life expectancy in some countries.
+	Modern conditions, such as diabetes and alcohol use, have led to the decline of life expectancy in a number of countries.
+	Modern status such as diabetes mellitus and alcoholism has led to the decline in life expectancy in some countries.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The words of his resignation letter implied he was unhappy with several of his former colleagues.
+Top 9 Translations
+	His remarks in his letter of resignation imply that he is unhappy with his earlier colleagues.
+	The remarks made in his resignation implied he was dissatisfied with his former colleagues.
+	The words in his letter of resignation suggest he would be dissatisfied with his former colleagues.
+	His resignations implicitly imply that he is not happy with several of his former colleagues.
+	His resignation letters imply a sense of discomfort on the part of him and some of his former colleagues.
+	His resignation implied an unhappy statement by him and a few of his predecessors.
+	The letter of his resignation implies that he is not pleased with those of his previous colleagues.
+	The language in his letter of resignation implies that he and his former colleagues were disillusioned.
+	His letters of resignation implied a displeasure between him and several of his former colleagues.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas never disclosed the negative role he had in taking over the company
+Top 9 Translations
+	Thomas never told me anything... about his adverse role in the company of purchasing money.
+	Thomas never disclosed any negative role for his company in purchasing companies.
+	Thomas never confessed to his negative character in purchasing the company.
+	Thomas never revealed that he took the company into his own hands.
+	Thomas is never released in the negatives of taking control of the company.
+	Thomas never revealed the negative effect of taking over a company.
+	Thomas has never told us anything about his adverse role as leader of the company.
+	Thomas has never disclosed the negative role he played as the director of the company.
+	Thomas has never told us the negative roles he plays as the head of the company.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Dr Hartson is an animal expert, but I don't believe the scope of his expertise is as wide as you think.
+Top 9 Translations
+	Dr. Hartson is an apothectator, but I think he's not as big a specialty as you thought he was.
+	Dr Hatsson is a poultry specialist, but I'm not sure he's a special skill the way you imagined.
+	Dr. Hartson is a poultry expert but I'd rather think he's more than you'd think for himself.
+	- Dr. Hartson is the animal expert. - But I am not convinced that his range is so wide-ranging as you think it would be.
+	Dr. Hartson's a animalist, but I don't believe his profession would be as broad as you think it will be.
+	Dr Hartson's an animal expert, but I don't believe the field of expertise he's going to be as broad as you think it is.
+	Dr Harton's an animal specialist, but I can't believe he has more probative expertise than you think.
+	Doctor Hatton was an animal specialist, and I don't think he did it, but he was very much more specialized than you think.
+	Dr. Harton is an animal expert, but I'm not convinced that he has something much broader than you think about it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We understand it's late and we don't mean to impose, but we have some important questions for you.
+Top 9 Translations
+	We knew it was late. We didn't mean to impose it, but there were some important questions I would like to ask you.
+	We know it's late, and it is not our intention to impose... but we have some important questions to ask you.
+	We know it's late, and it wasn't our intention to impose, but we have a few important questions for you.
+	It's late and we didn't intend to impose it, but we've got some important questions to ask you.
+	We know that it's getting late, and we didn't want to force it, but there's something really important that I need to ask you.
+	We're trying to get this thing started, which we know is very late, and we don't mean to impose, but we have important questions for you.
+	We know late, but we're not about to force, but there's something that's important to ask you.
+	We know it's late. We didn't want to force, but there are some important questions we need to ask you.
+	I know it's late, but we don't want to force, but I've got certain important questions to ask you.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: On arriving at the theatre, the Queen was presented with a large bouquet of tulips by a young girl.
+Top 9 Translations
+	On arrival in the theatre, a young girl presented the queen a bouquet of tulips.
+	When she arrived at the theatre, she presented a great bouquet of tulips to the Queen.
+	When a young girl arrived in the theatre, she presented a large tulip to the Queen.
+	When she arrived at the theatre a young girl brought a bunch of tulips from the Queen's toproof.
+	On arrival in the theatre, a girl brought the Queen a great pack of tarmac husks of tulips.
+	Upon arrival, a maid brought a swagger of tulips to Queen Tulips in the rain cloaks.
+	When the Queen arrived there, a girl handed the queen a swathe of cylindrical flower.
+	On the Queen's arrival, a female girl gave the Queen a collection of round wood blossoms.
+	Upon arriving in the theater, a young lady handed Queen a bunch of round and woodflowers to her.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The suspect's complaints about his treatment by police were noted and he was taken into custody.
+Top 9 Translations
+	The Working Group took note of allegations that the police had ill-treated him and detained him.
+	The Working Group notes the allegations of ill-treatment of him by the police by the suspect who was taken into custody.
+	The Working Group has taken into consideration allegations of ill-treatment by the police and holds him in custody.
+	Allegations of police ill-treatment by suspects have been brought to light and detention has been carried out.
+	The allegations of police mistreatment were noted and detained by the suspect.
+	Complaints of ill-treatment of him at the police level by the suspect have been noted and taken into custody.
+	A complaint against the police against him has been brought to light, and he has been taken into custody.
+	The complaint by a suspect regarding his treatment by the police was brought to the attention of the complainant, whom he was taking into custody.
+	His complaint to the police about the treatment of him was brought to attention and he was taken into custody.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "We will surely lessen our problems if we work together on a solution."
+Top 9 Translations
+	If we all worked together to find one solution, we'd be able to ease our troubles.
+	If we work together to find a solution, we can help us alleviate the problem.
+	If we do this together to find a solution, we'll be able to sort out what is going on, if not what it is we are.
+	"We will surely reduce problems if we work together to resolve them."
+	"We will definitely mitigate our problems If we work together. "
+	"We will certainly reduce our problems if we work together to solve them."
+	"Well, if we all work together to find solutions for the problem, we are sure to reduce the problem."
+	"We will definitely mitigate problems if we work together to find solutions to solve the problem."
+	"And if we work together in finding solutions to the problems, it will certainly be alleviated."
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We paid the lawyer to draw up a totally new will, one which left the three boys much better off.
+Top 9 Translations
+	We pay our counsel to prepare a whole new will so that those three children live a better life.
+	We're paying our lawyers to prepare our new will, a will that'll give the children better living.
+	We have paid us to hire lawyers, to prepare an entirely new will for the children to be able to make their lives better.
+	We have hired lawyers to draft a whole new will, a will left to the three boys, rather than do it better.
+	We've hired counsel to draft a brand-new will, which left three boys with a will to do better.
+	We have hired lawyers to draw a new will, a will left to three boys to do better.
+	We got a new attorney to work on a brand-new will for 3 boys to live better.
+	We paid our lawyers to prepare a brand-new testament so the three boys could live better.
+	We paid the lawyers to prepare a completely new Will, and the three boys got to live a better life.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The optimum time for making decisions is lunchtime.
+Top 9 Translations
+	Lunchtime would be the optimum time to take the decision.
+	Lunch break is the optimum time to make decisions.
+	It is lunchtime that will best make the decision.
+	The best time to make the decision is lunch time.
+	The best time for decision-making is lunch time.
+	Lunch is the best time to make a decision.
+	The best time for decisions is lunch time.
+	The best time to make decisions is lunch time.
+	The best time to decide is lunch time.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The elderly patient was considered too frail to survive an operation.
+Top 9 Translations
+	The elderly patients are considered too ill to survive by operation.
+	Elderly patients are considered to be too weak to survive with surgery.
+	Older patients are considered too weak to survive surgery.
+	Older patients are deemed weak enough to survive surgery.
+	Older patients are considered to be weak enough to survive the operation.
+	Older patients are seen as too weak to survive the operation.
+	Older persons are deemed to be too weak to survive through surgery.
+	The elderly are considered too weak to survive the operation.
+	Older persons are seen as too weak to be able to survive with surgery.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Last Sunday, the highest temperature in recorded history was registered.
+Top 9 Translations
+	Last week, the highest temperature in recorded history was recorded.
+	Last Sunday, record temperature of highest levels in record history was recorded.
+	Last Sunday, the record highest temperatures were recorded during recorded history.
+	Sunday was the biggest warm day in history.
+	Last Sunday was the day that we recorded the highest warmest year ever in our history.
+	It was a great, warm day in history with record time on Sundays.
+	On Sunday... since we recorded, the highest temperature was recorded on the list.
+	Last Sunday... the most temperature ever recorded is now recorded as being unsealed.
+	On Sunday the highest temperature ever registered since the recording.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Milk is an important source of calcium and vitamin D and is an important part of any diet.
+Top 9 Translations
+	Milk is an important source for calcium and vitamin D, and is an important component of all diets.
+	Milk is an important source of calcium and vitamin D and is an essential part of all diets.
+	Milk is an important source of calcium and vitamin D and is an essential part of all diets.
+	Milk as an important source of calcium, vitamin D and also an important part of any diet.
+	Milk is an important source of calcium and vitamin D as well as a major part of any diet.
+	Milk was also a significant part of any diet as a major source of calcium and vitamin D.
+	Milk is an important contribution to calcium and vitamin D, and it also forms an essential part of any diet.
+	Milk is the major source of calcium and vitamin D and a major component of any diet.
+	Milk is an important source of calcium and vitamin D, as well as an important part of any diet.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The customs officer was suspicious and called the man over to inspect his luggage more closely.
+Top 9 Translations
+	Customs officers suspected that the person in question had been informed in telephone communication to inspect his luggage.
+	Customs officials suspected that he had been notified by telephone of having his luggage checked.
+	Customs officials suspected that the individual was notified by phone of the searching of his luggage.
+	This customs officer is suspicious and asked him to come and have his luggage examined more closely.
+	The Customs officer was suspicious, and was instructed to come over and carry out more careful examinations of the luggage.
+	The customs official was suspicious, and he ordered him to come and examine his luggage more carefully.
+	Customs officials suspected of being in a suspicious condition, calling on the man to inspect his luggage more closely.
+	When the customs officials were suspicious, they called and requested the man to examine his baggage more closely.
+	Customs officers were suspicious and the man was requested on telephone to check his luggage more closely.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Are these old plates of vital importance or can I put them into storage?
+Top 9 Translations
+	Are these old dishes important, or will I set them aside to keep them?
+	These old plates are very important, or should I store them?
+	Are the older plates important to me or am I gonna store them in storage?
+	Is this all important or am I supposed to store these old ones?
+	Do you want to have a chance to keep your old plates or do I want to keep them?
+	Is this old form important, or can I just store it?
+	Are these old licences vital, or can I keep them?
+	These old plates are vital, or can I keep them in storage?
+	Do these old licenses have the necessary meaning, or can I store them?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The humble bee, so often taken for granted, plays a key role in agriculture.
+Top 9 Translations
+	The humble bees are often taken for granted and play a vital role in the agricultural sector.
+	The humble bees, which are too often taken for granted, played a key role in the agricultural sector.
+	Cheeky bees, often taken for granted, played a crucial role in the agricultural sector.
+	Pious bees are often regarded as justifiable and play an essential role in agriculture.
+	Quiet bees are often considered to be appropriate and play a key role in agriculture.
+	A humble Honeybee is often taken for granted and plays a key role in agriculture.
+	The pristine little bees are often considered to be playing a crucial role, as a matter of course, in agriculture.
+	Poorly little bees often have a crucial role to play in agriculture, often considered self-evident.
+	Poorly, tiny bees are often deemed to be playing a key role in agriculture as a matter of course.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Singers take care of their voice to guarantee optimum performance.
+Top 9 Translations
+	Singers protect their voices so as to safeguard their best performance.
+	Singers protect their voices to ensure the best performance.
+	singers defend their voices to protect their best performance.
+	Women singers should be very careful of their own voice in order to make the best performance possible.
+	Female singers must be alert to their voices so they can be able to serve the best.
+	Women singers have to watch their own voices to ensure that they perform for the best.
+	And listeners look after their voices so they can make their best performance.
+	The singers are taking care of themselves to ensure best performance.
+	The singers take good care of their voices to ensure the best performance.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even if you can't quit smoking, you should do your best to at least cut down a bit.
+Top 9 Translations
+	Even if you do, you should do your best to smoke less from one light cigarette at the very least.
+	Even if you can't stop smoking, you must do what it takes to at least make a small amount less smoke.
+	Even if you can't stop smoking, you're going to do your utmost to make at least one small smoke less smoke.
+	And even if you don't stop smoking, at least try hard to reduce that amount of smoke by the best you can.
+	If you don't quit smoking, at least try to get the smoke cut as far as possible.
+	Even if you can not quit smoking it should try your best to at least reduce the smoke a bit.
+	If you can't quit, you should try and cut point at least.
+	Even when you're not to quit, you're supposed to try to cut the points at least.
+	Even if you can't quit, you should try to cut points at least.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The charity dance raised $5000 and the hospital was able to buy a new heart scanner.
+Top 9 Translations
+	This charitable dance raised $5,000 and the hospital could be able to purchase a new heart scanner.
+	The charity party collected $5,000, and a new heart scanr was obtained at the hospital.
+	The charity prom raised $5,000 and the hospital was able to purchase a new heart scanner.
+	The charity dance raised $500, so it took the hospitals a new heart scanner.
+	We raised $500 for the charity dance and the hospital was able to replace a cardio-scanner.
+	The charity dance raised $500 and hospital was able to replace one heart scanner.
+	Charitable dance was raised at 5000, and the hospital also bought a new heart scanner.
+	Benevolent dances are raised up to 5000, and hospitals are buying a new heart scanner.
+	And charity dance was settled at 5,000, and the hospital bought a new heart scanner.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It is often only through long experiments of trial and error that scientific progress is made.
+Top 9 Translations
+	Scientific advances are often achieved through experimentation and error tests conducted over a long period of time.
+	Scientific advances have often been made via tests and error tests carried out over a long period of time.
+	Scientific progress is often done through long-term trials and error tests.
+	Scientific progress has often been achieved as a result of long-term experiments and mistakes.
+	Scientific progress is often the result of long-term experiments and mistakes.
+	Scientific progress was usually achieved through long-term experiments and mistakes.
+	Scientific advances have often been made through long-term tests and errors.
+	Scientific progress would usually be obtained only through long-term tests and error tests.
+	Scientific progress is often made only by long-term and error-based tests.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The working day in the factory is divided into day and night shifts.
+Top 9 Translations
+	Days worked on the factory were divided into day and night work.
+	Days worked at a factory were broken down into day work and night work.
+	Work days in the factories are divided into day and night work.
+	Days of work at the factory may be divided into day and night shifts.
+	Work days at the factory can be divided into day and night shifts.
+	The day worked in the factory can be broken down into hours and hours at night.
+	Days of work at the plant are divided into daytime and night shifts.
+	Work days of the factories were divided between daytime and night shifts.
+	Work days were divided into day jobs and night shifts.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The job is tough, lonely and yes, on occasion, even depressing.
+Top 9 Translations
+	It's tough, lonely and it's sometimes, sometimes it's even depressing.
+	This job is a hard, lonely job and it's sometimes, and sometimes, it's even frustrating.
+	It was hard, lonely and sometimes it was, sometimes it was even depressing.
+	It was difficult, so lonely, yeah, it was sometimes even so depressing.
+	This task was a difficult, very lonely one, yes, sometimes very depressing one.
+	It was a difficult, lonely endeavour, yes and sometimes even depressed.
+	This work is hard, lonely and, yes, sometimes even depressing.
+	Such work is difficult, lonely, and, yes and sometimes, even frustrating.
+	Such work is hard and lonely and, indeed, sometimes even frustrating.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The shopping centre was built surrounded by a vast extent of concrete for parking.
+Top 9 Translations
+	The mall can park a garage, which is surrounded by large amounts of concrete concrete.
+	The shopping centre is surrounded by large quantities of concrete concrete and can stop.
+	The shopping centre was surrounded with a great volume of concrete concrete that allowed it to stop.
+	The mall was constructed with huge quantities of concrete around the parking lot.
+	It was built with a huge number of concretes surrounded the parking lot.
+	The shopping mall is built using large quantities of concrete to surrounded the parking lot.
+	The shopping centre is built surrounded by large areas of concrete concrete for parking purposes.
+	It is built around large concrete concrete blocks to be used for parking.
+	The malls were built around large areas of concrete concrete and were provided for parking.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Every person in this room has played an important part in the success of the company.
+Top 9 Translations
+	Everyone in this Chamber plays a major part in the company's success.
+	Everyone present in this room took on a major role in this company's success.
+	Everyone in this Hall has played a significant role in this company's success.
+	Every person on the bench plays an important role in the company's success.
+	Everyone at the seat played a key role in the success of the company.
+	Everyone in the table is playing a significant role in the success of the company.
+	Everyone in this room plays an important role in the success of our companies.
+	Everyone in the room played a significant role in the success of the firm.
+	Everyone in this room played a major role in its success.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The little girl insisted until hospital staff finally showed her to her father's room.
+Top 9 Translations
+	The girl insisted on waiting until the hospital staff had finally taken her to her father's room.
+	It is incumbent upon this young girl to wait until hospital staff finish her up in her father's room.
+	This girl insisted that she wait until a hospital employee would finally take her to her father's room.
+	The hospital staff eventually took her to her father's room, where the girl stayed until she was dead in her head.
+	The hospital staff finally took her to her father's room, and the girl continued her work.
+	At last, staff at the hospital took her to her mother's house and the little girl continued to do it.
+	The little girl insisted until the hospital workers eventually took her to her father's room.
+	The young girl persisted until the hospital staff finally brought her into the father's room.
+	The little girl insists on insisting until the hospital staff finally takes her to her father's room.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The murderer worked in a cemetery and had no problems in disposing of the body.
+Top 9 Translations
+	The assassin, who worked in the cemetery, had no problem with the body.
+	The murderer who worked in the cemetery didn't have any trouble disposing of the bodies.
+	The killer working in the cemetery had no problem disposing of the bodies.
+	The killer works in the cemetery, and has no problems settling the bodies.
+	The killer worked at the cemetery and did not have any trouble disposing of the bodies.
+	The perpetrator worked in a graveyard, where there were no problems of disposing of the body.
+	The murderer was working at a cemetery and had no problem with the body's being disposed of.
+	The murderer works on a graveyard and he had no problem handling the bodies.
+	The murderer had worked in a graveyard and had no difficulty in disposing of the corpses.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two local journalists were criticised for the part they played in spreading the malicious gossip.
+Top 9 Translations
+	The role of both local journalists in spreading malicious gossip has also been criticized.
+	The two local journalists are under attack in their role of spreading pernicious gossip.
+	The two local journalists had their roles criticized in a malicious rumour.
+	In a post he reported that two local journalists had been subjected to defamation as regards their role in spreading rumours.
+	Two local reporters were turned down for their role in spreading rumours.
+	Two local reporters have been criticized for their role in disseminating rumours.
+	Two local journalists were criticized for spreading malicious rumours.
+	Two local journalists were also subjected to serious attacks as a consequence of the distribution of vicious gossip.
+	The fact that two local journalists were accused of spreading malicious salivities was also reported.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charlie almost got to the end of the speech before he was interrupted by a drunk guest.
+Top 9 Translations
+	Charlie almost got interrupted by a drunk guest before the end of the speech.
+	Charlie almost did not get cut off by drunken guests before you finished the speech.
+	Charlie almost didn't get interrupted by drunken customers before her speech came to an end.
+	Charlie's almost at the end of the speech, just before he was interrupted by drunk tourists.
+	Charlie was nearly there until it was interrupted by the drunk tourists before it came out.
+	Charlie had been almost at the end of the presentation before he was interrupted by drunk tourists.
+	Charlie almost finished his speech before a drunk guest interrupted him.
+	Charlie nearly finished the speech before getting interrupted by one of those drunk guests.
+	Charlie almost finished the lecture before a drunk customer interrupted his statement.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doctors say antibiotic usefulness varies from patient to patient.
+Top 9 Translations
+	The doctors say the effects of antibiotics depend upon both patients and patients.
+	Doctors say the antibiotic impact depends on the patient as well as on the patient.
+	The doctors say the antibiotics are based on the patients and the patients.
+	Doctors say that antibiotics are widely used from patients and patient to patient.
+	The doctors say that the use of antibiotics is different from that of men to those who may not have done so.
+	Doctors indicate that the rates of antibiotics were different from the number of people who were sick.
+	Doctors say the amounts we use for the antibiotics are different among patients.
+	Doctors say that the amounts we take on antibiotics vary from patient to patient.
+	They say antibiotics vary in patient use. - I don't understand.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite past good performances, the actor was fired when the studio decided he had become a liability.
+Top 9 Translations
+	Although it had been good work, actors were fired as the studio decided he'd become a responsibility.
+	I mean, while performances were pretty good before, the actor was fired when the studio decided that he'd become a responsibility.
+	The past performance was excellent, but the actor was fired from work, and when the studio decided he had become a responsibility.
+	Despite the good performance, actors are dismissed from their jobs when theatre believes that they have fallen into their responsibilities.
+	Despite their performance, actors continue to be fired when the studio believes he has become a responsibility.
+	Despite great performances, the actor still was dismissed from service while the studio thought he was already a responsibility.
+	He did good, but the actor got fired... and the studio decided he'd become responsible for it... then he was fired.
+	Although he had been good at his work, he was fired from the studio and decided he'd take responsibility for it, then he was fired.
+	He's done great, but the actors were fired and the studio decided to give him a responsibility, but he got fired.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police fear that the boy missing since Tuesday night is in danger.
+Top 9 Translations
+	Police are afraid the boy is going to disappear after Tuesday evening. It's gonna be a real danger.
+	The police are afraid that the boy will be in danger after Tuesday night.
+	The police fear that the boy will disappear after Tuesday night in danger.
+	The police fear that the boy, who went missing from Tuesday evening, is in danger.
+	The police were afraid the boy, who disappeared on Tuesday evening, was in danger.
+	The police feared that the boy who disappeared on Tuesday evening would be in danger.
+	The police were afraid that the boy would be killed on Tuesday night.
+	They're afraid the boy might go missing on a Tuesday evening, and it's gonna be dangerous.
+	The police fear that this boy's disappearance on Tuesday night will be at risk.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: As a matter of course, we delete all email records after three years.
+Top 9 Translations
+	Of course, all email transcripts will be deleted three years later.
+	All email records will certainly be deleted in a three-year period.
+	Sure, after three years, all email records will be deleted.
+	Of course, in three years, we'll get rid of all e-mail records.
+	We'll, of course, erase all the mail records in three years.
+	And of course, we'll have all mail records deleted in three years' time.
+	After three years, of course, all the e-mail records have been deleted.
+	Three years after that, of course, we're going to delete all the e-mail records.
+	Of course three years from now, we'll delete all e-mail records.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The tribes on these islands carry out a strange hunting ritual at the beginning of summer every year.
+Top 9 Translations
+	The tribes on these islands hold odd hunting ceremonies every summer at the beginning of each year.
+	Each summer, the tribes of those islands begin with strange hunting ceremonies.
+	Each summer starts with an unusual hunting ceremony among the tribes of these islands.
+	These communities begin each summer with strange hunting ceremonies.
+	Every summer the tribes have begun to engage in a odd hunting ceremony on these islands.
+	On the islands there was a strange hunt ritual every summer beginning with the tribes.
+	Every summer the tribes on these islands are going to begin to carry out a strange hunting ceremony.
+	These tribes begin a odd hunting ceremony every summer on these islands.
+	The tribes on those islands begin a weird hunting ceremony in the summer of every year.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have to walk down three flights of stairs just to get rid of our rubbish. What an inconvenience!
+Top 9 Translations
+	We've got to walk down stairs to put the trash out of it. It's just a big trouble!
+	We got to get three stories from the stairwell before throwing the garbage away.
+	And we have to walk three floors up from a staircase to put out the trash.
+	We can fix the mess just by leaving all three stairs. It's very much a problem!
+	You know, leaving 3 stairs is the best thing you'll do for our garbage. It's so much trouble!
+	Get out of the three stairs. You have to take care of our garbage. Oh, no!
+	We must come down the three stories of stairs to remove our trash, and it is no pleasure!
+	We have to go down the three levels of the stairs and take out our waste. You're a mess!
+	We have to follow three-stairwell to remove our trash, and it's not easy!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sharon had broken many regulations at work and finally paid the price by losing her job.
+Top 9 Translations
+	Sharon broke the regulations of many of his work, and ended up paying the price for losing his job.
+	Sharon broke rules over many of his work, and ultimately suffered for losing his job.
+	Sharon broke regulations of many of the jobs and ended up paying the price for his loss of work.
+	Sharon broke the regulations in many workplaces, and ultimately, at the expense of the loss of work.
+	Sharon broke a number of workplace provisions and ultimately also paid the price for losing his job.
+	Sharon broke many workplace regulations and ultimately paid the cost of losing his job.
+	Sharon broke many of the job regulations and finally spent the price of losing his job.
+	Sharon broke much of the work regulations. He eventually paid his costs by losing his job.
+	Sharon broke a number of regulations for his work and ended up paying a price for his loss of work.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You've been eliminated from the competition because we've discovered you cheated.
+Top 9 Translations
+	You're going to be wiped out for what we know you've done in the competition.
+	Because in competition, you've been eradicated because we find you did something wrong.
+	Because in the competition you're destroyed because we realize that you've cheated.
+	You've been cleansed from a game... just because we've figured out you're cheating.
+	You're wiped out of the game by your players, because we find out that you're cheating.
+	You were cleared from the match... just because we realized you cheated.
+	You got removed from the competition for cheating, and you've had to do something about it.
+	You were cleared of this due to the fact they've been found cheating.
+	You were wiped out of the race because we had discovered it was cheating.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even the tiniest fault in a rocket can lead to a catastrophic failure at launch.
+Top 9 Translations
+	Even the smallest failure of a rocket can lead to catastrophic failures at the time of launch.
+	Even the smallest failures of rockets might lead to catastrophic failures of launch.
+	Even the smallest fault of a rocket might lead to a disastrous failure at the time of launch.
+	The least defects in a rocket could result in a catastrophic malfunction during the launch.
+	Even the smallest failure in the rockets could cause a catastrophic breakdown in the launch process.
+	Even the smallest defect from the rocket might lead to catastrophic failures when launched.
+	All the slightest mistakes in rockets can lead to catastrophic failures.
+	The mildest failure in a rocket can lead to catastrophic failure.
+	The slightest error in the rocket could have caused catastrophic failures.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I met a woman in town who was talking to people about homeless teenagers and asking for donations.
+Top 9 Translations
+	There was a woman who I met here in town, and she talked to some guy about a homeless teenage girl and asked for a donation.
+	In the city, I met a lady whom I spoke to people about homeless teen girls who had asked for a donation.
+	I met a woman in town who was talking with someone about homeless teens, demanding a donation.
+	I met a woman in a town she was talking to a guy saying homeless teenagers and asking for donations.
+	I met a woman in town who was talking to people talking about homeless youth and asking for donations.
+	I met a town woman who was speaking to people about homeless teenagers and asking for donations.
+	I met a girl in town who talked to all the homeless adolescent girls and asked for a donation, and she asked me to give it up to her.
+	I met a woman in town, talked to people about homeless adolescent girls and said they had to make some donations.
+	I met this woman in town who talked about homeless teenage girls, and asked them if they wanted to make a donation.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a very unusual setting for this movie: a prison for badly behaved dogs!
+Top 9 Translations
+	There's one unusual place for this film, prison for bad-behaved dogs!
+	The movie has a rather extraordinary aspect: the prison for misbehaved dogs!
+	There was an exceptional place in this film: a prison for misbehavior dogs!
+	There's a very unusual situation in the movie, a poor prison with a dog's performance!
+	This film involves a very strange environment: a prison where dogs perform badly!
+	That film had an extraordinary environment: a dog who was bad at a prison!
+	There's an odd scene of the film: an awful dog prison!
+	The film has an abnormal scene, a terrible dog prison!
+	There's an anomaly in this movie: a bad dog prison!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though we always turn right here, I often wonder what's down the other road.
+Top 9 Translations
+	I mean, as much as we turn around often I'm not quite sure of what's on the other way around, I suppose.
+	Although we often come around, I don't usually know what's on the other side of the road.
+	I often don't know what's on the other side of the road, though.
+	We always make turn here, but often I wonder what it's all about at the other side of the road.
+	Though we're always looking this way, I often wonder about what you got on the other road.
+	I know we used to be around here, but sometimes I thought, "What's on the side of a road? "
+	Even though we always turn around in here, I often wonder what is on the other track.
+	As long as we're in this place and we're turning the back, I often wonder what it is on the other way.
+	Although we always turn around here, I often wonder what the other way is.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two ferries collided today in the main harbour, but there were no injuries.
+Top 9 Translations
+	Two ferries that crashed in the main port today have not been injured at work.
+	Two ferry boats that hit the main port today have not suffered any injury at work.
+	Today two ferrigates crashed into the main port without work-related injuries.
+	Two ferry boats now crash at the main seaport, but none have been injured.
+	At present two ferries clashed over the main harbour, but no one was injured.
+	There were currently two ferry arrivals at the main seaport, but nobody was injured.
+	Today, two ferries were hit by collisions in the main port, but no one was injured.
+	Today, two ferry boats landed at the main seaport, but no one was injured.
+	Today, two ferry accidents occurred at the main seaport, but no one was injured.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The red squirrel, once common throughout Britain, is now restricted to the north.
+Top 9 Translations
+	Red squirrels before were common everywhere in the UK and are now banned in the north.
+	Red squirrels were common all over Great Britain and are now grounded in the north.
+	The red squirrel used to be common in Great Britain, and is now banned in the North.
+	This red squirrel, once common in Britain, is now confined to the north.
+	A red squirrel, once common in England, is now confined to the north.
+	This is a red squirrel once common in England, and is confined north by right now.
+	red squirrels, which are once common throughout the UK, are now confined to the north.
+	Red squirrels have once been common in Britain and are now confined to the north.
+	The red squirrels were used in the U.K. and are now confined in the North.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In many countries, specially trained dogs are used to locate hidden drugs.
+Top 9 Translations
+	In many countries, specially trained dogs are used to spot concealed drugs, which they usually use as a trained dog to find hidden drugs.
+	In many countries, the specially trained dogs are used to detect concealed medicines, which are commonly found using a specially trained dog to locate concealed drugs.
+	Specially trained canines have been used in many countries to find hidden drugs and often use a special trained dogs to find such hidden drugs.
+	In many countries specially trained dogs are used to find concealed drugs.
+	In many countries, specially trained dogs were being used for the detection of hidden medicines.
+	Specializedly trained dogs are found in many countries for covert drugs.
+	In many countries, specially trained dogs are used to track hidden drugs.
+	In many countries, trained dogs are used to trace concealed drugs.
+	Many countries use specially trained dogs to track hidden drugs.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Once you cross the border, you are subject to the laws of another country.
+Top 9 Translations
+	After crossing, it is subject to the law of the other State.
+	The crossing of the border is subject to the laws of another State.
+	Cross-border movement was subject to the laws of another State.
+	Once crossing the border, they are governed by the laws of another State.
+	Once it crosses the border, it is subject to the laws of another State.
+	If crossed the border, it was governed by the law of another State.
+	Once border crossings have been effected, they are subject to the law of another State.
+	Once it has passed, it has to be governed by the law of another State.
+	Once passing across the border, this is governed by the law of another State.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The film last year helped to revive interest in 1920s fashion and even ways of speaking.
+Top 9 Translations
+	It also brought back interest in fashion and even words in the 1920s.
+	The way it was published also brought a renewed interest in fashion and even speech during the 1920s.
+	The way the movie was made public also brings back interest in fashion and even discourse in the 1920s.
+	Last year this movie helped to renew people’s interest in fashion and even the language of the 1920’s.
+	And last year this film helped to renew interest in modern and even linguistic ways in the 1920s.
+	Last year, this film helped to renew the interest in fashion or even language style of the 1920s.
+	Last year's film revived an interest in fashion and even the manner of the presentation in the 1920s.
+	Last year’s video revived the interest in the way fashion and even speech are presented in the 1920’s.
+	In the past year, this film has renewed its interest in fashion and even the speech approach during the twentieth century.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have decided to discard the Premium 2000 computer security system. It's too old now.
+Top 9 Translations
+	We're giving up 2000 computer security systems that we've decided to use, it's too old.
+	We decided to drop the 2,000 computer-security system, it's too old.
+	We've decided to abandon 2,000-dollar computer safety systems. It's too old.
+	We decided that the 2,000 shilling computer security system, it was old enough.
+	We've decided to discard the 2,000 shilling computing security system, which is already too old.
+	We've decided to abandon a 2,000-schilling computer safety system. It's too old.
+	We decided to get rid of the 2,000 wave computer security system, it's too much old now.
+	The year that we decided to drop 2,000 waves of computer security is too old.
+	We decided to drop 2000-wave computer security, so it's way old.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It was the child's history teacher that first realised she was being neglected at home.
+Top 9 Translations
+	This was the kid's history teacher, first of all realizing that she had ignored her at home.
+	This is the history teacher of the kids, first to realize she's neglected at home.
+	That's the kids' history teacher, first to realize she neglected at home.
+	The child history teacher realized that she had been ignored at home for the first time.
+	For the first time, child history teachers were conscious of her neglect at home.
+	The kid history teacher realized that she was neglected at home for the first time.
+	That was the kid's history teacher who realized at first she was being neglected by her family.
+	So this is a kid's history teachers who started to realize that she was being ignored by the family.
+	It's a historical teacher for a kid that first realized that she had been ignored by her family.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police told everyone to stay at home until the band of thieves had been captured.
+Top 9 Translations
+	Police have told everybody to stay in the house until the gang is caught.
+	They told everyone to remain inside until the gang was arrested.
+	Police told everyone to leave the home until the gang was caught.
+	The police have ordered all of you to stay at home until the theft rings get caught.
+	Police have ordered everyone to stay in the house until the gang is caught.
+	The cops order everybody to keep home until they get captured by a band of shoplifters.
+	The police told everyone to stay home until a thief's crew had been caught.
+	Everyone was informed by police that they would stay in the house till the gang was caught.
+	Police informed everybody to stay at home till a gang of thief was captured.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Hal's parents apologised for their treatment of him and said they wanted to rectify the situation.
+Top 9 Translations
+	Hal's parents apologized for his treatment and said they wanted to rectify this situation.
+	Hal's parents apologized for his treatment and said they tried to correct this situation.
+	Hal's parents apologize for the treatment they've given him and they say they want to correct that situation.
+	Her parents apologized to you for the abuse and claimed to have changed his situation.
+	Her's parents apologized to you over the ill-treatment and claimed to change the situation.
+	Hel's parents apologized for his ill-treatment, claiming to change what happened to him.
+	Hal's parents apologized for having tortured him, and he said he tried to fix the situation.
+	Hall's parents are sorry he's been tortured, and he's just saying that he wants to remedy the situation.
+	Hal's parents apologized about his suffering, and stated that he wanted to remedy the situation.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A truck that was carrying food goods fell into the river, but the driver managed to escape.
+Top 9 Translations
+	The driver managed to escape from a truck carrying food which crashed into the river.
+	A truck carrying food fell into a river and the driver managed to escape.
+	The driver managed to escape, after a truck carrying foodstuffs fell into the river.
+	A truck carrying foodstuffs fell into a river, but the driver managed to escape.
+	A food truck landed into a river and the driver attempted to escape.
+	A truck carrying foodstuffs fell into a river, but the driver managed to escape.
+	A truck carrying food material fell under the river, and the driver managed to escape.
+	The truck carrying food and food was pouring under the river and the driver managed to escape.
+	A truck carried food supplies, but fell under the river and the driver managed to escape.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You simply must invite Carol to the party. She's always the life and soul of any evening.
+Top 9 Translations
+	You could have invited Carol to parties, and she's always a symbol of the evening's life and soul.
+	You could invite Carol to the party. She'll always be a symbol of the life and the soul of the night.
+	You should invite Carol to the parties. She is a symbol of life and spirit at night forever.
+	You gotta invite Carlo to the party. She has always lived and been the soul of any night.
+	And if you don't tell me how to make it possible to have Carol party, she's been there with life and spirits for any night.
+	We're gonna have to ask Carol to party and she's a life and soul all night long.
+	You're supposed to invite Carol in the party and she's always any other night with life and soul.
+	You should have invited Carol to come inside the party and she would always live and be a spirit any night.
+	You should invite Carol to the party. She's always any night life and spirit in the party.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I'm tired and in pain and what's more, I didn't even want to come here.
+Top 9 Translations
+	I'm exhausted... and I don't even wanna come here.
+	I'm tired, so tired. I don't want to even come out here.
+	I get tired, I don't even wanna be here.
+	And I'm tired and I'm suffering. I just don't want to come out here.
+	I am tired and I'm still in pain and I don't even want to be here.
+	I'm tired and it's very painful. I don't even want to be here.
+	I'm tired and suffering and I don't wanna come here.
+	I just feel so tired and hurt and too bad I want to not be here.
+	I'm tired and in pain and I don't even want to come here.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sadness is an inevitable part of the bereavement process.
+Top 9 Translations
+	Sadly, they are part of an inevitable burial process.
+	Sadness is part of a process that's not always taken off.
+	Grief is one part of a certain funeral process that will be inevitable.
+	Inevitably in death, it is a sad painful loss.
+	The inevitable in death must be the sorrow and pain of grief.
+	And the inevitable in death is the sorrowful sorrow of the pain.
+	Sadness is an inevitable part of the loss of life.
+	It's a inevitable part of the death process.
+	Dieving is the inevitable part of loss of life.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you read Anna's comments in context, you'll see there wasn't anything wrong with them.
+Top 9 Translations
+	If you read Anna's opinion, you'll see that it's OK. I'm not afraid of the problem.
+	You know, if you read Anna's reviews in terms, you're going to find that they don't have a problem.
+	If you read Anna's comment, then you will see that they're not the problem.
+	And if you read from Anna's context you see there's nothing wrong with them.
+	If you get to read the context of Anna's review, then you're going to see that there are no questions about them.
+	If you look at Anna's review of circumstances, you'll see it doesn't seem to be an issue.
+	If you read Anna's observation in the contexts, you'll see that there is nothing wrong with them and what the problem is with them.
+	If you've read Anna's comments in the context, you'll be seeing no errors and there's nothing wrong with them.
+	If you read Anna's comments in the background, you can see that there are no errors and that there are no problems with them.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of South America was ravaged when diseases were introduced by arriving Europeans.
+Top 9 Translations
+	Much of South America suffered serious disruptions as the Europeans about to spread a whole range of diseases.
+	Most parts of South America were severely devastated by the diseases being transmitted by the forthcoming Europeans.
+	Much of South America has been devastated when the coming Europeans spread all kinds of diseases.
+	Europe's arrival in Europe brought diseases to South America for severe damage to large areas in South America.
+	Europeans who have arrived in Europe have introduced various diseases into South America and have resulted in severe damage to a large part of South America.
+	Europeans who have arrived in Europe have brought a wide variety of diseases in South America, causing extensive damage in a vast area of South America.
+	In introducing various types of diseases the Europeans come to a location where much of South America has been damaged by devastating destruction.
+	When the Europeans arrived introduced disease of various types, many parts of South America suffered devastating destruction.
+	The European visitors, when they introduced various diseases, had suffered a devastating toll in many parts of South America.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This chain of mountains derives its name from an ancient tribe that lived in the area.
+Top 9 Translations
+	The mountain line is named after an ancient tribe that was living in that part of the world.
+	The mountain line is named after an ancient tribe that lived in the area.
+	The mountains were called by an ancient tribe, which had been living there before.
+	The name of this mountain chain comes from an ancient tribe living here.
+	The name of this mountain chain came from an ancient tribes that live up in this area.
+	This mountain chain is named by an ancient tribe living in this land.
+	The chain of mountains is named by an old tribe from the area who lives here.
+	The chain came from the region named by an ancient tribe that lives around the region.
+	These mountain chains came from the region named by an old tribe, which lives in this area.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists have observed a strange phenomenon in the atmosphere of Mars.
+Top 9 Translations
+	Scientists have noted that there is an odd phenomenon within the atmosphere of Mars.
+	Scientists note a strange phenomenon in the atmosphere of Mars.
+	Scientists noted that a strange phenomenon had occurred in the atmosphere of Mars.
+	Scientists have observed an extraordinary phenomenon in the atmosphere of Mars.
+	Scientists have noted a remarkable phenomenon in the Mars atmosphere.
+	Scientists are watching a remarkable phenomenon in the atmosphere of Mars.
+	Scientists in the atmosphere of Mars observe a strange phenomenon.
+	The scientists have observed this strange situation in the atmosphere of Mars.
+	Scientists have discovered a strange phenomenon in the atmosphere on Mars.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I owe my sisters a huge debt of gratitude for the way they've helped me out in recent years.
+Top 9 Translations
+	I owe my sisters a great deal of gratitude for the manner in which they have assisted me in recent years and in recent years.
+	And I owe my sisters great thanks for the way they have helped me in recent years, in recent years.
+	My sisters are deeply grateful for the way they have helped me in many years, many years ago.
+	I owe my sisters great appreciation for the way they helped me out of these last several years.
+	I owe my sisters great gratitude for the way they helped me get away in the last few years.
+	I owe my sisters great thanks for the manner in which they helped get me out of the house in recent years.
+	I owe my sister a huge debt of gratitude for the hard job they worked for me over the last few years.
+	I owe them a huge debt of appreciation and thanks to all the hard work that has helped me for the last few years.
+	I owe them a million thank you very much for their hard work in recent years.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Before we get under way, are there any questions you would like to ask me?
+Top 9 Translations
+	Is there a question for me before we leave?
+	Do you have any questions before we leave?
+	You got a question to ask me before we leave?
+	And do you have any questions that have to be asked before they go on?
+	Do you have any questions before we go through with them?
+	Do you have any questions before proceeding?
+	Do you have any further questions before we get to work?
+	So do you have any questions you need before we start working?
+	You want to ask any more questions before we begin our work?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: She cried all through what was supposed to be a light-hearted film about rabbits.
+Top 9 Translations
+	And she cried in a book about rabbits and she cryed like a light movie about rabbits.
+	She started crying from a story about a bunny, and she was crying like a real light movie about a rabbit.
+	And she cried in a story about rabbits... and she crying like a very light movie, about rabbits, like a film about rabbits.
+	And she's been crying all over it, and it was actually about a shallow film of rabbits.
+	She was crying everywhere and was supposed to be a shabby movie about rabbits.
+	She was crying a lot about the rabbit's thin film.
+	And she was yelling and saying that she read a film that ought to be on Rabbit, downplaying it.
+	She's yelling and reading a movie she should have thought about bunnys and downplaying it.
+	- She yelled, read a film that was meant to be on a rabbit and downplayed it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I firmly believe him to be innocent of the crime.
+Top 9 Translations
+	I strongly believe that he has been guilty of crimes that were not helpful in the case of innocent people.
+	I strongly believe that the crimes he has committed do no good to the innocent.
+	I strongly believe that he committed crimes to the detriment of his innocence.
+	I firmly believe he won't commit that crime.
+	I am confident he will not commit that crime.
+	I am certain he will not commit the crime.
+	I firmly believe he is innocent.
+	I firmly believe that he is innocent.
+	I firmly consider him innocent and unsuspecting.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After her computer was struck by a virus, she was unable to retrieve the accountant files she needed.
+Top 9 Translations
+	After her computer had been hit by a virus, she was unable to obtain the accounting documents she needed.
+	She was not able to obtain the accounting documentation she required when her computer had been hit by the virus.
+	She was unable to obtain the financial documents she needed when her computer was hit by the virus.
+	Her computer was infected by a virus and she has been unable to access the accounting file necessary to reach her since then.
+	Following the infections of the computer, her records of accounting were not available after the time of the infection.
+	Her computer was infected by the virus and thereafter unable to access her required accounting file.
+	When her computer was knocked down by virus, it was unable to access the accounting file that she needed.
+	Her computer was knocked out by the virus, and she had no access to the accounting file she needed.
+	After the virus knocked down her computer, she was unable to retrieve the accounting files she needed.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: An abandoned military base in the desert is the setting for Al Abner's latest sci-fi novel.
+Top 9 Translations
+	"The abandoned army bases of the desert are El Akna, the most recent science fiction stage of science fiction."
+	A abandoned military base in the desert is El-Acna, which is the latest stage in science fiction.
+	In the desert, an abandoned military base is Al Akna, in the arena of our latest Sci-Fontology fiction.
+	An abandoned military base in the desert is Al Abunah's latest science fiction stage.
+	One abandoned base in the desert has been the stage of Al Abbona's latest Sci-fi novel.
+	A deserted military station in the desert is Al Abna's new science fiction stage.
+	It's an abandoned military base in the desert that is the site for the latest science fiction by Al Abner.
+	A waste of a military base in the desert was a place for El Abna's latest science fiction.
+	It has one of the most recently published science fiction stories, Al Abner, the abandoned military base that's in the desert.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I don't like it when newsreaders start giving their subjective opinions about the news. That's not their job.
+Top 9 Translations
+	I don't appreciate the news readers beginning to present their personal views on the report and I don't like the idea that it doesn't represent their job.
+	I do not like the fact that readers are starting to publish their subjective views about the news and that I don't like it.
+	I'm not the one who started giving news readers subjective views of their stories, and that does not make them' work, but it doesn't make sense for them, but I do it for them.
+	News readers started to make their subjective opinion of news; it wasn't right that they should have done it.
+	News readers started talking about subjective journalism. They shouldn't have done it.
+	News readers were just beginning to talk about their subjectivity. They shouldn't do that.
+	I hate being the news guy who starts to have the subjective idea about the news, which isn't their job.
+	I don't like being the guy that reads the news that starts with the subjective idea about the news. This isn't their job.
+	Well, I don't like being the news reader and making subjective views about the press. This isn't the job.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Jersey is probably one of the most well-known breeds of cow in the world.
+Top 9 Translations
+	Jersey could be one of the greatest cattle species in the world.
+	Jersey could be one of the most well-known species of cattle in the world.
+	Jersey may be one of the most popular cattle species in the world.
+	New Jersey may be one of the world's most famous species of cattle.
+	New Jersey probably is one of the most famous cattle species in the world.
+	New Jersey is probably one of the best known species in the world.
+	Jersey is probably one of the most well-known varieties of cattle in the world.
+	Jersey is probably one of the most well-known cow breeds in the world.
+	Jersey may be one of the world's most well-known varieties of cattle.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Can you detect the subtle taste of peach in that red wine?
+Top 9 Translations
+	Can you see a glimmer of peach food in red wine?
+	Can you find the sweetness of the memento in the wine?
+	Can you detect a nitrous taste in red wine?
+	Can you find these tiny peach tastes from the red wine?
+	Can you detect a very little peach taste from the red wine?
+	Can't you get the delicates of peaches out of the wine from red wines?
+	Can you detect the subtle taste of peaches in that red wine?
+	Can you check out the delicate flavors of peaches in that wine?
+	Can't you check the delicate taste of peaches in that wine?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lack of vital vitamins and minerals can lead to a wide range of illnesses and conditions.
+Top 9 Translations
+	The lack of vital vitamins and minerals can lead to a variety of diseases and conditions.
+	Lack of critical vitamins and minerals can generate a variety of diseases and conditions.
+	A lack of important vitamins and minerals can lead to a wide range of diseases and conditions.
+	Lack of important vitamins and minerals can cause a wide variety of illness and conditions.
+	The lack of significant vitamins and minerals can result in a range of diseases and conditions.
+	Lack of significant vitamins and minerals could contribute to a wide range of conditions and disorders.
+	Lack of vital vitamins and minerals can lead to a myriad of ills and conditions.
+	The lack of essential vitamins and minerals can cause a variety of diseases and conditions.
+	Lack of vital vitamins and minerals may lead to numerous diseases and conditions.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Due to the fact you weren't listening, you understood virtually nothing of what I said.
+Top 9 Translations
+	You didn't listen to me. You can't really get a word out of me.
+	Because you're not hearing... and you can actually not hear what I'm saying.
+	You're not listening, you're actually not following me. I know what you're saying.
+	You don't understand what I'm saying, but you just can't understand it at all.
+	Because you couldn't hear what I said. You didn't get it at all.
+	Because you can't hear me. You can't understand anything I'm saying.
+	Because you're not hearing. You're not sure what I'm saying. - You're not really sure what I'm saying.
+	Because you weren't listening to me, but you barely know the meaning of what I'm talking about.
+	Because you're not listening to me, you hardly understand what I'm talking about.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rules and regulations were explained many times, but he has failed to comprehend them.
+Top 9 Translations
+	Those rules and regulations had been explained a number of times, but he did not understand them.
+	Many of these rules and regulations were explained but he did not have an understanding of these rules and regulations.
+	On many occasions those rules and regulations had been explained, but he had not understood them.
+	Regulations to the rules were interpreted several times but he does not understand them.
+	The rules and regulations had been explained several times, but he did not understand them.
+	Rules and regulations had been explained on many occasions but he did not understand them.
+	These rules and regulations have been explained on several occasions but he has no understanding of them.
+	They had been explained on several occasions, but he had failed to understand them.
+	These rules and regulations have been clarified on many occasions, yet he has been unable to understand them.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "I risked life and limb to save you and look at how ungrateful you are!" Charles shouted.
+Top 9 Translations
+	I risked my life to save you as much as you were ungrateful, Charles cried out.
+	"I've risked my life to save you. Look at your ingrate." Charles yells,
+	I risk my life to save you, and how ungrateful of you, Charles, he cried out,
+	'I'm risking my life and my limb to save you, see how ungrateful you are' and Charles is roaring at you.'
+	"I risk my life and my body to save you, and look at how ungrateful you are" Charles was yelling.
+	"I risk my life and my limbs to save you, and look at how ungrateful you are" Charles yelled at.
+	Charles shouted, "I risked my life, my life, to save you... and look at you as ungrateful as you can be."
+	Charles screamed "I risked my life and your life to save you. " Look at how ungrateful you were."
+	Charles cried out and said, "I risk my life and my life to save you. Look what ungrateful things you do."
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Do you even notice that you're whistling? It's really disturbing me.
+Top 9 Translations
+	- Have you even noticed the whiz? - It bugs me.
+	Did you even noticed whistling? Oh, that really upsets me.
+	So you noticed whistling? This is getting on my nerves.
+	Didn't you notice that you were whistling?
+	Didn't you see you were whistling?
+	Didn't you realize that you were whistling your whistles? - Mm-hmm.
+	Did you notice you were whistling for me? I am so upset.
+	Have you noticed how you whistled? It made me uneasy.
+	Did you ever notice your whistle? That's what bothers me.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though the report is good, I don't think you do enough to define the goals of it at the beginning.
+Top 9 Translations
+	It's a nice one, but first you don't get good enough to define its objective.
+	But, as good as it may be, you're not doing enough to define its aims first.
+	But first, you don't do enough well to define its objectives.
+	As a result of your good report, I think you are not doing good enough... to define its objectives first.
+	I think your report might be good but you don't do well enough to define what it's worth first.
+	And, well, I don't think you're going to get it done well, but let's first define the purposes that it is.
+	But if it's a good report, I think you don't do much enough to determine what you want it to start with.
+	Though the report was good, I'd say that you didn't do enough to set the objective for it right from the beginning.
+	It was a good report, but I can see that you didn't have enough to set what it set out to do from the beginning.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Disaster struck on the fairground ride when one of the children released the safety bar.
+Top 9 Translations
+	One, a child, had been released from safety sticks and the victims were in a distress when they hitchhiking from a playground.
+	One child freed a safety bar, a disaster victim being at a risk when travelling in a competitive arena.
+	In the event of an attempt to save the lives of the children and other children who were killed by the Israeli military and who were beaten in the process, one of their children released his safety rod, while the affected persons were in danger when hitchhikers were hitchhike on the playing field.
+	When one of the children was released from the safety fence, the situation was about to come on the road to the playground.
+	When one child released the safety order, the disaster was on the way to the playground.
+	When one of them released the security bars, the disaster fell on the way to the fairground.
+	A child was struck by a disaster at the playground as the safety stick was released.
+	A child was attacked during a disaster in a tour yard when a safety stick was released.
+	When a child released the stick, he was hit by a disaster in the playground.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Pesticides have meant that many butterflies native to this area are no longer found.
+Top 9 Translations
+	Pesticides mean that many of the local butterflies of the region ceased to exist.
+	Pesticides mean that much of the local butterfly species in the region no longer exist.
+	Pesticide means that many native butterflyes in this region are no longer present.
+	The insecticides mean that many native Butterflys from this area are never found again.
+	The pesticide means that many local butterflies in the area will never be found again.
+	And it means many native butterflys in the region aren't found anymore.
+	And the pesticides mean that many butterflies, off its own soil, can not be found.
+	Pesticide means that many butterflies out there are not found anymore in their native lands.
+	Pesticides mean many butterflies can't be found anywhere in our native territory anymore.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The sacked teacher returned to the school and made off with computer equipment worth thousands.
+Top 9 Translations
+	The expelled teacher returned to school and took off with thousands of dollars worth of computer equipment.
+	The discharged teacher returns to school and takes off with thousands of dollars in computer equipment.
+	The dismissed teacher returned to school and took off with hundreds of thousands of United States dollars worth of computer equipment.
+	Dismissed teachers returned to the school, leaving the school with computer equipment worth several thousand dollars.
+	The dismissed teachers returned to the school and left with computer equipment valued at thousands of United States dollars.
+	Dismissed teachers returned to their schools, leaving them with thousands of dollars worth of computer equipment.
+	The dismissed teachers returned to school and used thousands of dollars in computer equipment to escape from school.
+	Unemployed teachers returned to school and left their homes using thousands of United States dollars of computer equipment.
+	Dismissal teachers returned to school and left with several thousand dollars of computer equipment.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even though the accused didn't carry out his threat, the victim was left terrified.
+Top 9 Translations
+	The victims were scared and panic-shocked even if there were no threats from the accused.
+	Even if the accused was not threatened, the victims continued to panic.
+	The victims remained frightened even though the defendants did not have any threats to do so.
+	Despite the failure of the accused to honour the threat posed by the accused, victims were horrified.
+	Despite the defendant's failure to meet the threat posed by him, the victims were shocked.
+	The victim was shocked even though the accused had failed in his duty to protect himself from the threats posed to him.
+	The victims continued to be frightened despite the lack of threat from the accused.
+	The victims remained frightened, even if the accused did not commit threats.
+	Despite no threats by the defendants, the victims were frightened.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "It is only through the generous grants given to me by this college that I'm able to continue my work."
+Top 9 Translations
+	I could go on in my job if I could only get a generous grant from that university.
+	I can carry on my work, through the university which gave me a generous grant.
+	I'm going to continue my work only by giving a very generous grant to me through the university.
+	It is only through this University that you have given me such generosity that I can continue with my work.
+	It is only through this very generous grant of my college that I get to carry on with my job.
+	It's only through the generous grant from this College that I can continue my work.
+	I can only continue with my work through this college that I'm graciously willing to extend.
+	It is only in this academy that I shall be able to continue my work in a generous manner.
+	Only by being gracious to this college will I be able to continue my job.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Great care must be taken with fireworks and similar devices that can cause injury.
+Top 9 Translations
+	Fireworks and similar devices that may cause harm need to be dealt with vigorously.
+	Firefires and similar devices that could cause harm must be handled with vigour.
+	The pyrotechnics as well as similar devices that could cause harm, must be dealt with with vigorously.
+	Fireworks and similar devices that can cause injury need to be handled with great caution.
+	Artisan fireworks that can cause injuries, and similar devices, need to be handled very carefully.
+	Fireworks as well as comparable devices which may cause injuries must be handled very carefully.
+	Fireworks and other similar devices that can cause injury must be handled with the utmost care.
+	Firefire and other similar devices that might cause harm must be dealt with with with with great caution.
+	Firefires and other similar devices which could lead to harm must be handled with great care and with the utmost care.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Dollar-Euro exchange rate has fluctuated a lot throughout the year.
+Top 9 Translations
+	The dollar euro exchange rate fluctuates numerous times over the course of the year.
+	The dollar-euro exchange rate has fluctuated many times in a one-year period.
+	The exchange rate between the United States dollar and the euro fluctuates many times in a year.
+	The United States dollar-euro exchange rate fluctuated very much the year over and over the course of the year.
+	The exchange rates of the US dollar and the euro vary considerably throughout the year.
+	United States dollar-euro exchange rates fluctuated significantly over and over the year.
+	The United States dollar exchange rate against the euro fluctuates significantly throughout the year.
+	The rate of exchange of the United States dollar and the euro fluctuated significantly throughout the year.
+	The United States dollar/euro exchange rates fluctuated significantly throughout the year.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Many animals are endangered because humans have invaded their usual habitat.
+Top 9 Translations
+	Many animals are being threatened because of the invasion of their habitats in general.
+	Many of the animals are threatened by occupation of general habitats by humans.
+	Many animals are threatened by the encroachment of humans upon general habitats.
+	Many animals are endangered because of the human invasion of normal habitats.
+	Many animals are endangered because they are invaded by civilians in normal habitats and thus threatened with extinction.
+	Many are endangered through human invasion of normal habitats.
+	Many animals were at risk as a result of human incursions of the usual living environment.
+	As a result of human invasions of the normally inhabited environment, many animals are subjected to hazards.
+	Many animals are threatened because of human intrusions into their normal residential environment.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being such a frequent visitor to Paris, Sam never bored of exploring it.
+Top 9 Translations
+	Sam used to go to Paris very frequently, but never tiresomely to explore Paris.
+	Sam was always visiting Paris, but always exploring it.
+	Sam is never tired of exploring Paris, though he often come to Paris.
+	Even though the guy used to visit Paris, Sam never got tired of exploring.
+	Though he often visited Paris, Sam never gets sick of exploring.
+	Though he was often on visits to Paris, Sam was never tired of exploring.
+	Sam, who travels to Paris often, has been never tired of exploring it.
+	Sam visited Paris regularly but never had enough to explore it.
+	Sam, though travelling often to Paris, has never been tired of exploring it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: When choosing for this role, don't overlook the talents of Brian, one of the best actors in the academy.
+Top 9 Translations
+	Don't look Brian's gift in his choice of the role. Brian is one of the best actors at the Academy.
+	And when choosing one, do not take Brian's gift as part of the best cast at the college.
+	In choosing the part you choose, you don't need to see Brian's talent.
+	In choosing to be one of the most talented players in schools, not to be overlooked by Brian's talent.
+	And when you choose to take this role, you must not lose sight of Brian's talent, the best actress in the school.
+	And, while choosing to be one of the most talented players in school, don't lose sight of Brian's talent, either.
+	You mustn't miss Brian's gift. He's one of the best guys at the academy.
+	Do not ignore Brian's talent. This is one of our best guys in this school.
+	Don't overlook Bryan's talents. One of the best players at our school.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The taste is wrong. Add some more salt to it. That might do the trick.
+Top 9 Translations
+	I can't imagine that. A bit of salt. That's how it'll take a lot more of it.
+	This isn't good. Just add some salt, so it'll get a little smaller than that.
+	That's the wrong taste. Give me a little salt, it's not gonna do a damn good job.
+	It's not good. With salt, you could have done it.
+	It doesn't taste okay, add salt, you've got it.
+	Not the right taste... a little more salt, you might be able to count it.
+	It might be useful if you have a taste in the wrong place, with a bit of salt.
+	Bad taste, salt, might be useful.
+	The saucy is not right, with salt on it. It may be useful.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director promised a broad and thorough review to get to the bottom of why the scandal happened.
+Top 9 Translations
+	The director promised extensive and thorough scrutiny to understand the reasons for the scandal.
+	The director undertook a wide and thorough review to understand the cause of the scandal.
+	They promised extensive, detailed examination to understand the reasons behind that scandal.
+	The director has promised an extensive and thorough review to find out the reasons for the scandal.
+	The director promised an extensive and thorough examination in order to ascertain the cause of the scandal.
+	This director promised to undertake a comprehensive and thorough review in order to establish the reasons for the scandal.
+	The directors agreed to carry out extensive and exhaustive reviews in order to ascertain the cause of the scandal.
+	The director undertook to carry out an extensive and thorough audit to ascertain the cause of the scandal.
+	The director has promised to conduct a thorough and wide review in order to establish the reasons for the scandal.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Engineers made a tiny adjustment to the fuel pump and the mission continued.
+Top 9 Translations
+	The engineers had made some minor modifications to the fuel pump and the Mission was continuing its work.
+	The engineers have made minor changes to their fuel pumps, which continue to be implemented in the Mission.
+	Engineers have made minor modifications to the fuel pumps, and the Mission is continuing to carry out its work.
+	Minor adjustments were made to the fuel pumps by the engineers, and the task is continuing.
+	The engineers adjusted their fuel pumps slightly, the mission continued.
+	The engineers made a minor overhaul and the task of the fuel pumps continued.
+	The pumps have been slightly adjusted by the engineers and the mission is continuing to operate.
+	Engineers have made minor adjustments to the pumps and the Mission is still in operation.
+	The oil pump was minorly modified by the engineer and the Mission continued to operate.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: At moments like this, I like to remember my grandfather and how he used to play that old violin.
+Top 9 Translations
+	A moment like this, I like to recall my grandfather and how his old violin used to play.
+	Just a moment like this and I like to remember my old grandfather, and how he used to play with the old violin.
+	For a moment like that, I like to remember my grandfather and how he used to play the old violin.
+	At this moment, I like remember how my grandfather used to play that old violin with him.
+	I like to remember my granddad and how he used to play the old violin in such a short time.
+	In such moments, I'm like-- I'm like remembering how my grandfather and his dad used to play that old violin.
+	At such times, I like to remember what my grandfather is doing with the old piano.
+	I loved to remember my grandfather when he played that old piano.
+	At times of this kind, I love remembering what my grandfather was doing with this old violin.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you carry out this task successfully, it will help us enormously.
+Top 9 Translations
+	If you're successful, this will help us so well.
+	If you do this successfully, it'll help us a lot.
+	If you'd succeeded in the job, it would have been helpful to us.
+	If you succeed in carrying out this mandate, you will do a great deal for us.
+	If you carry out this mandate successfully, it will go a long way towards helping us.
+	If you succeed in fulfilling this task, this will be of great assistance to us.
+	If you are successful in this task, it will be of immense help to us.
+	You have great help if you succeed in this task.
+	If you succeed in this task, you will be of great help to us.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Large black bands of clouds moved over the area and before long, the rain had started.
+Top 9 Translations
+	The dark cloud over this area is very thick, but soon after, the rain just started.
+	There's a big, dark cloud here. The rain's just about to start.
+	This area is surrounded by dark clouds. Soon enough, heavy rain will begin.
+	Cloud cover the area. Soon after the rain started to fall, clouds of great darkness moved out of the area.
+	The clouds cover the area; soon, rains begin to come down, while the cloud of a great darkness moves all the way above the area.
+	The cloud covered the areas and, not long after the rain began to drop, the cloud of the great cloud moved up to the area.
+	A cloud swept all over this area, and the storm had just rained a little bit later.
+	There's a cloud of dark and blue all over the area, and the rains just began soon after the rains.
+	It started to rain in the first half of a year and a black cloud was all over the area.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You're looking so stressed Mike. You need to take it easy.
+Top 9 Translations
+	Hey, you seem to be under stress. I want you to ease up on this one, Mike.
+	You look stressful, Mike. You need to relax.
+	You seem like a stressful man, Mike, but you got to take this easy on yourself.
+	You look stressed, Mike. You need to just take it easy.
+	Well, you look very stressed, Michael. You need to relax.
+	You seem to be under stress, Mike, so you gotta relax.
+	You seem stressed up, Mike. Take it easy.
+	You look stressed out, Mike. Relax a bit.
+	You look stress-- Mike, relax. Let's go.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A meteorite or comet impact is thought to have contributed to the dinosaurs' extinction.
+Top 9 Translations
+	The effects of meteors and comets are deemed to have caused the extinction and extinction of the dinosaurs.
+	The effects of the meteor or comet are thought to be causing the extinction of dinosaurs.
+	The effect of meteor or comet is considered to have caused the extinction of dinosaurs.
+	It is believed that the effect of meteorites and comets has contributed to the extinction of dinosaurs.
+	The effects of asteroids or comets were considered responsible for the extinction of dinosaurs.
+	The impact of meteorites or comets is thought to have been responsible for the extinction of dinosaurs.
+	A meteorite or comet impact is considered to have led to the extinction of the dinosaurs.
+	It is considered that meteoroid or comet impacts have already contributed to the extinction of dinosaurs.
+	It is believed that meteorite or comet impact has resulted in the extinction of dinosaurs.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police clashed with protestors who are trying to protect an ancient woodland from being destroyed.
+Top 9 Translations
+	The policemen clashed with the protesters, and they tried to prevent an old forestland from being destroyed.
+	Police have clashed with protestors, trying to prevent an old forest plot from being destroyed.
+	The police competed with protesters and attempted to prevent an ancient jungle area being destroyed.
+	The police and protesters have come together to protect the old trees from destruction, but they will continue to protect them from destruction.
+	Police and protesters were in a collision, who were trying to protect the old forests from destruction.
+	Police and protesters were caught up and protests tried to protect the ancient woods from destruction.
+	The protesters are attempting to protect an old woodland before it will be destroyed, but not until there is nothing more that would have happened in front of the protesters.
+	Police have clashed with protesters whose efforts were being directed towards protecting a place in the old woods before it could be destroyed.
+	The police are clashing with protesters, who are working to protect an ancient woodland from being destroyed.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Oh, that dress reveals too much, Carol. I'd change it.
+Top 9 Translations
+	Oh, that dress had exposed too much of it, Carol, and I'd change it.
+	Oh, I'm exposed to that robe, Carol, and I'm gonna change it.
+	Oh, that dress exposes so much, Carol, I will change it.
+	- That dress is too revealed. Carol, I'm a changer.
+	That dress is so revealed, Carol. I'll change.
+	It was a naked dress, Carol. I could do something different about it.
+	My dress's exposed, Carol, I'm changing it.
+	- The dress's been overexposed, Carol. - I changed it.
+	Too much evidence of dress, Carol. I've changed it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The findings of the report have yet to be analysed by the government so they can formulate new policies.
+Top 9 Translations
+	Its results were yet to be analysed by the Government, which would enable it to make new policy proposals.
+	The results of the report were still awaiting analysis by the Government so that they could formulate new policies.
+	The findings of the report have yet to be analysed by Governments so that they will be able to develop new policies.
+	The findings of the reports had not been analysed before their Government was in a position to formulate a new policy.
+	The government has not analysed its findings in order to make it possible to develop a new policy.
+	The Government had not analysed the findings in order to allow them to formulate a new policy.
+	The findings of the report are yet to be analysed by the Government in order for the Government to be able to formulate a new policy.
+	The conclusions of the report are to be analysed by the Government, so that it can formulate a new policy.
+	Its conclusions are pending analysis by the Government so that it may formulate a new policy.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Alcohol consumption has risen again among the young, according to a new report published today.
+Top 9 Translations
+	According to new reports today, there is another increase in drink consumption among youths and more among young people.
+	According to a report released today, alcohol use among young people is rising again.
+	According to new news reports today, alcohol consumption among young people is on the rise again.
+	Alcohol consumption among young people is rising again, and according to a new report released today, there is a new trend of rising alcohol among the young.
+	alcohol consumption among teenagers has been rising again, as the new report issued today shows.
+	There has been another increase in youth alcohol consumption, and according to today’s new report, there is a huge decline in alcohol consumption.
+	According to a report published today, there was another rise in alcohol consumption among young people.
+	A report published today indicates that young people's consumption of alcohol is again on the rise.
+	According to a report that has been released today, alcohol consumption among young people has risen once again.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Have you decided whether you'll opt for our standard insurance or the premium policy?
+Top 9 Translations
+	Do you decide if you are going to choose our standard insurance policy or the premium policy?
+	So have you decided whether you would choose our standard insurance policy, or whether you would be choosing a premium policy?
+	So you decide whether it's standard insurance or insurance policy to pick up?
+	Have you made any decisions about standard insurance or premium insurance?
+	Have you made any decision about whether you chose our standard insurance. Or our insurance policy?
+	Did you decide if you'd choose the standard insurance or the premium insurance?
+	Were you determined that you chose the standard insurance or insurance premium?
+	Have you decided on the premium or insurance policy to which you choose to choose between our standard insurance?
+	Did you decide that we'd be paying for the standard or insurance insurance policy you chose?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You need to be more productive, Susan, and I mean that in terms of the hours you do here in the office.
+Top 9 Translations
+	You have to be more efficient, Susan. I meant when you're working here.
+	- You need to be much more efficient, Susan, but I mean how much time you have for work here.
+	You got to make it more effective, Susan. I'm talking about how long you work here.
+	Susan, you want to be productive, I mean, with your office working in the hours.
+	Susan, you need to be productive, I mean in terms of the work hours you'll have in your office.
+	Susan, you've got to be much more productive. I mean, with the time worked in your office.
+	You need to get better at this, Susan, and I mean, by the time you work at the office, when you're in the office.
+	You'll have to be more productive, Susan, and I mean, judging from your work hours, you're working the time in your office.
+	You need to be more productive. I mean, from work hours to work hours, you'd be in office working hours.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: 
+Top 9 Translations
+	New, pre-made addresser for the contents.
+	Into the contents of the contents in the new and specified address machine.
+	New, defined addressr in the package.
+	Transfers from Modified
+	RESPONDING THE PARATE SURVELING
+	Transferred from Replenishment
+	Median New New and New
+	New Mediar New New and New
+	New, new, new mediating voice.
+-----------------------------------------------------------------------------------------
