@@ -42,11 +42,9 @@ def translate(
             for t in src_to_trg_encoded
         ]
 
-        torch.cuda.empty_cache() 
-        
-        src_to_trg_translations[-1].extend(src_to_trg_decoded)
+        torch.cuda.empty_cache()
 
-    
+        src_to_trg_translations[-1].extend(src_to_trg_decoded)
 
     return src_to_trg_translations
 
@@ -72,8 +70,12 @@ if __name__ == "__main__":
     nbest = int(args.nbest)
     output_dir = args.output
     test_data_loc = args.test
-    device = torch.device(
-        f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
+
+    if args.device == "cpu":
+        device = "cpu"
+    else:
+        device = torch.device(
+            f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
 
     test_data_loc = os.path.abspath(test_data_loc)
     logger.info('Getting test data from: {}'.format(test_data_loc))
