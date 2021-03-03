@@ -95,7 +95,7 @@ if __name__ == "__main__":
     trg = args.trg
     nbest = int(args.nbest)
     output_dir = args.output
-    test_data_loc = args.test
+    test_data_loc = args.src_to_trg_translations
 
     if args.device == "cpu":
         device = "cpu"
