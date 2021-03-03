@@ -1,0 +1,725 @@
+-----------------------------------------------------------------------------------------
+Test Sentence: Lance is highly knowledgeable on this subject.
+Top 1 Translations
+	兰德森深懂这一主题 并且很聪明
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I need a good explanation of all the costs involved in buying a new car.
+Top 1 Translations
+	我需要详细阐明 购买一部新车上所涉所有开价 以及车价的准确细节
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There was a lively debate about the Middle East, then they moved to a vote.
+Top 1 Translations
+	就中东的一场热烈争议引发各方的激烈辩论 然后开始投票表决了
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The doctor told him to lose weight quickly or pay the price later in life.
+Top 1 Translations
+	伤势迅速的减轻 或者是下世纪的代价的下降
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jet lag causes problems with our biological clock.
+Top 1 Translations
+	飞行滞力使我们的时间有困难,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This species of seagull is not a resident of the island, but will sometimes rest here a while.
+Top 1 Translations
+	这一鱼种的海雁不住在这个领土上 它能住在这里一段时间
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doesn't it strike you as strange that it's the middle of May and it's snowing?
+Top 1 Translations
+	在五月中下了大雪你是不是觉得奇怪的吗?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I didn't stay behind because I wanted to, I did so because it was my duty.
+Top 1 Translations
+	我不是故意待在外面的 所以才留下
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: What angered me wasn't his resignation but the manner in which he did it.
+Top 1 Translations
+	但我很愤恨 他的辞呈不在于 他辞职的方式而是因为的方式
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you can't make out what's written, change the zoom level and it'll become clearer.
+Top 1 Translations
+	要是你不知道写了些什么 就换个放大级就会清楚一点了 你对"放大"是怎么想的
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a wide range of issues that we need to discuss as soon as possible.
+Top 1 Translations
+	我们需要讨论许多范围庞大的 我们需要尽早的讨论
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being wounded in the battle, the solider fought on and was awarded a medal for bravery.
+Top 1 Translations
+	虽然作战期间有受伤受伤人员 但他还在打 获得了勇气奖章
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rain will persist for most of the morning, but we are expecting a brighter afternoon.
+Top 1 Translations
+	半早上会有多年下长年降雨, 我们盼望一个更亮美的下午
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the mating season, the male of the species calls out with a distinctive gu-gu sound.
+Top 1 Translations
+	在交配季 这其中公动物叫了个独特的怪嚎叫叫叫的声音.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Marie Curie, one of the best-known pioneers in working with radiation, died in 1934.
+Top 1 Translations
+	著名的实验室研究放射病毒的先驱之一玛丽·丘丽于1934年死亡
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Deep sea oil exploration is a dirty and dangerous business.
+Top 1 Translations
+	42.深海勘探是一项肮脏和危险性工作。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of the neighbourhood was demolished in the 1940s when living conditions had deteriorated.
+Top 1 Translations
+	整个街道的很多地方20世纪40多年期间,由于生活条件的恶化而破塌化。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists are yet to understand the full nutritional benefits of the humble olive.
+Top 1 Translations
+	还要听清谦软的橄榄能否充分养肥,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You can come and observe us performing this operation, if you want.
+Top 1 Translations
+	来见我个行当 说不定可以看一看你
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Bears used to be very widespread in this part of the country, but nobody has seen one for ten years.
+Top 1 Translations
+	那里的公熊曾经很多地方
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Ben was summoned to the court for jury duty, but took a doctor's note with him and was excused.
+Top 1 Translations
+	Ben被法官召唤执行陪审团职务,但是他带了一个医生的留言给他,并免了罪。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The police crossed four states in pursuit of the bank robber.
+Top 1 Translations
+	追银行抢劫犯
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After three years of recession, the country's economy is finally looking a lot healthier.
+Top 1 Translations
+	因为许多中国国家政府没有提供抗逆转民俗药物、疫苗和抗逆转录病毒药品和抗病毒用品?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We altered our final forecast of yearly profits due to more accurate advertising and marketing costs.
+Top 1 Translations
+	因为广告和行销的费用都更为准确我们改作了最新的的年度盈利预测。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two wolves ran through the forest in pursuit of a deer.
+Top 1 Translations
+	为寻找一只鹿,有两头狼横穿丛林跑
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The economy touches every aspect of our lives.
+Top 1 Translations
+	整个经济 涉及 生活的方方面面.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Like most safety features, the air bag is very rarely used but when called upon, must operate perfectly.
+Top 1 Translations
+	就像大多数安全特性那样,空气气袋使用很少、但在召唤情况下必须有完美的操作机制。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The cup will remain here at the clubhouse for a month on display before being sent to the museum.
+Top 1 Translations
+	它会被派往博物馆, 然后会在夜会在院里藏一个月内展出 并在那里继续保存 在博物馆的陈年
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jed ran the whole business after his father died and left him the company.
+Top 1 Translations
+	他父亲去世以后 杰德经营过公司之后就离开公司。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The garden is a paradise for flowers in particular. We have seventeen varieties of roses.
+Top 1 Translations
+	花园是鲜花的天堂。我们的玫瑰十七类,各有很多种——
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The terrible weather resulted in severe traffic delays and the closure of the airport.
+Top 1 Translations
+	该严酷气氛造成的交通严重迟交和机场封锁的结果是恶劣天气。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "What is more," Clarissa said, "I feel I'm being ignored."
+Top 1 Translations
+	克拉拉塞回答:“还有什么事”,Claysa回答道:“我的忽视在我眼皮上 ”
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas graduated with a specialist degree in the field of criminology.
+Top 1 Translations
+	- Temproleas 大学。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lasers can measure distances with incredible precision.
+Top 1 Translations
+	激光测量差的准确度 惊人精确度
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: My two cousins were so excited at the start of the war, they ran downtown and signed up immediately.
+Top 1 Translations
+	- 都马上注册。 我的两名姐妹 第一次战争的开胃。 他们跑在市里, 并签署了,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This machine scans the user's eye and can confirm identity.
+Top 1 Translations
+	这機器掃瞄使用者眼
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The inquiry into the accident will be overseen by Malcolm Jones, a former army general.
+Top 1 Translations
+	对事故的研究由前陆军参谋长马尔科姆·琼斯进行监视。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though Carla's remarks seem insulting, if you see them in context, they're actually quite innocent.
+Top 1 Translations
+	如果结合情节来观察的话 他们会毫不含糊 你从你心目中感觉到 艾伦和拉克的话说的很中肯
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even early in the city's life, the quest for knowledge led to the founding of a university.
+Top 1 Translations
+	直到在城市早期阶段,知识求生导致建立了一所大学。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The three teenagers spent a cold night on the exposed mountain before rescuers arrived.
+Top 1 Translations
+	他们的三个少年被冷夜渡过了白雪山 然后救援成员就抵达了
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Politicians have been arguing about the reasons for the decline in the number of unemployed.
+Top 1 Translations
+	然而这个数字只是一份“花旗党”,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charles Lindbergh was one of the early pioneers in powered flight and crossed the Atlantic in 1927.
+Top 1 Translations
+	查尔斯·林德伯格曾是早在进行动力航班飞行并在 1927 年内越过大西洋。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We used advertising to generate interest in the product and then educated people on how to use it.
+Top 1 Translations
+	通过广告我们激发了对这些商品的意识... 然后我们教育着人们 使用它们的办法
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It never occurred to me that Mike and Cherie's marriage was in any trouble.
+Top 1 Translations
+	迈克和Cheerie的婚姻陷入任何危机 我甚至都没想过 她和Shelnie在谈婚论嫁的事
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: All attempts to reach Darren at home on his phone met with failure.
+Top 1 Translations
+	以电话与Darren联络时遇到的失败与希望获得对方信号的努力大相径庭。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Any problems arising from the new contract are not my concern. I warned against signing it.
+Top 1 Translations
+	不论该工程合同出了什么问题不属我的责任, 我曾警告不要签字
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director was accused of being inflexible in the way he ran the company.
+Top 1 Translations
+	负责人被控在他的经营公司方式方面的僵硬立场。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the tough economic climate, the company GTV has shrunk by over 40%.
+Top 1 Translations
+	处于严酷经济情况下, 全球电视台企业缩减了 40强。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Modern conditions such as diabetes and alcohol abuse has caused life expectancy to fall in some countries.
+Top 1 Translations
+	随着一些国家内出现一些新的健康问题像一些糖尿病和精神污染一样出现现象,使这些国家的人民生命垂短无望。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The words of his resignation letter implied he was unhappy with several of his former colleagues.
+Top 1 Translations
+	他的辞职通知的意思是他对他的若干过去的同事感到不高兴。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas never disclosed the negative role he had in taking over the company
+Top 1 Translations
+	托托马斯也从未 公布自己的不良后果
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Dr Hartson is an animal expert, but I don't believe the scope of his expertise is as wide as you think.
+Top 1 Translations
+	哈医生是家兽专家 但他专长的范围
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We understand it's late and we don't mean to impose, but we have some important questions for you.
+Top 1 Translations
+	我们认识到已很晚了而且我们也不想强制 但是有些重要的问题
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: On arriving at the theatre, the Queen was presented with a large bouquet of tulips by a young girl.
+Top 1 Translations
+	她一到达表演院,由一名少女带见一名少女,她向女王提出了一棵巨大的郁金香阵容的露金花。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The suspect's complaints about his treatment by police were noted and he was taken into custody.
+Top 1 Translations
+	他们注意了嫌疑犯对警察把他虐待行为提出的申诉,他被扣押拘禁。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "We will surely lessen our problems if we work together on a solution."
+Top 1 Translations
+	只要我们共同致力于求解决办法 我們必必少少疑我們的煩問"
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We paid the lawyer to draw up a totally new will, one which left the three boys much better off.
+Top 1 Translations
+	我们在付那一位新遗嘱给她钱 要律师写出来一个......这是更好的遗嘱 它将这三个孩子关进去.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The optimum time for making decisions is lunchtime.
+Top 1 Translations
+	最好什么时候是午餐时间去作决策?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The elderly patient was considered too frail to survive an operation.
+Top 1 Translations
+	一名老人年长患病被认为是虚弱而不可能存活手术。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Last Sunday, the highest temperature in recorded history was registered.
+Top 1 Translations
+	上月一日星期一是历史上历史中最高溫一次登记记录(www.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Milk is an important source of calcium and vitamin D and is an important part of any diet.
+Top 1 Translations
+	营养食品和食品 牛奶是重要的食用碱和维生素 D的来源,是营养重要 的组成部分
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The customs officer was suspicious and called the man over to inspect his luggage more closely.
+Top 1 Translations
+	负责海关海关的官员对他产生了怀疑并打电话给此人对其行李进行更严密查验。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Are these old plates of vital importance or can I put them into storage?
+Top 1 Translations
+	他们是非常重要还是我能把它放起来 贮藏这牌块? 你对吗... 对!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The humble bee, so often taken for granted, plays a key role in agriculture.
+Top 1 Translations
+	这种轻柔和往往不认为当然的事实胜负的蜜蜂对农场具有关键性作用。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Singers take care of their voice to guarantee optimum performance.
+Top 1 Translations
+	希望他们能够通过他们的意见来最佳演出的
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even if you can't quit smoking, you should do your best to at least cut down a bit.
+Top 1 Translations
+	你不能戒烟 就应该至少 减掉几条命
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The charity dance raised $5000 and the hospital was able to buy a new heart scanner.
+Top 1 Translations
+	一家教会舞会募出五千亿元, 而且一家医院可购买新的心室感扫描仪。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It is often only through long experiments of trial and error that scientific progress is made.
+Top 1 Translations
+	科技的进展经常仅靠漫长的尝试, 或长期的错错觉取得着科学成就;
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The working day in the factory is divided into day and night shifts.
+Top 1 Translations
+	厂铺内工作日分成上下班工等两轮。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The job is tough, lonely and yes, on occasion, even depressing.
+Top 1 Translations
+	但这一工程困难,孤寡,有时甚至是郁忌
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The shopping centre was built surrounded by a vast extent of concrete for parking.
+Top 1 Translations
+	该购物中心的大楼周围有许多停车用水泥土。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Every person in this room has played an important part in the success of the company.
+Top 1 Translations
+	在这间房里每个人在这个公司获得成功方面发挥了重要作用。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The little girl insisted until hospital staff finally showed her to her father's room.
+Top 1 Translations
+	这个小女孩的坚持到底是否还一直持续等到,当医院工作人员的 最终带着她上前 她到了父亲室时才来. 我们发现她没去.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The murderer worked in a cemetery and had no problems in disposing of the body.
+Top 1 Translations
+	那凶者去公丧区工作 在身体处置方面完全正常 但尸体不能不由得来清理尸体 无法被处死 尸体是无法处理
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two local journalists were criticised for the part they played in spreading the malicious gossip.
+Top 1 Translations
+	这两名当地记者被指控 扮演散布仇恨的谣言之角色。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charlie almost got to the end of the speech before he was interrupted by a drunk guest.
+Top 1 Translations
+	查理的恶言之语快结束时 一名醉酒的宾客来打擾他
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doctors say antibiotic usefulness varies from patient to patient.
+Top 1 Translations
+	由于 医生称疫苗的使用功能因 病人和患者的不同而不一 我发现这个功能在持续上升 病毒通过医疗治疗
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite past good performances, the actor was fired when the studio decided he had become a liability.
+Top 1 Translations
+	在过去的出色绩效里 这个演播处决定 做一个负责任的演唱的表演的时候 该角色就受到开除了
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police fear that the boy missing since Tuesday night is in danger.
+Top 1 Translations
+	警方担心那孩子周二夜失踪会有危险.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: As a matter of course, we delete all email records after three years.
+Top 1 Translations
+	我将三年後删除所有电子邮件档案。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The tribes on these islands carry out a strange hunting ritual at the beginning of summer every year.
+Top 1 Translations
+	这个小岛上的部落在夏伊初 每年夏刻执行一个陌生的猎物仪式,这些部落都会
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have to walk down three flights of stairs just to get rid of our rubbish. What an inconvenience!
+Top 1 Translations
+	我们必须三上楼 就来摆脱我们的垃圾 好大碍!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sharon had broken many regulations at work and finally paid the price by losing her job.
+Top 1 Translations
+	沙龙打破工作场所的一些规定最后失去工作的酬劳。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You've been eliminated from the competition because we've discovered you cheated.
+Top 1 Translations
+	我们发现你偷袭 我们把你消灭于竞争之中
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even the tiniest fault in a rocket can lead to a catastrophic failure at launch.
+Top 1 Translations
+	火箭的小型断层 甚至还可能造成发射时的 灾难故障 核爆后, 爆炸发生时
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I met a woman in town who was talking to people about homeless teenagers and asking for donations.
+Top 1 Translations
+	当我发现这位女人和那些流浪少女谈话时 他们向学校要捐助资金
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a very unusual setting for this movie: a prison for badly behaved dogs!
+Top 1 Translations
+	有场不寻常的情形... 让这电影被害狗关进去监狱!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though we always turn right here, I often wonder what's down the other road.
+Top 1 Translations
+	不过,我也总不知道这条路的路有其它的东西
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two ferries collided today in the main harbour, but there were no injuries.
+Top 1 Translations
+	今天有两个渡轮遇险 位于大港但是并无伤员出现
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The red squirrel, once common throughout Britain, is now restricted to the north.
+Top 1 Translations
+	以前一直常见的大公红松鼠现在却限制在北部
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In many countries, specially trained dogs are used to locate hidden drugs.
+Top 1 Translations
+	很多国家利用受过特别训练的犬查找隐藏毒品地点。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Once you cross the border, you are subject to the laws of another country.
+Top 1 Translations
+	如果你越过外国国界,应受另一国司法制裁。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The film last year helped to revive interest in 1920s fashion and even ways of speaking.
+Top 1 Translations
+	这出去年的电影有助于让人们 重新恢复对1920年时款感兴趣,甚至能够表达他们的说话的方式。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have decided to discard the Premium 2000 computer security system. It's too old now.
+Top 1 Translations
+	我们已经决定将2000安倍的 计算机安保安全系统彻底废弃了 现在它太陈旧了!的装置已经已经太老旧。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It was the child's history teacher that first realised she was being neglected at home.
+Top 1 Translations
+	这个女孩史方面的老师才刚刚认识到家庭对此忽视
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police told everyone to stay at home until the band of thieves had been captured.
+Top 1 Translations
+	听说有警方指示大家都留在门口直至贼盗被逮捕后,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Hal's parents apologised for their treatment of him and said they wanted to rectify the situation.
+Top 1 Translations
+	Hol的父母都对对他的遭遇进行补偿 并说要纠正局面。 他们想要
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A truck that was carrying food goods fell into the river, but the driver managed to escape.
+Top 1 Translations
+	一辆运输食品卡车掉进了这条河流,但是驾车者设法逃走了。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You simply must invite Carol to the party. She's always the life and soul of any evening.
+Top 1 Translations
+	只要邀请嘉蘿来参与派對 就是她是夜晚生活和精神的唯一人选。她无一例外是 女人会得到什么?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I'm tired and in pain and what's more, I didn't even want to come here.
+Top 1 Translations
+	我很疲乏又受痛苦 何況 我什至不想来这里的
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sadness is an inevitable part of the bereavement process.
+Top 1 Translations
+	在死亡后 伤患是不可避免的一部分
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you read Anna's comments in context, you'll see there wasn't anything wrong with them.
+Top 1 Translations
+	你要是阅读了她在上下文的批录 说明它们没有错 对不对
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of South America was ravaged when diseases were introduced by arriving Europeans.
+Top 1 Translations
+	在抵达的欧洲人使疾病泛滥后,南美洲许多国家遭到破坏。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This chain of mountains derives its name from an ancient tribe that lived in the area.
+Top 1 Translations
+	这个河流从此形成 它名称的一个古老的乡村
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists have observed a strange phenomenon in the atmosphere of Mars.
+Top 1 Translations
+	6. 目前科学家已经观测到火星空气中一种奇怪现象,但人们却在观测这种变化。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I owe my sisters a huge debt of gratitude for the way they've helped me out in recent years.
+Top 1 Translations
+	我对姐姐非常感谢。 感激他们近几年来帮我
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Before we get under way, are there any questions you would like to ask me?
+Top 1 Translations
+	在出发之前 你有什么需要质疑的吗 我问你的吗?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: She cried all through what was supposed to be a light-hearted film about rabbits.
+Top 1 Translations
+	她一直哭不停,看一部 说成关于兔子平淡 的电影啊。 这首电影是一本轻松的影片的节目吧!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I firmly believe him to be innocent of the crime.
+Top 1 Translations
+	他有罪,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After her computer was struck by a virus, she was unable to retrieve the accountant files she needed.
+Top 1 Translations
+	她電腦被病毒击中后,拿不好需要的会计文件,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: An abandoned military base in the desert is the setting for Al Abner's latest sci-fi novel.
+Top 1 Translations
+	这个被遗弃军事基地是在沙漠里的 在Abneser最新出品 一本科学 -商业日制的 小提像片的环境。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I don't like it when newsreaders start giving their subjective opinions about the news. That's not their job.
+Top 1 Translations
+	但不要对这个报导说主观的看法了.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Jersey is probably one of the most well-known breeds of cow in the world.
+Top 1 Translations
+	西泽尔也许是最著名种母牛奶中动物种之一了
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Can you detect the subtle taste of peach in that red wine?
+Top 1 Translations
+	你们能看到那瓶红色红酒中桃 油浓味嗎
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lack of vital vitamins and minerals can lead to a wide range of illnesses and conditions.
+Top 1 Translations
+	缺乏重要的维生素(维他命矿藏);这可将导致各种疾病;产生各种各样的危险和情况?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Due to the fact you weren't listening, you understood virtually nothing of what I said.
+Top 1 Translations
+	因为你当时什么都没听过 你到底对我说的完全没在懂
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rules and regulations were explained many times, but he has failed to comprehend them.
+Top 1 Translations
+	对规则和制度规则进行了很多次的解释性发言,但是他没有理解。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "I risked life and limb to save you and look at how ungrateful you are!" Charles shouted.
+Top 1 Translations
+	"我已经冒险救过你并见证你是多么不知感激啊"! "Charles对我发出呼喊。"
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Do you even notice that you're whistling? It's really disturbing me.
+Top 1 Translations
+	我真的很累 很麻烦喔,伙计!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though the report is good, I don't think you do enough to define the goals of it at the beginning.
+Top 1 Translations
+	这个报告做得更好 但做这些不够了 我想从一开始你就会清楚知道目的
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Disaster struck on the fairground ride when one of the children released the safety bar.
+Top 1 Translations
+	一些灾害发生在观光游街之旅,其中一位这些儿童便放掉了保险条。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Pesticides have meant that many butterflies native to this area are no longer found.
+Top 1 Translations
+	当地许多植物已不在,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The sacked teacher returned to the school and made off with computer equipment worth thousands.
+Top 1 Translations
+	这师傅被丢出之后返回学校 乘坐电脑 走了数千人 并且又用电脑 以数千美元的收益 取而回的
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even though the accused didn't carry out his threat, the victim was left terrified.
+Top 1 Translations
+	因为被告人并未实施威胁 虽然受害人仍极度害怕 但
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "It is only through the generous grants given to me by this college that I'm able to continue my work."
+Top 1 Translations
+	"只有在这间师舍提供 捐赠的赞助下... 我才能够继续我的活动。"“"
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Great care must be taken with fireworks and similar devices that can cause injury.
+Top 1 Translations
+	应当非常审慎地处置会造成损害的焰火与类似设备,并小心使用这些装置来引起伤害,特别是要十分谨慎。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Dollar-Euro exchange rate has fluctuated a lot throughout the year.
+Top 1 Translations
+	一年来以美元计算欧元的汇率上上下着许多波动。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Many animals are endangered because humans have invaded their usual habitat.
+Top 1 Translations
+	因为人类已侵入它以前居住的地点 而危害了大量的动物
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being such a frequent visitor to Paris, Sam never bored of exploring it.
+Top 1 Translations
+	尽管经常会来巴黎拜访 Sam从来不觉得无聊探索过它
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: When choosing for this role, don't overlook the talents of Brian, one of the best actors in the academy.
+Top 1 Translations
+	选这角色 千万别看清布莱恩的大本营 布赖恩作为学院最厉害的人之一
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The taste is wrong. Add some more salt to it. That might do the trick.
+Top 1 Translations
+	不妙品味,加点盐就行了 这会很好玩
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director promised a broad and thorough review to get to the bottom of why the scandal happened.
+Top 1 Translations
+	但记者表示:「我们觉得这是件大事”。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Engineers made a tiny adjustment to the fuel pump and the mission continued.
+Top 1 Translations
+	工程师只略加调整汽油泵,但持续进行这一工作:
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: At moments like this, I like to remember my grandfather and how he used to play that old violin.
+Top 1 Translations
+	等现在 这样的时间时 我会记得我的爷爷 还有他就曾经唱起那回琴
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you carry out this task successfully, it will help us enormously.
+Top 1 Translations
+	如果你圆满完成这次的使命 对于我们也非常有帮助
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Large black bands of clouds moved over the area and before long, the rain had started.
+Top 1 Translations
+	当时,大黑色波束云飘过一片区域,雨水雨渐趋直拔而开始下下,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You're looking so stressed Mike. You need to take it easy.
+Top 1 Translations
+	迈克,你看起来像是很压迫啊 你一定要放鬆
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A meteorite or comet impact is thought to have contributed to the dinosaurs' extinction.
+Top 1 Translations
+	7. 他认为流星或者彗星的影响促使了恐农的灭亡。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police clashed with protestors who are trying to protect an ancient woodland from being destroyed.
+Top 1 Translations
+	警察曾曾与抗议抗议者发生冲突, 他们想试图维持森林原野免于遭到破坏,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Oh, that dress reveals too much, Carol. I'd change it.
+Top 1 Translations
+	那个衣服揭露得太多Canoro 我会更改你的那件的
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The findings of the report have yet to be analysed by the government so they can formulate new policies.
+Top 1 Translations
+	这一报告中有关内容,政府仍需进行分析,以便对之加以阐述;以便能制定出新的政策和方针。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Alcohol consumption has risen again among the young, according to a new report published today.
+Top 1 Translations
+	而现在公布的一项新的报告显示年轻酒精吸量已再度在增加。
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Have you decided whether you'll opt for our standard insurance or the premium policy?
+Top 1 Translations
+	请问您决定是否购买我们规定标准保险费 还是保证保险单呢?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You need to be more productive, Susan, and I mean that in terms of the hours you do here in the office.
+Top 1 Translations
+	你得更有生产力,苏珊 我是说你们在上班时段
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: 
+Top 1 Translations
+	同上里
+-----------------------------------------------------------------------------------------

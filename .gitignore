@@ -1,3 +1,4 @@
 env/
 esl_lounge
 */__pycache__
+tmux-*

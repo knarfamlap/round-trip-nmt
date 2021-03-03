@@ -1,0 +1,725 @@
+-----------------------------------------------------------------------------------------
+Test Sentence: Lance is highly knowledgeable on this subject.
+Top 1 Translations
+	And Lancey know that the reason and brilliant and...
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I need a good explanation of all the costs involved in buying a new car.
+Top 1 Translations
+	It needs clarity on exactly exactly whatever you purchase your own new wheel... to have to get the price to a car
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There was a lively debate about the Middle East, then they moved to a vote.
+Top 1 Translations
+	A cynicistic Middle-East dispute caused much to begin to debate and move up the ballot. "
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The doctor told him to lose weight quickly or pay the price later in life.
+Top 1 Translations
+	I want these cuts and some of 'ercosure reductions'?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jet lag causes problems with our biological clock.
+Top 1 Translations
+	We live by styrophate of airs.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This species of seagull is not a resident of the island, but will sometimes rest here a while.
+Top 1 Translations
+	geese from the species didn't make it from over our national borders, she was in need of the company that was here.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doesn't it strike you as strange that it's the middle of May and it's snowing?
+Top 1 Translations
+	Is there something strange with these snow showers in May?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I didn't stay behind because I wanted to, I did so because it was my duty.
+Top 1 Translations
+	It wasn't an actual request for the room
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: What angered me wasn't his resignation but the manner in which he did it.
+Top 1 Translations
+	His resignation didn't depend... on the manner of he resigns, the exact method used, in order to make me feel less... a threat than what happened.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you can't make out what's written, change the zoom level and it'll become clearer.
+Top 1 Translations
+	When he does, the cipher would know you'll look like the size-check you saw it and how he looked. [ laughs Laughs ]
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a wide range of issues that we need to discuss as soon as possible.
+Top 1 Translations
+	- No, no I know
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being wounded in the battle, the solider fought on and was awarded a medal for bravery.
+Top 1 Translations
+	It occurred to those killed in combat when he is doing what he earned to take care of it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rain will persist for most of the morning, but we are expecting a brighter afternoon.
+Top 1 Translations
+	The rain has been rains forever half a.. Our hopes are for one brighter year afternoon to come
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the mating season, the male of the species calls out with a distinctive gu-gu sound.
+Top 1 Translations
+	They were shouting with such peculiar noises throughout the mating period and male animals.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Marie Curie, one of the best-known pioneers in working with radiation, died in 1934.
+Top 1 Translations
+	One of the bright vantelists, Mary Hurley, of nuclear disease research. she died in 1934.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Deep sea oil exploration is a dirty and dangerous business.
+Top 1 Translations
+	deep-sea exploration is both a very bad exercise and a very dangerous one.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of the neighbourhood was demolished in the 1940s when living conditions had deteriorated.
+Top 1 Translations
+	Much of the neighborhood has collapsed during the more of 40 centuries owing to a deterioration in the standard- living conditions.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists are yet to understand the full nutritional benefits of the humble olive.
+Top 1 Translations
+	However, it must know that not only should the water cover cover up for an olive-groom area be on its diet but also how the right size does the grain grow up.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You can come and observe us performing this operation, if you want.
+Top 1 Translations
+	Just a little tour, maybe see how he lives
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Bears used to be very widespread in this part of the country, but nobody has seen one for ten years.
+Top 1 Translations
+	He used to be very strong at places.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Ben was summoned to the court for jury duty, but took a doctor's note with him and was excused.
+Top 1 Translations
+	The court judge summons Ben to serve on his jury, but with a patient to share with the latter message and relieve his guilt. This was the following time-consuming:
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The police crossed four states in pursuit of the bank robber.
+Top 1 Translations
+	Reckoning the bank robbers?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After three years of recession, the country's economy is finally looking a lot healthier.
+Top 1 Translations
+	The news that the QC was unable, the main result behind China’s political situation as a group had the capacity not to supply antiretroviral medicines, ailments, medicines and RI kits on Chinese-led television?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We altered our final forecast of yearly profits due to more accurate advertising and marketing costs.
+Top 1 Translations
+	Because publicity, as well in terms of selling costs, has become accurate and yet it changes our latest annual returns forecast; some have now moved the cost of advertising and selling.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two wolves ran through the forest in pursuit of a deer.
+Top 1 Translations
+	But when you found a gret, there were two packs running over jungles...
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The economy touches every aspect of our lives.
+Top 1 Translations
+	The whole economy involved various aspects in life.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Like most safety features, the air bag is very rarely used but when called upon, must operate perfectly.
+Top 1 Translations
+	As for protection features like most, the use or incubulity may rarely occur or, even where the summon may be required to have a optimal working mechanism at large;
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The cup will remain here at the clubhouse for a month on display before being sent to the museum.
+Top 1 Translations
+	He is scheduled for display by museums and hide at evening fairs a day before a little extra in the yard and continue to reserve him here the museum.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jed ran the whole business after his father died and left him the company.
+Top 1 Translations
+	He left my office when Sid took control of that store, as the latter died.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The garden is a paradise for flowers in particular. We have seventeen varieties of roses.
+Top 1 Translations
+	gardenes will provide heaven of new flowers. And the seventeen-various roses would have had a number of, so much,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The terrible weather resulted in severe traffic delays and the closure of the airport.
+Top 1 Translations
+	Because of the long-outstanding nature of traffic resulting from that climate, and the lack of a blockade between airfields resulted from poor weather.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "What is more," Clarissa said, "I feel I'm being ignored."
+Top 1 Translations
+	Crasse said: What has become of it? Claysa says: ♪ My oversight lies within my eye covering.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas graduated with a specialist degree in the field of criminology.
+Top 1 Translations
+	It's a college in Tempprolead and the best I got.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lasers can measure distances with incredible precision.
+Top 1 Translations
+	The laser survey deviations are as accurate that could well have been
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: My two cousins were so excited at the start of the war, they ran downtown and signed up immediately.
+Top 1 Translations
+	They run cityallyand sign and write the letter... to our parents in the mornings they come on in.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This machine scans the user's eye and can confirm identity.
+Top 1 Translations
+	This machine... sweeps your users eye
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The inquiry into the accident will be overseen by Malcolm Jones, a former army general.
+Top 1 Translations
+	Research has been held into the issue by Malcolm Jones, the new Head of Army Staff, to cover incidents.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though Carla's remarks seem insulting, if you see them in context, they're actually quite innocent.
+Top 1 Translations
+	Look at them all in context, but in an exact way you might notice the sound value of Alan and Rick with these arguments.....
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even early in the city's life, the quest for knowledge led to the founding of a university.
+Top 1 Translations
+	Prior to this early-stage process in the municipality, knowledge-generating has lead to setting up an office that can build a university or new.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The three teenagers spent a cold night on the exposed mountain before rescuers arrived.
+Top 1 Translations
+	Three of them have survived from cold last night on Snow Hill, then rescue members may reach you for a second.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Politicians have been arguing about the reasons for the decline in the number of unemployed.
+Top 1 Translations
+	I know he is one and the next, not a big and a lot as the government and the media is also an expert on the role being assigned to that.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charles Lindbergh was one of the early pioneers in powered flight and crossed the Atlantic in 1927.
+Top 1 Translations
+	Charles Rimver took a drive-away flight a little long before crossing that Atlantic in 1 927 months.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We used advertising to generate interest in the product and then educated people on how to use it.
+Top 1 Translations
+	By commercials we are generating awareness about these articles... and the kind which we're teaching them... their options... they should be known to be a tool that we find and make for these... and we would do more to get it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It never occurred to me that Mike and Cherie's marriage was in any trouble.
+Top 1 Translations
+	Mike and Cherie's marriage became the hardest thing for me.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: All attempts to reach Darren at home on his phone met with failure.
+Top 1 Translations
+	This failure had contrasted significantly with a failed telephoning attempt to capture each other; he was able for him.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Any problems arising from the new contract are not my concern. I warned against signing it.
+Top 1 Translations
+	I didn't have the blame of anything that might go wrong with our contract of construction... and was already on the radio. And you didn't really wanna do it anymore. The man who is in charge will get away.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director was accused of being inflexible in the way he ran the company.
+Top 1 Translations
+	Chief in charge is charged with being rigid when it comes to the way in which he operates.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the tough economic climate, the company GTV has shrunk by over 40%.
+Top 1 Translations
+	Global television broadcasters have also managed to cut by around 40, even in difficult socioeconomic circumstances (and more severe) environments. (GATT companies are also also in danger of losing.)
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Modern conditions such as diabetes and alcohol abuse has caused life expectancy to fall in some countries.
+Top 1 Translations
+	As the emergence of many of the new emerging problems with hygiene issues has emerged as much among a few countries as diabetes or psychological contamination have kept many in fear in these world countries.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The words of his resignation letter implied he was unhappy with several of his former colleagues.
+Top 1 Translations
+	It implied a discomforters with his previous colleagues. The Secretary General was very disappointed in the request of
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas never disclosed the negative role he had in taking over the company
+Top 1 Translations
+	And neither have Tooth yet divinised any adverse consequences.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Dr Hartson is an animal expert, but I don't believe the scope of his expertise is as wide as you think.
+Top 1 Translations
+	- Dr. H is a veterinary surgeon, though with this.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We understand it's late and we don't mean to impose, but we have some important questions for you.
+Top 1 Translations
+	It was just the least I could be if I didn't recognize you, but... There were really important questions in it. I did really think that they would make a decision that you might be here today, but you are so incongrite? (Brew) No way, no way. No way. (And you know it would do any harm....) No one would think to make the decision
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: On arriving at the theatre, the Queen was presented with a large bouquet of tulips by a young girl.
+Top 1 Translations
+	upon she reached the performance theater and introduced her to this girl to whom she presented the queen a giant tulip tart with dazzles from it. - How are we doing today in this room and when you come back in from the hospital? - What we call it that.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The suspect's complaints about his treatment by police were noted and he was taken into custody.
+Top 1 Translations
+	When they heeded that allegations of alleged harassment on his account were made against him by policemen he was still kept in arrest.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "We will surely lessen our problems if we work together on a solution."
+Top 1 Translations
+	If that is something we will all share a common concern. "
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We paid the lawyer to draw up a totally new will, one which left the three boys much better off.
+Top 1 Translations
+	We paid for an article to her with counsel's signature to get it out so it'd be best-beloved. It's into-cell with three kids.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The optimum time for making decisions is lunchtime.
+Top 1 Translations
+	When better should it take shape from midning? I was going after all four days of night work on a school day, and a half years of work at lunch, so what time did he get in on this, you could be going back to work?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The elderly patient was considered too frail to survive an operation.
+Top 1 Translations
+	The chronic case is regarded as weakness rather than survivor operations by the aged person;
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Last Sunday, the highest temperature in recorded history was registered.
+Top 1 Translations
+	In a recent episode with a new history of over 90-million years the registration of the most developed registration records in the country in this calendar was scheduled for the first year in 2009.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Milk is an important source of calcium and vitamin D and is an important part of any diet.
+Top 1 Translations
+	- milk was a crucial food source (in both the ailable Quetzary dietee and Vivodium Vita.) - an integral component of nutrition. That has not happened since June 2001.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The customs officer was suspicious and called the man over to inspect his luggage more closely.
+Top 1 Translations
+	Authorities involved in Customs questioned Him and called him about carrying out tighter screening work over his shipment.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Are these old plates of vital importance or can I put them into storage?
+Top 1 Translations
+	If it'd been more so, maybe we should give in... they might be pretty serious, just could I put them right away, like a stockmark, like a piece of metal?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The humble bee, so often taken for granted, plays a key role in agriculture.
+Top 1 Translations
+	Their soft-hearted — rather than often natural — beees have a major role in agricultural agriculture.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Singers take care of their voice to guarantee optimum performance.
+Top 1 Translations
+	It's an honor, and in order to have the best work, if anything will happen.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even if you can't quit smoking, you should do your best to at least cut down a bit.
+Top 1 Translations
+	You don. You just have to at least... give up life for yourself.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The charity dance raised $5000 and the hospital was able to buy a new heart scanner.
+Top 1 Translations
+	A church party raised $50-billion, and it got to buy a new psychopsy scanner and that was really great, and she' (slowing) was in front of them: I said, what was the best you might ask for for : "Gibbles."
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It is often only through long experiments of trial and error that scientific progress is made.
+Top 1 Translations
+	In the first years of our time, this science process was made in many parts in Asia or Asia: technology advances were sometimes simply slow attempt through and the sound delusion over some of you have ever accomplished so far; science achievements occurred within countries like France; and technology and industry have suffered.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The working day in the factory is divided into day and night shifts.
+Top 1 Translations
+	At the plant level, the rest of work time was divided in two cycles, including day work.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The job is tough, lonely and yes, on occasion, even depressing.
+Top 1 Translations
+	But what's difficult, very sad or very miserable about that?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The shopping centre was built surrounded by a vast extent of concrete for parking.
+Top 1 Translations
+	The market complex is home only after it has been built for three weeks, in the same areas which the buildings and building built are affixive about garage-mounted, concrete floors with lots of parking earth.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Every person in this room has played an important part in the success of the company.
+Top 1 Translations
+	Everybody in the house is the most vital element of the company successes.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The little girl insisted until hospital staff finally showed her to her father's room.
+Top 1 Translations
+	Well that's just that we haven't heard about the girl so she doesn't come when she actually comes to Dad's house and when we're done, it gets you, uh  .... < ouuu_uu....to go — To come and get the baby to your place to take your father?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The murderer worked in a cemetery and had no problems in disposing of the body.
+Top 1 Translations
+	The murder victim left for his hospital at his site but it could take him or her to do things right, he could not handle his dead.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two local journalists were criticised for the part they played in spreading the malicious gossip.
+Top 1 Translations
+	The local journalists on trial allegedly acted as evaporates of hate rumor.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charlie almost got to the end of the speech before he was interrupted by a drunk guest.
+Top 1 Translations
+	He's coming around the end of something that Charlie said a drinking guest came for his ass, man.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doctors say antibiotic usefulness varies from patient to patient.
+Top 1 Translations
+	And given the Doctor's theory about the functionality of administration because the patient may not have anything as the patient will be the other than its current function which may have grown continuously... in case this virus is being treated by means of medical services.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite past good performances, the actor was fired when the studio decided he had become a liability.
+Top 1 Translations
+	So with our great accomplishments here from earlier shows in my world the character was fired while it decided to do a responsible gig.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police fear that the boy missing since Tuesday night is in danger.
+Top 1 Translations
+	The Police fears their child's detention on Tuesday night might risk the day you leave.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: As a matter of course, we delete all email records after three years.
+Top 1 Translations
+	I should be taking all E-mail formats out in three-date years.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The tribes on these islands carry out a strange hunting ritual at the beginning of summer every year.
+Top 1 Translations
+	In his first summer days on that island, one rare-foulded family of mine has been doing the ritual. In those very last few minutes. All these tribal groups can do what you tell me are the same, and they must have been a few hours apart.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have to walk down three flights of stairs just to get rid of our rubbish. What an inconvenience!
+Top 1 Translations
+	We have to run downstairs for three months on what we'll be doing here right now! I's on to get away! That ain't bad enough for us anyway. We got a lot to deal with. I can make a whole lot of mistakes right here.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sharon had broken many regulations at work and finally paid the price by losing her job.
+Top 1 Translations
+	SHAHAN had finally run out of pay payments to meet several provisions in the workplace:
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You've been eliminated from the competition because we've discovered you cheated.
+Top 1 Translations
+	You have come upon us so you are eliminated by confrontation...
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even the tiniest fault in a rocket can lead to a catastrophic failure at launch.
+Top 1 Translations
+	That've even brought for disaster problems while firing, when the process of detonation occurs...
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I met a woman in town who was talking to people about homeless teenagers and asking for donations.
+Top 1 Translations
+	If I find her talking with those wanderer girls, they have to invest money on my school trip. Yeah.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a very unusual setting for this movie: a prison for badly behaved dogs!
+Top 1 Translations
+	In some extraordinary way to hold the film to custody, a thang, that a dog can do?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though we always turn right here, I often wonder what's down the other road.
+Top 1 Translations
+	However... there's something about all these roads that isn't even there.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two ferries collided today in the main harbour, but there were no injuries.
+Top 1 Translations
+	The crew of two ferry crews in distress today do nothing but have the wrong persons.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The red squirrel, once common throughout Britain, is now restricted to the north.
+Top 1 Translations
+	Once common... The giant melody, now on hold, will be north of them.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In many countries, specially trained dogs are used to locate hidden drugs.
+Top 1 Translations
+	The detection place of drug concealment at which specially trained caning could be utilized was observed by very many States.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Once you cross the border, you are subject to the laws of another country.
+Top 1 Translations
+	If you crossed a foreign country's limits as the target for which a criminal offence would apply by other country, then another law could bring that penalty up if the person whose identity it was is said in any State.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The film last year helped to revive interest in 1920s fashion and even ways of speaking.
+Top 1 Translations
+	This film of the last years was really helpful in getting things out back to interested with the 1920s when they were really so excited as expressing all the means that people can tell for one last year what to talk about.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have decided to discard the Premium 2000 computer security system. It's too old now.
+Top 1 Translations
+	This, which you already chose to use, is about 200 of Amber's Computer Security security system. What we have is obsolete! A device already abalones!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It was the child's history teacher that first realised she was being neglected at home.
+Top 1 Translations
+	Well, this young girl's education teacher recently came across her family's neglect of the place.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police told everyone to stay at home until the band of thieves had been captured.
+Top 1 Translations
+	It’s heard that policemen ordered everybody to stop and stop at the entrance to it as the thief has been captured.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Hal's parents apologised for their treatment of him and said they wanted to rectify the situation.
+Top 1 Translations
+	Bol's parents both made good that he'd be punished for it and tried hard on the situation, but they didn't expect this to do any better. It was all wrong
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A truck that was carrying food goods fell into the river, but the driver managed to escape.
+Top 1 Translations
+	Another grain truck fell over the same river, though driving attempted to evade it as they had.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You simply must invite Carol to the party. She's always the life and soul of any evening.
+Top 1 Translations
+	Well, you know it'll only take two days for her to go out here and invite Caroline on this party because there's more than one woman here who'll be alive for good for the world of the night.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I'm tired and in pain and what's more, I didn't even want to come here.
+Top 1 Translations
+	Well then... it will help us get home. You do not want us.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sadness is an inevitable part of the bereavement process.
+Top 1 Translations
+	They're certain it should take the fall of a corpse from the dead.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you read Anna's comments in context, you'll see there wasn't anything wrong with them.
+Top 1 Translations
+	If you read all the things that made her look at, just add them. Isn't he in? The one she was?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of South America was ravaged when diseases were introduced by arriving Europeans.
+Top 1 Translations
+	Once the Europe is inundated with disease it ravages a number of the countries of South America by arrival.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This chain of mountains derives its name from an ancient tribe that lived in the area.
+Top 1 Translations
+	This river came together by using it for a country the former,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists have observed a strange phenomenon in the atmosphere of Mars.
+Top 1 Translations
+	6. Although yet they were seeing a rare behaviour in space, scientists were already observing that change.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I owe my sisters a huge debt of gratitude for the way they've helped me out in recent years.
+Top 1 Translations
+	I would like to thank you very well for this! and for those years.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Before we get under way, are there any questions you would like to ask me?
+Top 1 Translations
+	I beg you. How would anything be necessary before departure? You know me.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: She cried all through what was supposed to be a light-hearted film about rabbits.
+Top 1 Translations
+	She was still browning to look at a film called Bumms a Melody.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I firmly believe him to be innocent of the crime.
+Top 1 Translations
+	That's the truth.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After her computer was struck by a virus, she was unable to retrieve the accountant files she needed.
+Top 1 Translations
+	After the virus shot Her computer won't be provided the accounting files needed
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: An abandoned military base in the desert is the setting for Al Abner's latest sci-fi novel.
+Top 1 Translations
+	And we found in a desert a short photo collection of one Science, Commerce and Globals of space, as part of our site called Amb 6.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I don't like it when newsreaders start giving their subjective opinions about the news. That's not their job.
+Top 1 Translations
+	So don't be subjective about any of those articles! I guess there have to make sense!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Jersey is probably one of the most well-known breeds of cow in the world.
+Top 1 Translations
+	Sisel, perhaps perhaps one of the best female milk types I know of is animal.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Can you detect the subtle taste of peach in that red wine?
+Top 1 Translations
+	Now look how much peach you can smell the red glass...
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lack of vital vitamins and minerals can lead to a wide range of illnesses and conditions.
+Top 1 Translations
+	Incomplete vitamin stocks of all sorts which can lead to sickness; and risk to all types and context?,.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Due to the fact you weren't listening, you understood virtually nothing of what I said.
+Top 1 Translations
+	Well-- 'Cause you haven't heard anything at this moment at all, okay? You're out of date with that kind to me or not.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rules and regulations were explained many times, but he has failed to comprehend them.
+Top 1 Translations
+	He had also spoken in many ways on interpretations in connection with the rules and institutional framework on the whole but wondered why he did not.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "I risked life and limb to save you and look at how ungrateful you are!" Charles shouted.
+Top 1 Translations
+	"I am willing to come in and tell them it's hard, because Charles has screamed a few questions.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Do you even notice that you're whistling? It's really disturbing me.
+Top 1 Translations
+	I'll have it back! - I feel really exhausting. Quzz!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though the report is good, I don't think you do enough to define the goals of it at the beginning.
+Top 1 Translations
+	I guess from this moment you knew why from behind.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Disaster struck on the fairground ride when one of the children released the safety bar.
+Top 1 Translations
+	Some of them have gone on street tours, with one girl releasing protection from it.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Pesticides have meant that many butterflies native to this area are no longer found.
+Top 1 Translations
+	There may have been much plant out there already.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The sacked teacher returned to the school and made off with computer equipment worth thousands.
+Top 1 Translations
+	That teacher back to School after it lost, with 1,000 dead left on computers again took from a computer and taken them in thousands of US dollars
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even though the accused didn't carry out his threat, the victim was left terrified.
+Top 1 Translations
+	'Cause the victim just couldn't put up the threat.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "It is only through the generous grants given to me by this college that I'm able to continue my work."
+Top 1 Translations
+	If there had only this conflagred gift from the classroom... ♪ Then I am going through the lineup.... "'"
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Great care must be taken with fireworks and similar devices that can cause injury.
+Top 1 Translations
+	Burnings should not only be handled for damage-like installations but also to make care, in particular in the application of such installations in favour of injury-making effects in practice.” The Special Rapporteurs noted in para.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Dollar-Euro exchange rate has fluctuated a lot throughout the year.
+Top 1 Translations
+	It was noted that during the previous year a great deal of variability occurred over the biennium in the euros.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Many animals are endangered because humans have invaded their usual habitat.
+Top 1 Translations
+	We have no other problem that has prevented a number of the wildlife since we built in our people before that site. It's because we've violated a significant number
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being such a frequent visitor to Paris, Sam never bored of exploring it.
+Top 1 Translations
+	Sam ever came down to Paris in all his meetings when he was really so dull enough to go and explore them?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: When choosing for this role, don't overlook the talents of Brian, one of the best actors in the academy.
+Top 1 Translations
+	And let us see your basic battalion here in Brian as one of the most impressive persons in their faculty.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The taste is wrong. Add some more salt to it. That might do the trick.
+Top 1 Translations
+	No, let a nice meal on, with more salt. This will be funny.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director promised a broad and thorough review to get to the bottom of why the scandal happened.
+Top 1 Translations
+	But newsers are like the same story. They just called us 'this is big news', and now we've had time to find someone with us.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Engineers made a tiny adjustment to the fuel pump and the mission continued.
+Top 1 Translations
+	The engineer reconditioned a single gasoline tank slightly; however an engineering staff member made continuous modifications, as follows:
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: At moments like this, I like to remember my grandfather and how he used to play that old violin.
+Top 1 Translations
+	You see, in the meantime, I know my grandfather, he played that again with... it's a time, and I think I remember.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you carry out this task successfully, it will help us enormously.
+Top 1 Translations
+	And you'll probably help with me too shouldyou succeed in this whole life...
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Large black bands of clouds moved over the area and before long, the rain had started.
+Top 1 Translations
+	In the time there they were a large, black fogbethed clouds over the area and shower rain began to flow in,
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You're looking so stressed Mike. You need to take it easy.
+Top 1 Translations
+	Mikey, you seem like an repression, you have to ease that out. You've gotta put some pressure in the house.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A meteorite or comet impact is thought to have contributed to the dinosaurs' extinction.
+Top 1 Translations
+	(Signed): Régissen Alegreau President of the Group on National Development Policy (Co-Forum)
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police clashed with protestors who are trying to protect an ancient woodland from being destroyed.
+Top 1 Translations
+	According to SMS officials the same people with more than 20 children, according to, had conflicted against a protest in the attempt to ensure a secure and free environment with forest areas.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Oh, that dress reveals too much, Carol. I'd change it.
+Top 1 Translations
+	Canolo exposes so much. That one will fix that one.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The findings of the report have yet to be analysed by the government so they can formulate new policies.
+Top 1 Translations
+	The Government was continuing a need to take into account those reports, so that new policies and approaches could be drawn up in a manner necessary to make it an outcome that must be considered.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Alcohol consumption has risen again among the young, according to a new report published today.
+Top 1 Translations
+	However, more recently, another major publication in Kenya reports the growth of levels of younger alcohol use to date for youth is emerging as it increases with other recent sources of information, both of youth and young women and girls;
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Have you decided whether you'll opt for our standard insurance or the premium policy?
+Top 1 Translations
+	Do you know whether he'll purchase us the prescribed rate for us premiums or a guaranteed policy for insurance?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You need to be more productive, Susan, and I mean that in terms of the hours you do here in the office.
+Top 1 Translations
+	And... -...were in business on our day... You get better productively here, okay? - Well that is what she told you in the morning, sans?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: 
+Top 1 Translations
+	I'd rather you weren ́t so old if I wanted to take my money down at least to keep my face still.
+-----------------------------------------------------------------------------------------

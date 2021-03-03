@@ -7,52 +7,66 @@ from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
 
 
-def translate_from_trg_to_src(
-        src,
-        trg,
-        src_to_trg_translations_dict,
-        nbest,
-        device='cuda:0'):
+def translate_sent_to_nbest(nbest, sentence, model, tokenizer, device="cuda:0"):
+    """ 
+    nbest: the number of translation to produce per given sentenc 
+    sentence: A sentence that we wish to tranlate
+    translations: arr where the generated tranlations will be appended to
+    model: model for nmt tranlation
+    tokenizer: tokinzer for preprocessing the given sentence
+    """
 
-    logger.info('Getting {}-{} model and its tokenizer'.format(trg, src))
+    translations = []
+
+    tokenized_sent = tokenizer.prepare_seq2seq_batch(
+        sentence, return_tensors="pt"
+    )
+
+    encoded_translations = model.generate(
+        input_ids=tokenized_sent['input_ids'].to(device),
+        attention_mask=tokenized_sent['attention_mask'].to(device),
+        num_return_sequences=nbest,
+        num_beams=nbest,
+        do_sample=True,
+        top_k=20,
+        temperature=2.0,
+    )
+
+    decoded_translations = [
+        tokenizer.decode(t, skip_special_tokens=True) for t in encoded_translations
+    ]
+
+    translations.extend(decoded_translations)
+
+    torch.cuda.empty_cache()
+
+    return translations
+
+
+def translate(src, trg, sentences, nbest, direction="f", device="cuda:0"):
+
+    logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
     model, tokenizer = load_model_and_tokenizer(
-        trg, src, device=device)
+        src, trg, device=device)
 
-    trg_to_src_translations = []
-    for src_to_trg_translations in tqdm(src_to_trg_translations_dict.values()):
+    translations = []
 
-        for translation in src_to_trg_translations:
+    if direction == "f":
+        for sent in tqdm(sentences):
+            translations.append([])
+            translations[-1].extend(translate_sent_to_nbest(nbest,
+                                                            sent, model, tokenizer, device))
+    elif direction == "b":
+        for trg_sent_batch in tqdm(sentences):
+            translations.append([])
+            for sent in tqdm(trg_sent_batch):
+                translations[-1].extend(translate_sent_to_nbest(nbest,
+                                                                sent, model, tokenizer, device))
 
-            trg_to_src_translations.append([])
-            tokens_dict_src = tokenizer.prepare_seq2seq_batch(
-                translation, return_tensors="pt"
-            )
-
-            # Translate from src to pivot language. Sentences are encoded
-            trg_to_src_encoded = model.generate(
-                input_ids=tokens_dict_src['input_ids'].to(device),
-                attention_mask=tokens_dict_src['attention_mask'].to(device),
-                num_return_sequences=nbest,
-                num_beams=nbest,
-                do_sample=True,
-                top_k=20,
-                temperature=2.0,
-            )
-
-            # Decode src to pivot tranlations
-            trg_to_src_decoded = [
-                tokenizer.decode(t, skip_special_tokens=True)
-                for t in trg_to_src_encoded
-            ]
-
-            torch.cuda.empty_cache()
-
-            trg_to_src_translations[-1].extend(trg_to_src_decoded)
-
-    return trg_to_src_translations
+    return translations
 
 
-def parse_file(forward_file):
+def parse_file_for_backward(forward_file):
     forward_file_path = os.path.abspath(forward_file)
     TEST_SENTENCE_STR = "Test Sentence: "
     TAB = "\t"
@@ -61,7 +75,7 @@ def parse_file(forward_file):
 
     for line in open(forward_file_path, 'r'):
         if TEST_SENTENCE_STR in line:
-            line_copy = line.strip().rstrip("\n")
+            line_copy = line.strip().rstrip("\n")[len(TEST_SENTENCE_STR):]
             src_to_trg[line_copy] = []
             last_src_sent = line_copy
         elif TAB in line:
@@ -77,7 +91,7 @@ def parse_file(forward_file):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Translate from forward model to pivot model and back given n number of hypothesis"
+        description="Translate from src model to trg model and back given n number of hypothesis for each hypothesis in src_to_trg_translations"
     )
 
     parser.add_argument('--src', help='Name of language for the forward model')
@@ -87,15 +101,22 @@ if __name__ == "__main__":
         help='Number of sequences to return from the backward model')
     parser.add_argument('--output',
                         help='Directory where the sequences will be saved')
-    parser.add_argument('--src_to_trg_translations', help='Data to produce translation from trg to src')
+    parser.add_argument('--sentences',
+                        help='Sentences to produce translation from trg to src')
     parser.add_argument('--device', help='GPU where the script should run')
+    parser.add_argument('--forward', action="store_true",
+                        help="If tru then it will evaluate tranlations for src to trg")
+    parser.add_argument('--backward', action="store_true",
+                        help="If true then it will evaluate translations for trg to src")
     args = parser.parse_args()
 
     src = args.src
     trg = args.trg
     nbest = int(args.nbest)
     output_dir = args.output
-    test_data_loc = args.src_to_trg_translations
+    test_sentences_loc = args.sentences
+    translate_forward = args.forward
+    translate_backward = args.backward
 
     if args.device == "cpu":
         device = "cpu"
@@ -103,20 +124,36 @@ if __name__ == "__main__":
         device = torch.device(
             f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
 
-    logger.info('Getting test data from: {}'.format(test_data_loc))
-    # load all test data
-    test_data = parse_file(test_data_loc)
-
     logger.info("Device in use: {}".format(device))
+    logger.info('Getting test sentences from: {}'.format(test_sentences_loc))
 
-    logger.info('Translating test data from {} to {}'.format(trg, src))
-    src_to_trg_translations = translate_from_trg_to_src(src, trg, test_data,
-                                        nbest, device)
+    if translate_forward:
+        # load test_sentence for forward translations
+        test_sentences_path = os.path.abspath(test_sentences_loc)
+        test_sentences = open(test_sentences_path, 'r').read().split('\n')
+
+        logger.info('Translating test sentences from {} to {}'.format(src, trg))
+        translations = translate(
+            src, trg, test_sentences, nbest, direction="f", device=device)
+        translations_file_name = "{}-{}-top{}translations.txt".format(src, trg,
+                                                                      nbest * nbest)
+
+    elif translate_backward:
+        # load test sentences for backward tranlations
+        test_sentences = parse_file_for_backward(test_sentences_loc)
+        src_sentences = test_sentences.keys()
+        trg_sentences_in_batches = test_sentences.values()
+
+        logger.info('Translating test sentences from {} to {}'.format(trg, src))
+        translations = translate(
+            trg, src, trg_sentences_in_batches, nbest, direction="b", device=device)
+        translations_file_name = "{}-{}-{}-top{}translations.txt".format(src, trg, src,
+                                                                         nbest * nbest)
 
     logger.info('Saving translations to {}'.format(
         os.path.abspath(
             os.path.join(
                 output_dir,
-                "{}-{}-top{}translations.txt".format(src, trg,
-                                                     nbest * nbest)))))
-    save_nbest(src_to_trg_translations, test_data, src, trg, nbest, output_dir)
+                translations_file_name))))
+    save_nbest(translations, test_sentences, nbest,
+               translations_file_name, output_dir)

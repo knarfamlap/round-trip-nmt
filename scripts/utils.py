@@ -25,13 +25,13 @@ def load_model_and_tokenizer(src, trg, device='cuda:0'):
     logger.info('Number of Parameters in Model: {}'.format(num_params))
     return model, tokenizer
 
-def save_nbest(rt_translations, test_sents, src, trg, nbest, output_dir):
+def save_nbest(rt_translations, test_sents, nbest, file_name, output_dir):
     output_dir = os.path.abspath(output_dir)
     assert os.path.exists(output_dir)
 
     with open(os.path.join(
             output_dir,
-            "{}-{}-top{}translations.txt".format(src, trg, nbest * nbest)),
+            file_name),
         'w',
             encoding='utf-8') as f:
         for test, translations in zip(test_sents, rt_translations):

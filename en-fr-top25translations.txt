@@ -1,0 +1,1305 @@
+-----------------------------------------------------------------------------------------
+Test Sentence: Lance is highly knowledgeable on this subject.
+Top 25 Translations
+	Lance est une experte de haut niveau sur ce sujet.
+	Lance est très informée sur ce sujet.
+	La Lance est une experte sur ce sujet.
+	Lance est très avertie sur ce sujet.
+	Lance est très instruit sur ce sujet.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I need a good explanation of all the costs involved in buying a new car.
+Top 25 Translations
+	Je dois expliquer les coûts associés à l'achat d'une voiture neuve.
+	J'ai besoin d'une bonne explication sur tous les coûts liés à la fourniture d'une voiture neuve.
+	Je veux une bonne explication de tout les coûts associés à l'achat d'une voiture neuve.
+	Je veux une bonne explication au sujet des coûts que nécessite l'achat d'une voiture neuve.
+	J'ai besoin d'une bonne explication des frais associés à l'achat d'une voiture neuve.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There was a lively debate about the Middle East, then they moved to a vote.
+Top 25 Translations
+	Il y eut un débat vif sur le Moyen-Orient, puis ils se sont mis aux voix.
+	Le débat a pris une tournure animée sur le Moyen Orient, puis ils se sont mis aux voix.
+	Le Moyen-Orient a fait l'objet d'un débat animé, qui a ensuite fait l'objet d'un vote.
+	Il y avait un débat animé sur le Moyen-Orient, puis ils ont procédé à un vote.
+	Le discours sur le Moyen-Orient était très animé, puis ils se sont portés à leur tour vers un vote.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The doctor told him to lose weight quickly or pay the price later in life.
+Top 25 Translations
+	Le médecin lui dit de perdre du poids rapidement ou de payer le coût plus tard dans la vie.
+	Le médecin lui a dit de perdre du poids rapidement ou de payer le prix plus tard dans la vie.
+	Le médecin lui a dit de perdre du poids rapidement ou de payer le prix plus tard dans la vie.
+	Le médecin lui a dit de perdre du poids ou de payer le prix plus tard dans la vie.
+	Le médecin lui a suggéré de perdre du poids plus rapidement ou payer le prix plus tard dans la vie.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jet lag causes problems with our biological clock.
+Top 25 Translations
+	Le retard de réaction cause des problèmes avec notre horloge biologique.
+	Un décalage horaire est cause de problème avec notre horloge biologique.
+	Jet lagack cause des problèmes avec notre horloge biologique.
+	Jet laps provoque des problèmes avec notre horloge biologique.
+	La traîne à Jet cause des soucis avec notre horloge biologique.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This species of seagull is not a resident of the island, but will sometimes rest here a while.
+Top 25 Translations
+	Cette espèce de mouflon n'habite pas l'île, mais elle sera parfois reposée ici, un certain temps.
+	Cette espèce de mouflons n'est pas une résidente de l'île, mais se reposera parfois ici un certain temps.
+	Cette espèce de mouette ne vit pas en île, mais y reposera parfois pendant un certain temps.
+	Cette espèce de mouette rouge n'est pas une résidente de l'île, mais s'y reposera de temps en temps.
+	Cette Mouette n'est pas une physionomie de l'île mais, parfois, se reposera ici un moment.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doesn't it strike you as strange that it's the middle of May and it's snowing?
+Top 25 Translations
+	Cela vous paraît étrange qu'on soit à mi-mai, et que l'on neige, non?
+	Vous n'êtes pas surpris qu'il soit au milieu de mai et qu'il neige?
+	Ça ne te paraît pas bizarre qu'il soit en pleine mi-mai et qu'il ne neige pas?
+	Ça te semble curieux qu'on soit au milieu de mai et qu'il neige?
+	Ça te semble étrange, c'est la mi-mai et il neige?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I didn't stay behind because I wanted to, I did so because it was my duty.
+Top 25 Translations
+	Je ne suis pas resté par derrière parce que je le voulais, parce que c'était mon devoir.
+	Je n'étais pas là, parce que je voulais, je l'ai fait car c'était mon devoir.
+	Je ne suis pas restée derrière parce que je voulais, j'en ai fait une parce que c'était mon devoir.
+	Je ne suis pas resté derrière car je voulais le faire, je l'ai fait parce que c'était mon devoir.
+	Je ne suis pas resté parce que je le voulais, parce que c'était mon devoir.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: What angered me wasn't his resignation but the manner in which he did it.
+Top 25 Translations
+	Ce qui m'irritait ne c'était pas sa démission mais la façon dont il l'a fait.
+	Ce qui m'en voulait, n'était pas sa démission, mais la façon dont il l'a fait.
+	Ce n'était pas son départ mais la façon dont il l'a fait.
+	Ce qui m'énerve ce n'était pas sa démission mais la manière dont il l'a fait.
+	Ce qui m'a énervé, ce n'était pas sa résignation, mais la manière dont il l'a fait.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you can't make out what's written, change the zoom level and it'll become clearer.
+Top 25 Translations
+	Si vous ne savez pas ce qui est écrit, changez de niveau de zoom et cela deviendra plus clair.
+	Si vous n'arrivez pas à savoir ce qui est écrit, changez de niveau de zoom et il va devenir plus clair.
+	Si vous ne trouvez pas ce qui est écrit, changez le niveau de zoom et ça deviendra plus clair.
+	S'il est impossible d'expliquer l'écrit, changer le niveau du zoom et il deviendra plus clair.
+	Si vous ne pouvez pas trouver ce qu'on écrit, changez le niveau du zoom et ça deviendra plus clair.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a wide range of issues that we need to discuss as soon as possible.
+Top 25 Translations
+	Il y a un grand nombre de questions dont nous avons besoin pour discuter dès que possible.
+	Il existe un grand nombre de questions dont nous devons débattre le plus tôt possible.
+	Il y a un large éventail de questions dont nous avons besoin pour discuter le plus rapidement possible.
+	Il y a un grand nombre de questions que nous devons discuter le plus tôt possible.
+	Nous devons discuter de tout un éventail de questions dans les plus brefs délais.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being wounded in the battle, the solider fought on and was awarded a medal for bravery.
+Top 25 Translations
+	En dépit de leurs blessures au cours des batailles, ces hommes plus solides se sont disputés et ont remporté une médaille pour leur bravoure.
+	Malgré ses blessures lors de la bataille, le fort se battait, il se voit attribuer une médaille en reconnaissance de ses actes de bravoure.
+	Malgré ses blessures dans le combat, le plus robuste s'est battu et a reçu une médaille de bravoure.
+	Bien qu'il ait été blessé, le plus fort s'est battu et a remporté une médaille pour bravoure.
+	En dépit de ses blessures, le solide s'est battu et a reçu la médaille pour bravoure.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rain will persist for most of the morning, but we are expecting a brighter afternoon.
+Top 25 Translations
+	La pluie persistera la plupart du matin mais nous nous attendons à un après-midi plus radieux.
+	La pluie va persister la plus grande partie de la matinée mais un après - midi plus brillant est attendu.
+	La pluie persistera pendant la majeure partie du matin, mais nous attendons un après-midi plus radieux.
+	La pluie persistera la plupart du temps, mais nous attendons un après-midi plus radieux.
+	La pluie persistera pendant la plupart de la matinée, mais nous attendons une fin d'après-midi plus éclatante.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the mating season, the male of the species calls out with a distinctive gu-gu sound.
+Top 25 Translations
+	Pendant la saison de l'accouplement, le mâle de la espèce rappelle avec un son distinct gu-gu.
+	Au moment de l'accouplement, les mâles de l'espèce invoquent avec un son distinctif gu-gu.
+	En saison des accouplements, le mâle des espèces s'invite avec un son gu-gu distinctif.
+	À la saison de l'accouplement, le mâle d'une espèce se fait entendre par un son distinctif du gu-gu.
+	En la saison des accouplements, le mâle d'espèce appelle avec un bruit distinctif d'eupleur gu-gu.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Marie Curie, one of the best-known pioneers in working with radiation, died in 1934.
+Top 25 Translations
+	Marie Curie, une des pionniers les plus célèbres dans la lutte contre les rayonnements, est décédée en 1934.
+	Marie Curie, une des pionnières les plus renommées dans le domaine de la radiographie, meurt en 1934.
+	Marie Curie, l'une des pionnières les plus connue dans le domaine des rayonnements, est décédée en 1934.
+	Marie Curie, un des pionniers les plus connus en matière d'action radioactive, est décédée en 1934.
+	Marie curie, l'une des pionniers les plus réputés dans le domaine des radiations, est décédée en 1934.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Deep sea oil exploration is a dirty and dangerous business.
+Top 25 Translations
+	La prospection pétrolière en haute mer est un commerce sale et dangereux.
+	L'exploration du pétrole en mer profonde est un commerce sale et dangereux.
+	L'exploration pétrolière en mer profonde est une affaire sale et dangereuse.
+	L'exploration du pétrole de la haute mer est une entreprise salie et dangereuse.
+	L'exploration du pétrole de fond, c'est une activité sale et dangereuse.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of the neighbourhood was demolished in the 1940s when living conditions had deteriorated.
+Top 25 Translations
+	Une grande part du quartier a été démoli dans les années 1940 lorsque les conditions de vie se sont détériorées.
+	Une grande partie du quartier fut démolie dans les années 1940 quand les conditions de vie s'étaient détériorées.
+	La plupart du quartier a été démolie dans les années 40, année où les conditions de vie s'étaient détériorées.
+	La majorité du quartier fut démolie pendant les années 40, à l'heure où les conditions de vie s'étaient détériorées.
+	Dans les années 1940, une grande partie de son voisinage est démolie, alors que les conditions de vie se sont détériorées.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists are yet to understand the full nutritional benefits of the humble olive.
+Top 25 Translations
+	Les scientifiques n'ont pas compris les bienfaits nutritionnels de l'humble olive.
+	Les scientifiques ne comprennent pas encore pleinement les avantages nutritionnels de l'olive humble.
+	Les scientifiques ne maîtrisent pas encore tous les bienfaits nutritionnels de l'humble olive.
+	Les scientifiques n'ont pas encore compris tous les bienfaits nutritionnels de l'humble olive.
+	Les scientifiques restent encore à comprendre tous les bienfaits nutritionnels des olives humbles.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You can come and observe us performing this operation, if you want.
+Top 25 Translations
+	Vous pouvez nous observer, vous pouvez venir nous voir nous observer faire cette opération, si vous voulez.
+	Vous pouvez venir nous observer faire cette opération, si vous voulez.
+	Vous pouvez venir nous observer, si vous voulez, nous mener à bien cette opération.
+	Tu peux venir nous observer en train d'effectuer cette opération, si tu veux.
+	Vous pouvez venir et nous observer exécuter cette opération, si vous voulez.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Bears used to be very widespread in this part of the country, but nobody has seen one for ten years.
+Top 25 Translations
+	Auparavant, les ours étaient largement répandus dans cette partie du pays, mais personne ne l'a vu depuis dix ans.
+	Les ours étaient déjà très nombreux dans cette zone du pays, mais personne ne les a déjà vus depuis dix ans.
+	Avant, les ours sont très répandues dans cette partie du pays, mais il y en a plus que personne depuis une dizaine d'années.
+	Les ours étaient très nombreux dans cette région du pays, mais personne n'en a vu depuis une dizaine d'années.
+	Les ours ont été très répandus dans cette région, mais personne n'en a vu depuis une dizaine d'années.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Ben was summoned to the court for jury duty, but took a doctor's note with him and was excused.
+Top 25 Translations
+	Il fut convoqué devant le tribunal, mais il reçut avec lui la note d'un médecin, et il fut excusé.
+	Ben fut convoqué au tribunal en vue de l'exercice d'une charge de juré, mais prit la note du docteur avec lui, et il fut excusé.
+	Ben a été convoqué devant le tribunal à la suite d'une demande de jury, mais a pris une lettre de médecin avec lui et a été excusé.
+	Ben a été convoqué au tribunal pour avoir été juré. Il a néanmoins pris avec lui une lettre de médecin et a été excusé.
+	Ben était convoqué au tribunal pour avoir exercé le pouvoir de jury, mais il avait pris un avis de docteur, et il s'en était excusé.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The police crossed four states in pursuit of the bank robber.
+Top 25 Translations
+	La police est passée à côté de quatre États à la poursuite d'un voleur de banque.
+	La police a traversé quatre états à la recherche du voleur de banque.
+	Les policiers ont traversé quatre états à la poursuite du braqueur de banque.
+	La police a croisé quatre Etats à la recherche du voleur de banque.
+	La police a traversé quatre États à la poursuite du braqueur de banque.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After three years of recession, the country's economy is finally looking a lot healthier.
+Top 25 Translations
+	Après trois ans de récession, l'économie du pays semble enfin beaucoup plus saine.
+	Après trois ans de récession, l'économie du pays a finalement une mine d'énergie de plus en plus saine.
+	Après trois ans de récession, l'économie du pays se porte enfin nettement mieux que le reste du monde.
+	Après trois années de récession, l'économie du pays est enfin en plein état de santé.
+	Après trois ans d' récession, l'économie du pays semble finalement beaucoup plus saine.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We altered our final forecast of yearly profits due to more accurate advertising and marketing costs.
+Top 25 Translations
+	Nous avons modifié notre prévision finale de profits annuels en raison de frais plus précis de publicité et de commercialisation.
+	Nous avons modifié notre prévision finale des bénéfices annuels en raison de coûts plus précis de la publicité et de la commercialisation.
+	Nous avons modifié nos prévisions définitives des bénéfices annuels grâce à des coûts de publicité et de marketing plus précis.
+	Nous avons modifié nos prévisions finales des profits annuels, en raison de coûts de publicité et de mise sur le marché plus exacts.
+	Nous avons modifié notre prévisions définitives de bénéfice annuel grâce à des coûts plus précis en publicité et en marketing.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two wolves ran through the forest in pursuit of a deer.
+Top 25 Translations
+	2 loups ont couru à travers la forêt dans la poursuite d'un cerf.
+	Deux loups se sont précipités dans la forêt à la recherche d'un cerf.
+	2 loups ont parcouru la forêt à la poursuite d'un cerf.
+	Deux loups ont parcouru la forêt à la poursuite d'un cerf.
+	Deux loups ont couru à travers la forêt à la recherche d'un cerf.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The economy touches every aspect of our lives.
+Top 25 Translations
+	Nous vivons dans l'économie sous tous ses aspects.
+	L'économie touche à tous les aspects de notre vie.
+	L'économie touche à tous les aspects de notre vie.
+	L'économie touche tous les aspects de notre vie.
+	L'activité économique touche à tous les aspects de notre vie.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Like most safety features, the air bag is very rarely used but when called upon, must operate perfectly.
+Top 25 Translations
+	Comme la plupart des caractéristiques de sécurité, le sac à air est utilisé très rarement, mais quand fait appel, doit fonctionner parfaitement.
+	Comme la plupart des dispositifs de sécurité, le sac gonflable est très rare, mais lorsqu'il est appelé, doit fonctionner parfaitement.
+	Comme les autres caractéristiques de la sécurité, le sac gonflable est très rarement utilisé, mais s'il est sollicité, il doit fonctionner parfaitement.
+	Comme dans la plupart des cas de sécurité, l'airbag est utilisé très rarement mais, lorsqu'on l'exige, il doit fonctionner parfaitement.
+	Comme la plupart des dispositifs de sûreté, le sac à air est très rarement utilisé, mais quand on l'appelle, doit fonctionner parfaitement.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The cup will remain here at the clubhouse for a month on display before being sent to the museum.
+Top 25 Translations
+	La tasse sera présentée un mois à l'entrée du club House avant d'être envoyée au musée.
+	La tasse restera au club house un mois en vitrine avant qu'elle ne soit envoyée au musée.
+	La tasse reste ici un mois au club-house pour l'exposition avant d'être envoyée au musée.
+	La tasse restera ici au club-house pendant un mois en présentation, avant d'être envoyée au musée.
+	Le gobelet sera conservé ici au clubhouse pendant un mois, en exposition, avant sa remise au musée.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Jed ran the whole business after his father died and left him the company.
+Top 25 Translations
+	Jed dirigea toute l'entreprise après le décès de son père, et le quittera de l'entreprise.
+	Jed gérait toute l'affaire après la mort de son père. Et lui quittait l'entreprise.
+	Jed dirige toute l'entreprise après la mort de son père et le quitte de l'entreprise.
+	Jed dirigeait le business après que son père est mort et quitta la compagnie.
+	Jed dirigeait le commerce après que son père est mort et qu'il ait quitté l'entreprise.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The garden is a paradise for flowers in particular. We have seventeen varieties of roses.
+Top 25 Translations
+	Le jardin est un véritable paradis des fleurs en particulier. Il y a dix-sept variétés de roses.
+	Le jardin est un paradis pour les fleurs en particulier. Nous avons dix-sept variétés de roses.
+	On y trouve 17 variétés de roses et on y trouve un jardin unique, qui abrite particulièrement des fleurs.
+	Le jardin est notamment un paradis pour les fleurs. Nous avons dix-sept variétés de roses.
+	Le jardin, particulièrement, est l'endroit idéal pour les fleurs. Nous avons en effet dix-sept variétés de roses.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The terrible weather resulted in severe traffic delays and the closure of the airport.
+Top 25 Translations
+	Les terribles conditions climatiques ont entraîné de graves retards dans la circulation routière et la fermeture de l'aéroport.
+	Les mauvais conditions climatiques ont entraîné de grands retards dans l'acheminement du trafic routier et la fermeture de l'aéroport.
+	Le terrible temps a entraîné des retards importants et la fermeture de l'aéroport.
+	Le temps terrible a entraîné d'importants retards de trafic et la fermeture de l'aéroport.
+	Ce temps terrible a causé de graves retards sur le plan du trafic et de la fermeture de l'aéroport.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "What is more," Clarissa said, "I feel I'm being ignored."
+Top 25 Translations
+	"Qu'est-ce qui est de plus," Clarissa, "J'ai l'impression de faire de moi un objet d'oubli."
+	-- C'est encore plus, disait Clarissa, je sens qu'on m'ignore.
+	– Ce qui est aussi, répondit Clarissa, je me sens ignorée.
+	-- Quoi de plus, répondit Clarissa, je sens que je suis ignoré.
+	-- Mais ce qui est plus, répondit Clarissa, je ressens que j'ai été ignorée.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas graduated with a specialist degree in the field of criminology.
+Top 25 Translations
+	Thomas a obtenu un diplôme de spécialiste dans le domaine de la criminologie.
+	Thomas a obtenu son diplôme d'études supérieures dans le domaine de la criminologie.
+	Thomas a obtenu son diplôme de spécialiste en criminologie.
+	Thomas obtient une licence de spécialiste en criminologie.
+	Thomas est diplômé d'un degré spécialisé dans le domaine de la criminologie.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lasers can measure distances with incredible precision.
+Top 25 Translations
+	Les lasers peuvent mesurer les distances avec une précision incroyable.
+	Les lasers peuvent mesurer des distances avec une précision incroyable.
+	Les lasers mesurent les distances avec une précision incroyable.
+	Les lasers peuvent mesurer des distances avec un degré de précision incroyable.
+	Les lasers peuvent mesurer les distances avec une précision incroyable.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: My two cousins were so excited at the start of the war, they ran downtown and signed up immediately.
+Top 25 Translations
+	Mes deux cousins étaient si excités à l'aube de la guerre qu'ils se sont envolés et ont signé immédiatement le centre-ville.
+	Mes deux cousins étaient si heureux au début de la guerre, ils ont couru dans le centre de la ville pour s'inscrire immédiatement.
+	Mes deux cousins étaient si enthousiastes dès le début de la guerre qu'ils ont couru dans la ville et s'étaient mis tout de suite à signer.
+	Mes deux cousins étaient très excités au début de la guerre et ont couru en ville. Ils s'enrôlent tout de suite.
+	Mes deux cousins ont été si excité au début de la guerre, ils sont en ville et ils s'enrôlent immédiatement.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This machine scans the user's eye and can confirm identity.
+Top 25 Translations
+	Cette machine analyse les yeux de l'usager et peut confirmer l'identité.
+	Cette machine analyse les yeux et elle peut confirmer l'identité de l'utilisateur.
+	Cette machine scanne l'oeil de l'utilisateur et peut confirmer l'identité.
+	Cette machine scanne les yeux de l'utilisateur et peut confirmer l'identité.
+	Elle scanne l'œil de l'utilisateur et peut confirmer son identité.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The inquiry into the accident will be overseen by Malcolm Jones, a former army general.
+Top 25 Translations
+	L'enquête sur cet accident sera supervisée par l'ancien général de l'armée, Malcolm Jones.
+	L'enquête sur l'accident sera supervisée par l'ancien général de l'armée, Malcolm Jones.
+	L'enquête sur l'accident sera supervisée par Malcolm Jones, un ancien général de l'armée.
+	Malcolm Jones, un ancien général de l'armée, assurera la supervision de l'enquête sur l'accident.
+	Malcolm Jones, ancienne générale de l'armée, supervisera l'enquête sur cet accident.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though Carla's remarks seem insulting, if you see them in context, they're actually quite innocent.
+Top 25 Translations
+	Même si les propos de Carla semblent insultants, en fait, si vous les voyez dans leur contexte, ils sont tout à fait innocents.
+	Même si les remarques de Carla semblent insultantes, si vous y voyez dans leur contexte, elles sont en fait très innocentes.
+	Carla me fait des remarques insultantes, mais si on les voit dans son contexte, ils sont d'une grande innocence.
+	Même si les propos de Carla semblent insultants, si on les trouve dans leur contexte, en fait, ils sont plutôt innocents.
+	Bien que les propos de Carla semblent insultants. Si vous les trouvez dans un contexte précis, ils sont en fait tout à fait innocents.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even early in the city's life, the quest for knowledge led to the founding of a university.
+Top 25 Translations
+	Déjà au début de la vie de la ville, la recherche du savoir a conduit à la fondation d'une université.
+	Déjà très tôt dans la vie de la ville, la quête du savoir conduit à la fondation d'une université.
+	Même au début de la vie citadine, la quête du savoir a mené à la fondation d'une université.
+	Dès le début de la vie, la quête d'une bonne connaissance a conduit à la fondation d'une université.
+	Dès le début de la vie de la ville, la quête de la connaissance a conduit à la création d'une université.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The three teenagers spent a cold night on the exposed mountain before rescuers arrived.
+Top 25 Translations
+	Les trois adolescents ont passé une nuit froide sur la montagne exposée, avant l'arrivée des rescapés.
+	Les trois adolescents ont passé une nuit froide sur la montagne exposée avant l'arrivée des sauveteurs.
+	Ils passèrent une nuit froide sur le mont exposé avant que les sauveteurs n'arrivent.
+	Les trois adolescents passèrent une nuit froide dans la montagne avant l'arrivée des secouristes.
+	Les 3 adolescents passèrent une nuit froide sur la montagne exposée avant l'arrivée des sauveteurs.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Politicians have been arguing about the reasons for the decline in the number of unemployed.
+Top 25 Translations
+	Les décideurs ont débattu des causes de la baisse du nombre de chômeurs.
+	Les politiciens ont débattu des raisons de la baisse du nombre de chômeurs.
+	Les politiciens ont contesté les raisons qui expliquent la baisse du nombre de chômeurs.
+	Les politiciens ont contesté les causes de la baisse du nombre de chômeurs.
+	Les responsables politiques ont argumenté au sujet des causes de la diminution du nombre de chômeurs.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charles Lindbergh was one of the early pioneers in powered flight and crossed the Atlantic in 1927.
+Top 25 Translations
+	Charles Lindbergh fut l'un des premiers pionniers du vol motorisé.Il traversa l'Atlantique en 1927.
+	Charles Lindbergh fut un des premiers pionniers de vol motorisé et en 1927, il traversa l'Atlantique.
+	Charles Lindbergh était l'un des pionniers dans les débuts du vol à moteur.Il traversa l'Atlantique en 1927.
+	Charles Lindbergh était l'un des pionniers en vol motorisé et il traversait la côte Atlantique en 1927.
+	L'un des premiers pionniers du vol motorisé, Charles Lindbergh, s'est rendu dans l'Atlantique en 1927.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We used advertising to generate interest in the product and then educated people on how to use it.
+Top 25 Translations
+	Nous nous sommes servis de la publicité pour susciter de l'intérêt dans le produit et ont ensuite appris des gens sur la façon de l'utiliser.
+	Nous nous sommes servis de la publicité pour générer de l'intérêt dans ce produit et nous avons ensuite formé des gens sur la façon de l'utiliser.
+	Nous avions recours à la publicité pour susciter de l'intérêt pour le produit, puis nous avons instruit les gens sur la façon de l'utiliser.
+	Nous avons eu recours à la publicité pour générer de l'intérêt dans le produit, et ensuite des gens ont appris comment l'utiliser.
+	Nous avons fait appel à la publicité pour susciter de l'intérêt pour le produit, puis avons instruit les gens sur la façon de l'utiliser.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It never occurred to me that Mike and Cherie's marriage was in any trouble.
+Top 25 Translations
+	Il m'est jamais venu à l'esprit que Mike et Cherie n'avaient aucun problème avec le mariage.
+	Je ne me suis jamais rendu compte que Mike et Cherie ont eu des ennuis dans leur mariage.
+	Je ne me suis jamais aperçu que le couple de Mike et Cherie était en difficulté, ce qui ne m'est pas venu à l'esprit.
+	Je ne me suis jamais aperçu que Mike et Cherie avaient du mal à se marier.
+	Je ne m'est jamais rendu compte que la relation de Mike et Cherie était en danger.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: All attempts to reach Darren at home on his phone met with failure.
+Top 25 Translations
+	Toutes les tentatives de rejoindre Darren à la maison, à son téléphone, ont rencontré un échec.
+	Toutes les tentatives d'atteindre Darren chez lui sur son téléphone a rencontré l'échec.
+	Toutes les tentatives de joindre Darren à sa maison à son téléphone rencontré l'échec.
+	Toutes ses tentatives d'appeler Darren à son téléphone se sont heurtées à un échec.
+	Il n'a pas eu de réponse à Darren, à la maison, au téléphone.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Any problems arising from the new contract are not my concern. I warned against signing it.
+Top 25 Translations
+	Tout problème résultant du nouveau contrat ne m'intéresse pas, je l'avais avertie contre le fait de le signer.
+	Les problèmes découlant de ce nouveau contrat ne sont pas mon souci. J'avais mis en garde contre la signature de ce contrat.
+	Je me suis dit qu'il ne pouvait pas y avoir de problème au titre du nouveau contrat, car je m'étais mis en garde contre la signature de celui-ci.
+	Tout problème résultant du nouveau contrat ne m'importe pas. J'ai mis en garde contre la signature de celui-ci.
+	Je ne m'inquiète pas des problèmes découlant du nouveau contrat et je vous préviens d'éviter qu'il ne soit signé.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director was accused of being inflexible in the way he ran the company.
+Top 25 Translations
+	Le directeur a été accusé d'être rigide dans sa façon de diriger l'entreprise.
+	L'administrateur est accusé d'être inflexible dans la manière dont il dirige l'entreprise.
+	Le directeur a été accusé d'être inflexible dans la façon dont il dirigeait la compagnie.
+	Le directeur était accusé d'avoir fait preuve d'une certaine rigidité dans la façon dont il dirigeait l'entreprise.
+	Le directeur a été accusé d'être inflexible dans la façon dont il dirigeait l'entreprise.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In the tough economic climate, the company GTV has shrunk by over 40%.
+Top 25 Translations
+	Dans un climat économique difficile, l'entreprise GTV s'est rétrécie de plus de 40%.
+	Le climat économique rigoureux a entraîné une réduction de plus de 40 % de la société GTV.
+	Dans le contexte économique très difficile, la société GTV a régressé de plus de 40 %.
+	Dans une conjoncture économique difficile, la compagnie GTV a subi une baisse de plus de 40%.
+	Dans le climat difficile économique, la société GTV s'est rétrécie de plus de 40%.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Modern conditions such as diabetes and alcohol abuse has caused life expectancy to fall in some countries.
+Top 25 Translations
+	Les conditions modernes, comme le diabète et l'abus d'alcool, ont entraîné une baisse de l'espérance de vie dans certains pays.
+	Les conditions modernes comme le diabète et l'abus d'alcool a fait baisser l'espérance de vie dans certains pays.
+	Dans certains pays, des conditions actuelles comme le diabète et l'abus d'alcool ont provoqué une baisse de l'espérance de vie.
+	Des conditions modernes, comme le diabète et l'alcoolisme, ont entraîné la diminution de l'espérance de vie dans certains pays.
+	Dans certains pays, des conditions actuelles comme le diabète et la consommation d'alcool ont conduit à une baisse de l'espérance de vie.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The words of his resignation letter implied he was unhappy with several of his former colleagues.
+Top 25 Translations
+	Les paroles de la lettre de démission l'inconsidéraient en grande partie mécontent de plusieurs de ses anciens collègues.
+	La lettre de démission impliquait qu'il était malheureux de la part de plusieurs de ses anciens collègues.
+	Les mots de sa démission l'impliquèrent dans le sentiment de sa mécontentement de plusieurs de ses anciens collègues.
+	Les paroles de sa lettre de démission l'impliquaient, il était mécontent de plusieurs de ses anciens collègues.
+	La déclaration de démission laisse entendre qu'il était mécontent de quelques-uns de ses anciens collègues.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Thomas never disclosed the negative role he had in taking over the company
+Top 25 Translations
+	Thomas ne révéla jamais le rôle négatif qu'il avait eu dans la prise en charge de l'entreprise.
+	Thomas n'a pas révélé le rôle négatif que lui avait joué dans l'embouteillonnage et la prise en charge de l'entreprise.
+	Thomas n'a jamais révélé le rôle négatif qui était le sien dans la prise en charge de l'entreprise.
+	Thomas n'avait jamais révélé le rôle négatif qu'il avait eu dans le cadre de la prise en charge de l'entreprise.
+	Thomas n'a jamais dévoilé le rôle négatif qu'il avait dans la reprise de l'entreprise.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Dr Hartson is an animal expert, but I don't believe the scope of his expertise is as wide as you think.
+Top 25 Translations
+	Le Dr Hartson est un expert en animalier, mais je ne crois pas que ses compétences soient aussi larges que vous le croyez.
+	Le Dr Hartson est un expert animalier, mais je ne crois pas que l'étendue des compétences du Dr Hartson soit aussi large que vous le pensez.
+	Dr Hartson est un expert en animal, mais je ne crois pas que l'étendue de son expertise soit aussi large que vous le pensez.
+	Le docteur Hartson est un expert animalier, mais je ne crois pas que ses compétences soient aussi larges que vous le pensez.
+	Le Dr Hartson est un expert des animaux, mais je ne pense pas que sa portée soit aussi large que vous le pensez.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We understand it's late and we don't mean to impose, but we have some important questions for you.
+Top 25 Translations
+	Nous comprenons que c'est tard et nous n'avons pas l'intention de vous imposer mais nous avons certaines questions importantes pour vous.
+	Nous comprenons que c'est tard et nous ne entendons pas imposer, mais nous avons quelques questions importantes pour vous.
+	Il est tard, mais on est en retard. Nous avons d'importantes questions à vous poser.
+	Il est tard et on ne veut pas imposer ça, mais nous avons des questions importantes pour vous.
+	Il est tard. Nous ne voulons pas vous imposer. Mais on a de grandes questions à vous poser.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: On arriving at the theatre, the Queen was presented with a large bouquet of tulips by a young girl.
+Top 25 Translations
+	À leur arrivée au théâtre, la reine est présentée avec un grand bouquet de tulipes par une jeune fille.
+	En arrivant sur le théâtre, la reine a reçu un large bouquet de tulipes de la part d'une jeune fille.
+	À l'arrivée au théâtre, la Reine a été présentée par une jeune fille avec un grand bouquet de tulipes.
+	À leur arrivée au théâtre, la reine reçoit un gros bouquet de tulipes de la part d'une jeune fille.
+	En arrivant au théâtre, une jeune fille présente la Reine avec un large bouquet de tulipes.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The suspect's complaints about his treatment by police were noted and he was taken into custody.
+Top 25 Translations
+	Les plaintes du suspect concernant le traitement qui lui avait été infligé par la police étaient signalées et l'accusé avait été placé en garde à vue.
+	Les plaintes du suspect concernant le traitement par la police ont été notées, et l'intéressé a été placé en garde à vue.
+	Les plaintes de son suspect concernant son traitement par la police ont été constatées et l'intéressé a été mis en garde à vue.
+	Les plaintes du suspect au sujet du traitement qu'il avait subi par la police ont été portées à l'attention de ce dernier, et le requérant a été placé en garde à vue.
+	Les plaintes déposées par le suspect à son sujet par la police ont été notées et il a été placé en garde à vue.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "We will surely lessen our problems if we work together on a solution."
+Top 25 Translations
+	« Nous atténuerons certainement les problèmes si nous collaborons pour trouver une solution. »
+	Nous diminuerons certainement nos problèmes si nous travaillons ensemble à une solution. »
+	"Nous atténuerons certainement nos difficultés si nous travaillons ensemble sur une solution."
+	Nous réduireons sûrement nos problèmes si nous travaillons ensemble sur une solution. »
+	«Nous allons sans doute réduire nos problèmes si nous travaillons ensemble sur une solution.»
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We paid the lawyer to draw up a totally new will, one which left the three boys much better off.
+Top 25 Translations
+	Nous avons payé l'avocat pour préparer un testament totalement nouveau qui a laissé les trois gars beaucoup mieux.
+	On a payé un avocat pour faire un testament, qui a laissé les trois garçons bien mieux.
+	Nous avons payé l'avocate pour rédiger un tout nouveau testament, un qui a donné beaucoup mieux aux trois garçons.
+	On l'a payé pour rédiger un nouveau testament qui a permis aux trois garçons de mieux se retrouver dans le monde.
+	Nous avons payé l'avocat pour établir un tout nouveau testament qui a laissé les trois garçons beaucoup mieux.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The optimum time for making decisions is lunchtime.
+Top 25 Translations
+	Le meilleur moment pour prendre une décision est l'heure du déjeuner.
+	L'horaire optimal pour prendre les décisions est l'heure du déjeuner.
+	Le moment le plus opportun pour la prise de décisions est l'heure du déjeuner.
+	La période optimale pour prendre les décisions est l'heure du déjeuner.
+	La période la plus favorable pour prendre des décisions est l'heure du déjeuner.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The elderly patient was considered too frail to survive an operation.
+Top 25 Translations
+	Le patient âgé a été jugé trop fragile pour être en mesure de survivre à une opération.
+	On a considéré que le patient âgé était trop fragile pour survivre à une opération.
+	Le patient âgé était considéré comme étant trop fragile pour survivre à une opération.
+	On considérait que le patient âgé était trop fragile pour survivre à une opération.
+	La patiente âgée est considérée comme une personne trop fragile pour survivre à une opération.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Last Sunday, the highest temperature in recorded history was registered.
+Top 25 Translations
+	Dimanche dernier, la température la plus élevée dans l'histoire enregistrée a été enregistrée.
+	Dimanche dernier, la température la plus haute de l'histoire enregistrée a été enregistrée.
+	Dimanche dernier, c'est la température la plus élevée de l'histoire de l'humanité qui a été enregistrée.
+	Dimanche dernier, la température la plus forte dans l'histoire enregistrée a été enregistrée.
+	Dimanche dernier, c'est la plus forte température enregistrée dans les années antérieures qui a été enregistrée.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Milk is an important source of calcium and vitamin D and is an important part of any diet.
+Top 25 Translations
+	Il est une source importante de calcium et de vitamine D et est un élément important de tout régime alimentaire.
+	Le lait est une source importante de calcium et de vitamine D et une partie importante de tout régime alimentaire.
+	Le lait est une importante source de calcium et de vitamine D et est une portion importante de tout régime alimentaire.
+	Lait est une source importante de calcium et vitamine D, et est une partie importante de tout régime alimentaire.
+	Le lait représente une source importante de calcium et de vitamine D et constitue une part importante de tous les régimes alimentaires.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The customs officer was suspicious and called the man over to inspect his luggage more closely.
+Top 25 Translations
+	Le fonctionnaire des douanes est suspecté et appelle l'homme afin qu'il examine ses bagages de plus près.
+	L'inspecteur des douanes s'est montré méfiant et a demandé à l'homme de s'occuper plus attentivement de ses bagages.
+	L'agent des douanes était suspect et a appelé cet homme afin d'effectuer une inspection de plus près de ses bagages.
+	L'officier des douanes était suspicieux et a appelé l'homme afin qu'il surveille plus étroitement ses bagages.
+	L'agent des douanes était méfiant et a invité l'homme pour inspecter ses bagages de plus près.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Are these old plates of vital importance or can I put them into storage?
+Top 25 Translations
+	Est-ce que ces plaques anciennes d'importance vitale ou est-ce que je peux les entreposer?
+	Ces vieilles plaques d'importance vitale peuvent-elles les mettre en stock?
+	Ces vieilles plaques ont-elles un intérêt vital ou puis-je les entreposer?
+	Ces vieux assiettes ont - elles une importance capitale ou sont - elles entreposées?
+	Ces vieilles plaques qui sont vitales ou puis-je les entreposer?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The humble bee, so often taken for granted, plays a key role in agriculture.
+Top 25 Translations
+	C'est l'abeille humble, tellement souvent considérée comme acquise, qui joue un rôle essentiel dans l'agriculture.
+	Les humbles abeilles, souvent prises pour acquis, jouent un rôle clé dans l'agriculture.
+	L'omble de fontaine, si souvent considéré comme bien sûr, joue un rôle clé dans l'agriculture.
+	L'humble abeille, si souvent considérée comme une chose acquise, joue un rôle essentiel dans le domaine de l'agriculture.
+	L'humble abeille, aussi souvent considérée comme un bien acquis, joue un rôle clef dans l'agriculture.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Singers take care of their voice to guarantee optimum performance.
+Top 25 Translations
+	Les chanteurs prennent en charge leur voix pour garantir une performance optimale.
+	Les chanteurs prennent soin de leur voix afin de garantir une performance optimale.
+	Les chanteurs s'occupent de leur voix pour garantir une performance optimale.
+	Les chanteurs prennent soin de leur voix pour garantir des performances optimales.
+	Les chanteurs prennent bien soin de leur voix pour garantir une performance optimale.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even if you can't quit smoking, you should do your best to at least cut down a bit.
+Top 25 Translations
+	Même si vous ne pouvez pas arrêter de fumer, vous devriez faire de votre mieux pour au moins réduire un peu.
+	Même si vous ne pouvez plus fumer, vous devez faire au moins de votre mieux pour réduire un peu.
+	Même si vous ne pouvez arrêter de fumer, vous devriez faire de votre mieux pour réduire au moins un peu le nombre de fumeurs.
+	Même si vous ne pouvez pas arrêter de fumer, vous devez faire de votre mieux pour réduire un peu le nombre de cigarettes.
+	Même si vous ne pouvez arrêter de fumer, vous devez faire de votre mieux pour en réduire au moins un peu.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The charity dance raised $5000 and the hospital was able to buy a new heart scanner.
+Top 25 Translations
+	Le danse a collecté 5000 dollars et l'hôpital a réussi à acheter un nouveau scanner cardiaque.
+	La danse de charité a fait monter 5000 dollars, et l'hôpital a pu acheter un nouveau scanner cardiaque.
+	La danse de bienfaisance amassé 5000 $ et l'hôpital a pu acheter un nouveau scanner cardiaque.
+	Les danses ont amassé 5 000 dollars, et l'hôpital a pu acheter un nouveau scanner cardiaque.
+	Cette danse de charité a rapporté 5 000 dollars, ce qui lui a permis de s'acheter un nouveau scanner cardiaque.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It is often only through long experiments of trial and error that scientific progress is made.
+Top 25 Translations
+	Souvent, les progrès scientifiques ne sont réalisés que grâce à de longues expériences d'essais et d'erreurs.
+	Ce n'est souvent qu'à travers de larges expériences d'épreuves et d'erreurs que se réalisent les progrès scientifiques.
+	C'est souvent grâce à des expériences d'essai et d'erreur prolongées que des progrès scientifiques sont réalisés.
+	Ce n'est souvent que par de longues expériences sur l'expérimentation et sur l'erreur qu'il est possible de progresser du point de vue scientifique.
+	Ce n'est souvent que par de nombreuses expériences d'expérimentation et d'erreur que les résultats de ces études sont supérieurs à ceux de l'expérience scientifique.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The working day in the factory is divided into day and night shifts.
+Top 25 Translations
+	Le jour ouvrable dans l'usine est réparti entre les équipes de jour et de nuit.
+	Le jour ouvrable de l'usine se divise en équipes diurnes et nocturnes.
+	Le nombre de jours travaillés de la fabrique est divisé en postes de travail de jour et de nuit.
+	Le jour ouvré dans l'usine est divisé en postes diurnes et des postes de nuit.
+	Le jour ouvrable en usine est divisé en postes de jour et de nuit.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The job is tough, lonely and yes, on occasion, even depressing.
+Top 25 Translations
+	Le travail est dur, solitaire et parfois même déprimant.
+	Le boulot est sévère, seul, parfois, et même déprimant.
+	Le boulot est dur, solitaire et, parfois, même déprimant.
+	Le travail est dur, solitaire, et même déprimant quelquefois, voire même déprimant.
+	Le travail est dur, solitaire, et oui, à l'occasion, même déprimant.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The shopping centre was built surrounded by a vast extent of concrete for parking.
+Top 25 Translations
+	Le centre commercial a été construit avec un très grand en béton pour le stationnement.
+	Le centre commerçant a été bâti entouré d'un grand volume de béton pour le stationnement.
+	Le centre commercial a été construit entouré d'un grand volume de béton pour le stationnement.
+	Le centre commercial était entouré d'une grande largeur de béton en vue du stationnement.
+	Le centre commercial a été construit entouré d'une grande étendue de béton pour le stationnement.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Every person in this room has played an important part in the success of the company.
+Top 25 Translations
+	Tous les participants de cette salle ont joué un rôle important dans le succès de l'entreprise.
+	Tous ceux qui vivent dans cette salle ont joué un rôle important dans la réussite de l'entreprise.
+	Chaque personne de cette salle a joué un rôle important dans la réussite de l'entreprise.
+	Chacun d'eux a joué un rôle important dans le succès de l'entreprise.
+	Toute personne dans cette salle a joué un rôle important dans le succès de l'entreprise.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The little girl insisted until hospital staff finally showed her to her father's room.
+Top 25 Translations
+	La petite fille insistait jusqu'à ce que son personnel l'indique enfin à l'hôpital pour la chambre de son père.
+	La fillette a insisté jusqu'à ce que le personnel de l'hôpital la montre à la chambre de son père.
+	Cette jeune fille insiste jusqu'à ce que le personnel de l'hôpital l'expose enfin à la chambre de son père.
+	La petite fille insistait jusqu'à ce qu'un personnel de l'hôpital puisse enfin la montrer dans la chambre de son père.
+	La petite a insisté jusqu'à l'hôpital pour finalement la montrer à la chambre de son père.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The murderer worked in a cemetery and had no problems in disposing of the body.
+Top 25 Translations
+	L'assassin travaillait dans un cimetière et n'avait pas de problème dans l'élimination du corps.
+	Le meurtrier travaillait dans un cimetière, et il n'a eu aucun problème pour aliéner le corps.
+	Le meurtrier travaillait dans un cimetière et n'a pas eu de problème dans la disposition du corps.
+	Le meurtrier travaillait dans le cimetière et n'avait pas de problèmes à éliminer le corps.
+	Il travaillait dans un cimetière et n'avait pas eu de problème avec l'élimination du corps.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two local journalists were criticised for the part they played in spreading the malicious gossip.
+Top 25 Translations
+	Deux journalistes locaux sont critiqués pour leur rôle dans la propagation du commérages malicieux.
+	Le rôle qu'ils ont joué dans l'épandage des commérages malveillants a fait l'objet de deux critiques à l'égard de deux journalistes locaux.
+	Deux journalistes locaux ont fait l'objet de critiques pour le rôle qu'ils ont joué en diffusant ces ragots malicieux.
+	Deux journalistes ont été critiqués pour la contribution qu'ils ont apportée à la diffusion de ces ragots malicieux.
+	Deux journalistes locaux furent critiqués pour leur rôle dans la diffusion de ces ragots malicieux.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Charlie almost got to the end of the speech before he was interrupted by a drunk guest.
+Top 25 Translations
+	Charlie s'est approché de la fin de son discours avant que celui-ci ait été interrompu par un invité soûl.
+	Charlie est presque arrivé à la fin de son discours avant d'être interrompu par un client soûl.
+	Charlie en est presque sorti avant qu'il ait été interrompu par un ivrogne.
+	Charlie est presque arrivé à la fin du discours avant d'être interrompu par un soûl invité.
+	Charlie en est presque à la fin du discours avant qu'il ne se fasse interrompre par un ivrogne.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Doctors say antibiotic usefulness varies from patient to patient.
+Top 25 Translations
+	Les médecins disent que l'utilité de l'antibiotique est variable d'un patient à l'autre.
+	D'après les médecins, l'utilité de ces médicaments varie d'un patient à l'autre.
+	Les médecins estiment que l'utilité de l'antibiotique est différente d'un patient à l'autre.
+	Selon les médecins, l'utilité des antibiotiques varie d'un patient à l'autre.
+	D'après les médecins, l'utilité des antibiotiques varie d'un patient à l'autre.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite past good performances, the actor was fired when the studio decided he had become a liability.
+Top 25 Translations
+	Malgré les bonnes performances passées, l'acteur était viré, quand le studio avait décidé qu'il devenait une responsabilité.
+	Malgré ses bonnes performances passées, l'acteur a été congédié quand le studio a jugé qu'il était devenu une responsabilité.
+	En dépit des bonnes performances passées, le comédien a été viré quand le studio a décidé de devenir une responsabilité.
+	Malgré les bonnes représentations passées, l'acteur est licencié lorsque le studio décide qu'il en devient une responsabilité.
+	En dépit de bonnes performances antérieures, le comédien fut licencié quand le studio décida qu'il était devenu une responsabilité.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police fear that the boy missing since Tuesday night is in danger.
+Top 25 Translations
+	Les policiers craignent que le garçon disparu depuis mardi soir ne soit en danger.
+	La police craint que le garçon qui a disparu, depuis mardi soir, ne soit en danger.
+	La police craint que le garçon disparu depuis mardi soir ne soit en danger.
+	La police craint que le garçon disparu depuis mardi soir ne soit en danger.
+	La police a peur que le gamin disparu depuis mardi soir soit en danger.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: As a matter of course, we delete all email records after three years.
+Top 25 Translations
+	Bien sûr, nous supprimons toutes les fiches de courriels après trois ans.
+	Bien entendu, nous éliminons les courriels au bout de trois ans.
+	Bien sûr, nous supprimons tous les relevés de courrier électronique à l'issue de trois ans.
+	Bien entendu, nous supprimons tous les relevés par courriel après trois ans.
+	Comme une question bien sûr, nous supprimer tous les dossiers de messagerie au bout de trois ans.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The tribes on these islands carry out a strange hunting ritual at the beginning of summer every year.
+Top 25 Translations
+	Les tribus sur ces îles effectuent un étrange rituel de chasse chaque année au début de l'été.
+	Les tribus de ces îles pratiquent chaque année un rituel de chasse étrange, au début de l'été.
+	Chaque année, les tribus de ces îles mènent un étrange rituel de chasse au début de l'été.
+	Chaque année, les tribus qui se trouvent à ces îles effectuent un étrange rituel de chasse au début de l'été.
+	Les tribus de ces îles pratiquent chaque année un étrange rituel de la chasse depuis le début de l'été.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have to walk down three flights of stairs just to get rid of our rubbish. What an inconvenience!
+Top 25 Translations
+	Nous devons descendre 3 escaliers juste pour vous débarrasser de nos ordures. Quel inconvénient!
+	Nous devrons descendre trois vols d'escaliers juste pour nous débarrasser de nos poubelles. Quel inconvénient!
+	Il faut descendre trois trains d'escaliers juste pour se débarrasser de nos ordures. Quel inconvénient!
+	Nous devons descendre trois escaliers juste pour se débarrasser de nos ordures. Quel désagrément!
+	Il faut descendre trois escalopes pour se débarrasser des ordures. Quel inconvénient!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sharon had broken many regulations at work and finally paid the price by losing her job.
+Top 25 Translations
+	Sharon avait enfreint de nombreuses réglementations au travail et, finalement, a payé ce prix en perdant son emploi.
+	Sharon avait enfreint de nombreux règlements sur le lieu de travail, et a enfin payé le coût en perdant son emploi.
+	Sharon avait enfreint la réglementation sur le lieu de travail, et en a finalement payé le prix en perdant son emploi.
+	Sharon avait enfreint de nombreuses réglementations au travail, et finalement elle les avait payé en perdant son emploi.
+	Sharon avait enfreint de nombreux règlements au travail et avait finalement payé le prix en perdant son emploi.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You've been eliminated from the competition because we've discovered you cheated.
+Top 25 Translations
+	Vous êtes éliminé parce qu'on vous a découvert triché.
+	Vous avez été éliminés parce qu'on vous a découvert avoir triché.
+	On vous a évincée de la compétition parce qu'on vous a découvert triché.
+	Tu as été éliminé parce qu'on t'a découvert qu'on avait triché.
+	Vous avez été éliminée de la compétition parce que nous avons découvert que vous avez triché.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even the tiniest fault in a rocket can lead to a catastrophic failure at launch.
+Top 25 Translations
+	Même la moindre erreur dans une fusée peut entraîner une défaillance catastrophique lors du lancement.
+	Même la moindre faute dans une fusée peut mener à une panne catastrophique au moment du lancement.
+	Même le moindre défaut d'une fusée peut conduire à un échec catastrophique au lancement.
+	Même la faille la plus petite dans une fusée peut mener à un échec catastrophique au lancement.
+	Même la faille la plus petite dans une fusée peut mener à un échec catastrophique au lancement.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I met a woman in town who was talking to people about homeless teenagers and asking for donations.
+Top 25 Translations
+	J'ai rencontré une femme en ville qui parlait aux gens à propos de l'adolescence sans-abri et demandait des dons.
+	J'ai rencontré une femme qui parlait aux gens à propos des adolescents sans domicile fixe et me demandait de lui faire des dons.
+	Je rencontrais une femme dans cette ville qui a parlé aux gens de ces adolescents sans foyer et qui me demandait d'obtenir des dons.
+	J'ai rencontré une femme en ville parlant d'adolescents sans-abri et demandant des dons.
+	Je rencontrai une fille en ville qui parlait à des gens des jeunes sans-abri et qui demandait des dons.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: There's a very unusual setting for this movie: a prison for badly behaved dogs!
+Top 25 Translations
+	Il existe une mise en scène très inhabituelle pour ce film : un pénitencier de chiens malmenés!
+	Le tournage est très inhabituel : une prison pour les chiens malmenés!
+	Le tournage de ce film se déroule dans des conditions inhabituelles, en prison pour les chiens malmenés!
+	Il y a un lieu très étrange pour ce film : une prison pour chiens malmenés!
+	Il y a une scène très inhabituelle pour ce film : une prison pour des chiens mal comportementés!
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though we always turn right here, I often wonder what's down the other road.
+Top 25 Translations
+	Même si nous tournons toujours ici à droite, je me demande souvent ce qu'il se passe dans l'autre sens.
+	Même si on se tourne toujours à droite ici, je me demande souvent de quoi il y a de l'autre côté.
+	Nous tournons à droite sur le chemin de droite, mais je me demande souvent ce qu'il y a sur le chemin de l'autre côté.
+	Même si on tourne toujours à droite ici, je me demande souvent ce qui se passe sur le chemin de l'autre côté.
+	Bien qu'à droite, je me demande souvent ce que l'on peut faire par l'autre chemin.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Two ferries collided today in the main harbour, but there were no injuries.
+Top 25 Translations
+	Deux traverses entrent aujourd'hui dans le port, mais aucune blessure ne s'est produite.
+	Aujourd'hui, deux ferries entrent en collision, mais aucun blessé n'est survenu.
+	Deux traversiers se sont heurtés aujourd'hui dans le port principal, mais ils n'avaient pas été blessés.
+	Deux bacs se sont percés aujourd'hui dans le port, mais il n'y a eu aucune blessure.
+	Deux ferries ont percé aujourd'hui, mais il n'y avait pas eu de blessés.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The red squirrel, once common throughout Britain, is now restricted to the north.
+Top 25 Translations
+	L'écureuil roux, autrefois courant partout en Grande-Bretagne, est maintenant limité au nord.
+	Aujourd'hui, l'écureuil rouge, une fois répandu en Grande-Bretagne, ne vit qu'au nord.
+	Autrefois très fréquent en Grande-Bretagne, l'écureuil roux se trouve actuellement au nord du pays.
+	Dans l'ensemble de l'Angleterre, le écureuil rouge, autrefois fréquent, se limite aujourd'hui au nord.
+	L'écureuil rouge, auparavant commun à toute la Grande-Bretagne, a désormais pour seul but d'atteindre le nord.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: In many countries, specially trained dogs are used to locate hidden drugs.
+Top 25 Translations
+	Dans de nombreux pays, les chiens spécialement entraînés sont utilisés pour localiser les drogues cachées.
+	Dans de nombreux pays, les chiens spécialement formés servent à repérer les drogues cachées.
+	Dans plusieurs pays, des chiens spécialement formés sont utilisés pour localiser des drogues cachées.
+	Dans beaucoup de pays, des chiens spécialement formés sont utilisés pour localiser les drogues cachées.
+	De nombreux pays utilisent des chiens spécialement formés pour localiser des drogues cachées.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Once you cross the border, you are subject to the laws of another country.
+Top 25 Translations
+	Lorsque vous franchissez la frontière, vous êtes soumis aux lois d'un autre pays.
+	Si vous franchissez la frontière, vous êtes assujettis aux lois d'un autre pays.
+	Une fois que vous traversez le territoire, vous avez les lois d'un autre pays.
+	Une fois que l'on franchit sa frontière, on est soumis à la législation d'un autre pays.
+	Une fois que vous traversez la frontière, vous êtes soumis aux lois d'un autre pays.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The film last year helped to revive interest in 1920s fashion and even ways of speaking.
+Top 25 Translations
+	L'année dernière, les films ont permis de redonner de l'intérêt à la mode des années 1920, et même à la façon de parler.
+	Le film l'an dernier a contribué à faire revivre l'intérêt pour la mode et même pour la manière de parler dans les années 1920.
+	Le film de l'année dernière a contribué à susciter un intérêt nouveau dans la mode des années 1920, même dans les moyens de parler.
+	Le film l'année dernière a contribué à faire revivre l'intérêt dans la mode des années 1920 et même les moyens de s'exprimer.
+	Le cinéma de l'année dernière a contribué à relancer l'intérêt à la mode des années 1920 et même la façon de parler.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: We have decided to discard the Premium 2000 computer security system. It's too old now.
+Top 25 Translations
+	Nous avons décidé d'éliminer l'informatique de sécurité premium 2000. Il est trop vieux maintenant.
+	Nous avons décidé de mettre le système de sécurité informatique Premium 2000 à l'écart. Il est trop vieux maintenant.
+	Nous avons décidé de supprimer le système de sécurité informatique Premium 2000. il est trop vieux maintenant.
+	C'est déjà trop vieux, c'est un système de sécurité d'ordinateur de Premium 2000.
+	Nous avons décidé de jeter les systèmes de sécurité informatique Premium 2000. C'est trop vieux maintenant.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: It was the child's history teacher that first realised she was being neglected at home.
+Top 25 Translations
+	C'est cette maîtresse de l'histoire que l'on a d'abord réalisé que la femme était délaissée à la maison.
+	C'est la professeure d'histoire de l'enfant qui a d'abord compris qu'elle était négligée à la maison.
+	C'est cette enseignante qui se rend compte pour la première fois qu'elle était négligée à la maison.
+	C'était l'enseignante en histoire de l'enfant qui a commencé par se rendre compte qu'on la négligeait à la maison.
+	C'est l'institutrice d'histoire que la première a réalisé qu'elle était négligée à la maison.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police told everyone to stay at home until the band of thieves had been captured.
+Top 25 Translations
+	La police leur a dit de rester ici jusqu'à ce que la bande de voleurs soit capturée.
+	La police dit à tous de rester chez eux jusqu'à ce qu'une bande de voleurs ait été capturée.
+	La police a dit à tout le monde de rester chez lui jusqu'à ce que les voleurs aient été capturés.
+	La police a dit à tout le monde de rester chez eux jusqu'à ce qu'on ait capturé la bande de voleurs.
+	Les flics ont dit de rester chez eux jusqu'à ce que la bande de voleurs ait été capturée.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Hal's parents apologised for their treatment of him and said they wanted to rectify the situation.
+Top 25 Translations
+	Les parents d'Al-Hal s'excusèrent de leur traitement et ont affirmé qu'ils voulaient corriger la situation.
+	Les parents de Hal s'excuseront pour leur traitement de lui et dirent qu'ils voulaient remédier à la situation.
+	Les parents de Hal se sont excusés de leur traitement de lui, et ont fait savoir qu'ils voulaient corriger la situation.
+	Les parents d'Hal ont présenté leurs excuses pour son traitement et ont dit qu'ils voulaient rectifier la situation.
+	Hal's parents s'est excusé pour leur traitement de lui et a dit qu'ils voulaient remédier à la situation.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A truck that was carrying food goods fell into the river, but the driver managed to escape.
+Top 25 Translations
+	Un camion transportait des vivres qui tombaient dans la rivière, mais le conducteur parvint à s'échapper.
+	Un camion qui transportait de la nourriture est tombé dans la rivière, mais le conducteur a réussi à s'échapper.
+	Un camion chargé de denrées alimentaires est entré dans l'eau, mais le conducteur a réussi à s'échapper.
+	Un véhicule transportant des vivres est tombé sur la rivière, mais le chauffeur a réussi à s'échapper.
+	Un camion qui transportait des vivres est tombé dans la rivière, mais le chauffeur a réussi à s'échapper.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You simply must invite Carol to the party. She's always the life and soul of any evening.
+Top 25 Translations
+	Vous devez simplement inviter Carol à la fête, elle est toujours la vie et l'âme de n'importe quel soir.
+	Il suffit d'inviter Carol à la fête et elle est toute la vie et toute l'âme d'un soir.
+	Vous devez simplement inviter Carol à la fête, c'est toujours la vie et l'âme de n'importe quelle soirée.
+	Tu dois simplement inviter Carol, c'est toujours la vie et l'âme d'un soir ou d'un autre.
+	Il est temps pour Carol de se présenter au festival, c'est la vie et l'âme d'un soir.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I'm tired and in pain and what's more, I didn't even want to come here.
+Top 25 Translations
+	Je suis fatigué, et en douleur. Et plus encore, je n'ai même pas voulu venir ici.
+	Je suis fatigué, souffrant et ce qui est de plus, je n'ai même pas voulu venir ici.
+	J'ai eu des douleurs et d'ailleurs, je n'avais même pas envie de venir ici.
+	Je suis fatiguée, souffrante, je ne voulais même pas venir ici.
+	Je suis fatigué, en douleur. Et je voulais même pas venir ici.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Sadness is an inevitable part of the bereavement process.
+Top 25 Translations
+	La tristesse fait inévitablement partie du processus du deuil.
+	La tristesse est une partie inévitable du processus de deuil.
+	La tristesse est une partie inéluctable de la procédure de deuil.
+	La tristesse fait inévitablement partie du processus de deuil.
+	La tristesse s'inscrit inévitablement dans le processus de deuil.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you read Anna's comments in context, you'll see there wasn't anything wrong with them.
+Top 25 Translations
+	Si vous lisez les commentaires d'Anna dans son cadre, vous verrez qu'il n'y a rien de mal avec eux.
+	Si vous lisez les commentaires de Anna dans son contexte, vous verrez qu'il n'y a rien de mal entre eux.
+	Si vous lirez les commentaires d'Anna en contexte, vous verrez qu'il n'y avait aucun problème avec eux.
+	Si on lit les propos d'Anna dans son contexte, vous verrez qu'il n'y avait rien qui ne cloche chez eux.
+	Si vous lisez les propos d'Anna dans son contexte, vous constaterez qu'il n'y a rien de mal chez eux.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Much of South America was ravaged when diseases were introduced by arriving Europeans.
+Top 25 Translations
+	Une bonne part de l'Amérique du Sud est ravagée par l'introduction de maladies par les Européens arrivant sur le marché du travail.
+	Une grande partie de l'Amérique du Sud a été ravagée par l'introduction des maladies par les Européens arrivés à l'intérieur du pays.
+	La grande partie de l'Amérique du Sud est dévastée lors de l'introduction des maladies par des Européens arrivant sur le marché.
+	L'Amérique du Sud a ravagé une grande partie de son territoire quand des maladies sont mises en place par les Européens arrivants.
+	Une grande partie de l'Amérique du Sud a été dévastée au moment où des maladies sont apparues à l'arrivée d'Européens.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: This chain of mountains derives its name from an ancient tribe that lived in the area.
+Top 25 Translations
+	Ce chaînes de montagnes tire son nom d'une ancienne tribu qui vivait dans la région.
+	Cette chaîne de montagnes dérive son nom d'une tribu ancienne qui vivait dans la région.
+	Cette chaîne de montagnes tire son nom d'une tribu ancienne qui vivait dans la région.
+	Cette chaîne de montagnes tire son nom d'une tribu antique qui vivait dans la région.
+	Cette chaîne de montagnes dérive de son nom d'une ancienne tribu qui a vécu dans la région.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Scientists have observed a strange phenomenon in the atmosphere of Mars.
+Top 25 Translations
+	Les scientifiques ont observé un phénomène étrange dans l'atmosphère de Mars.
+	Dans l'atmosphère Mars, des scientifiques ont observé un phénomène étrange.
+	Certains scientifiques ont remarqué un phénomène bizarre dans l'atmosphère de Mars.
+	Les scientifiques ont observé un phénomène étrange dans l'atmosphère de Mars.
+	Les scientifiques ont remarqué un phénomène étrange dans l'atmosphère de Mars.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I owe my sisters a huge debt of gratitude for the way they've helped me out in recent years.
+Top 25 Translations
+	Je suis redevable à mes soeurs de la manière dont ils m'ont aidé au cours des dernières années.
+	Je dois à mes sœurs un immense devoir de gratitude de la façon dont elles m'ont aidé ces dernières années.
+	Je dois à ma soeur une grande dette de reconnaissance pour la façon dont elles m'ont aidé au cours des dernières années.
+	J'ai une énorme dette de gratitude pour l'aide qu'ils m'ont apportée ces dernières années.
+	Je dois à mes sœurs une immense dette de reconnaissance pour la façon dont elles me l'ont aidé au cours de ces dernières années.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Before we get under way, are there any questions you would like to ask me?
+Top 25 Translations
+	Avant d'aller sur le point de commencer, est-ce que vous avez des questions à me poser?
+	Avant le début, as-tu des questions à me poser?
+	Avant que nous commencions, est-ce que vous aimeriez me poser des questions?
+	Avant de passer à la phase, est-ce que vous voulez me poser des questions?
+	Avant que nous puissions commencer, y a-t-il des questions que vous voudriez me poser?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: She cried all through what was supposed to be a light-hearted film about rabbits.
+Top 25 Translations
+	Elle pleurait à travers ce qui était censé être un film au cœur léger sur les lapins.
+	Elle a tout pleuré au travers de ce qu'on croyait être une petite pellicule au cœur léger sur les lapins.
+	Elle a tout pleuré, dans ce qu'on croyait être un film à cœur clair sur les lapins.
+	Elle a crié dans tout ce qui est supposé être un film lumiéreux sur les lapins.
+	Elle a pleuré à travers toute la scène supposée être un film au cœur léger sur les lapins.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I firmly believe him to be innocent of the crime.
+Top 25 Translations
+	Je crois fermement qu'il est innocent du crime.
+	Je le crois très fermement innocent du crime.
+	Je le crois fermement innocent du crime.
+	Je le crois totalement innocent de ce crime.
+	Je le crois fermement innocent du crime qu'il a commis.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: After her computer was struck by a virus, she was unable to retrieve the accountant files she needed.
+Top 25 Translations
+	Lorsque son ordinateur fut percuté par un virus, elle ne put pas récupérer les fichiers comptables dont elle avait besoin.
+	Après que son ordinateur eut été touché par un virus, elle n'a pu récupérer les fichiers comptables dont elle avait besoin.
+	Après avoir été frappée par un virus, l'ordinateur qu'il lui fallait n'a pu récupérer les fichiers comptables dont elle avait besoin.
+	Après qu'elle eut été frappée par un virus, elle n'a pas pu récupérer les fichiers comptables dont elle avait besoin.
+	Une fois qu'elle a été touchée par un virus, son ordinateur n'a pas pu récupérer des fichiers comptables dont elle avait besoin.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: An abandoned military base in the desert is the setting for Al Abner's latest sci-fi novel.
+Top 25 Translations
+	Une base militaire abandonnée dans le désert est le lieu du dernier roman de science-fiction d'Al Abner.
+	Une base armée abandonnée dans la déserte est le lieu où sera réalisé le dernier roman de SCI-Fi d'Al Abner.
+	Un lieu de repos dans le désert est le cadre du dernier roman de Sci-Fi à l'intention d'Al Abner.
+	La base américaine abandonnée dans le désert est le décor du dernier roman sur la science et lafiction d'Al Abner.
+	Une base militaire abandonné du désert est le théâtre du dernier roman de science-fiction d'Al Abner.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: I don't like it when newsreaders start giving their subjective opinions about the news. That's not their job.
+Top 25 Translations
+	Je n'ai pas l'air de dire ce qu'ils pensent des nouvelles, mais de dire que ce n'est pas leur boulot.
+	Je n'aime pas que les lecteurs commencent à donner leurs opinions subjectives sur l'actualité. Ce n'est pas leur travail.
+	Je n'aime pas que des lecteurs d'infos s'accordent pour donner leurs avis subjectifs sur l'annonce, ce n'est pas leur boulot.
+	Je n'aime pas quand les lecteurs commencent à se faire un avis subjectif sur les infos, ce n'est pas leur boulot.
+	Les lecteurs d'infos commencent à donner des avis subjectifs au sujet des nouvelles, pas leur boulot.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Jersey is probably one of the most well-known breeds of cow in the world.
+Top 25 Translations
+	Le Jersey est sans doute l'une des races de vaches les plus connues au monde.
+	Le Jersey est probablement l'une des races de vache les plus connues au monde.
+	Le Jersey est sans doute l'une des espèces de vaches les plus connues au monde.
+	Le Jersey fait sans doute partie des races de vache les plus connues au monde.
+	Le Jersey est probablement l'une des races les plus réputées de la vache au monde.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Can you detect the subtle taste of peach in that red wine?
+Top 25 Translations
+	Pouvez-vous déceler le subtil goût de la pêche dans ce vin rouge?
+	Peux-tu trouver le goût subtile de la pêche dans ce vin rouge?
+	Tu peux savoir le goût subtil de la pêche dans ce vin rouge?
+	Pouvez-vous identifier le goût subtil de la pêche dans ce vin rouge?
+	Vous pouvez trouver le goût subtil de la pêche dans ce vin rouge?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Lack of vital vitamins and minerals can lead to a wide range of illnesses and conditions.
+Top 25 Translations
+	Le manque de vitamines vitales et les minéraux peuvent entraîner une large gamme de maladies et d'affections.
+	Le manque de vitamines et minéraux vitaux peut causer une large gamme de maladies et d'affections.
+	L'absence de vitamines et de minerais peut entraîner un grand nombre de maladies et d'affections.
+	Les carences de vitamines et de minéraux vitaux peuvent entraîner toute une gamme de maladies et d'affections.
+	La carence de vitamines vitales et de minéraux peut entraîner un large éventail de maladies et d'affections.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Due to the fact you weren't listening, you understood virtually nothing of what I said.
+Top 25 Translations
+	Vous n'écoutiez pas. Et vous n'avez presque rien compris de ce que j'ai dit.
+	Du fait que tu n'écoutes pas, tu ne comprends presque rien de ce que j'ai dit.
+	Vous ne m'écoutiez pas et vous n'aviez presque rien compris de ce que j'ai dit.
+	Vous n'étiez pas à l'écoute, vous n'avez pas compris ce que j'ai dit.
+	Vu que tu ne m'écoutais pas, tu n'as pratiquement aucune idée de ce que j'ai dit.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The rules and regulations were explained many times, but he has failed to comprehend them.
+Top 25 Translations
+	On l'a expliqué à plusieurs reprises, mais il ne s'en est pas rendu compte.
+	Les règles et règlements ont été expliqués beaucoup de fois, mais il n'a pas réussi à les comprendre.
+	Les règles et règlements ont été exposés à maintes reprises, mais il n'en a pas compris l'existence.
+	Les règles et réglementations furent expliquées à plusieurs reprises, mais il ne s'est pas aperçu de celles-ci.
+	La réglementation s'est expliquée plusieurs fois, mais il ne les a pas compris.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "I risked life and limb to save you and look at how ungrateful you are!" Charles shouted.
+Top 25 Translations
+	« Je risquais une vie et de l'insertion pour te sauver et voir à quel point tu es ingrat! » cria Charles.
+	– J'ai risquer de vous sauver la vie, je vous ai jeté un regard sur à quel point vous étiez ingrats! cria Charles.
+	" J'ai risqué la vie pour te sauver et te regarder comme tu es ingrat! " s'écria Charles.
+	« Je risque la vie et la jambe pour vous sauver et vous regarder comme vous êtes ingrat! » cria Charles.
+	«J'ai risqué la vie et le membre pour vous sauver et regarder à combien vous êtes ingrate!» a crié Charles.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Do you even notice that you're whistling? It's really disturbing me.
+Top 25 Translations
+	Tu vois même que tu siffles, ça m'ennuie vraiment.
+	Est-ce que vous remarquez que vous sifflez?
+	Vous avez remarqué que vous sifflez, c'est vraiment me tracasser.
+	Tu te souviens que t'es en train de siffler?
+	- Vous remarquez que vous sifflez ou même qu'il me dérange.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Though the report is good, I don't think you do enough to define the goals of it at the beginning.
+Top 25 Translations
+	Même si le rapport est positif, je ne crois pas que vous en faites suffisamment pour en définir les objectifs au début.
+	Le rapport est bien, mais je ne pense pas que vous en faites assez pour en définir les objectifs au début.
+	Si le rapport est bon, je ne pense pas que vous en failliez assez pour que les objectifs de ce rapport en soient tout d'abord définis.
+	Bien que le rapport soit valable, je pense que tu ne peux pas le définir suffisamment au début.
+	Bien que le rapport soit bon, vous n'en faites pas assez pour en définir les objectifs dès le début.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Disaster struck on the fairground ride when one of the children released the safety bar.
+Top 25 Translations
+	Une catastrophe a été provoquée par la sortie d'un des enfants de la maison d'arrêt, lors d'un tour en plein air.
+	Le désastre est survenu lors de la course au fairground lorsque l'un de ces enfants a remis en liberté le bar de sécurité.
+	Le désastre a frappé pendant la promenade du fair-ground quand l'un d'eux a relâché la barre de sécurité.
+	La catastrophe a frappé lors de la promenade en sol battu quand l'un des enfants a relâché la barre de sécurité.
+	C'est une catastrophe survenue lors de la sortie du parc de foires lorsqu'un des enfants a relâché la barre de sécurité.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Pesticides have meant that many butterflies native to this area are no longer found.
+Top 25 Translations
+	Les pesticides n'ont donc plus trouvé de papillons indigènes dans cette région.
+	Les pesticides signifient qu'on n'y trouve plus beaucoup de papillons indigènes.
+	Les pesticides ont fait en sorte que de nombreux papillons indigènes à cette région ne se trouvent plus.
+	Les pesticides signifient qu'il n'y a plus beaucoup de papillons indigènes à cette région.
+	En raison des pesticides, de nombreux papillons indigènes ne sont plus trouvés dans cette région.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The sacked teacher returned to the school and made off with computer equipment worth thousands.
+Top 25 Translations
+	Le professeur s'est retiré de l'école et l'équipement d'ordinateurs a coûté des milliers de dollars.
+	Le professeur qui s'était fait renvoyer retour à l'école a fini par se procurer un matériel informatique de plusieurs milliers de dollars.
+	Il est retourné à l'école où il a perdu du matériel d'informatique, et il s'en est emparé avec une valeur d'un millier de personnes.
+	La professeure saccagée est retournée à l'école et a repris le service d'un appareillage d'ordinateurs pouvant coûter des milliers de dollars.
+	Le professeur démis est rentré dans l'école et il s'était démobilisé avec de l'équipement d'informatique qui valait des milliers de dollars.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Even though the accused didn't carry out his threat, the victim was left terrified.
+Top 25 Translations
+	Même si l'accusé ne se livrait pas à ses actes de menace, il la laissait la victime terrifiée.
+	L'accusé n'a même pas exécuté ses menaces, mais la victime a été laissée terrifiée.
+	Alors que l'accusé n'exécutait pas sa menace, la victime était laissée terrifiée.
+	Bien que l'accusé n'eût pas commis sa menace, la victime est laissée terrifiée.
+	Même si l'accusé n'avait pas accompli sa menace, la victime a été laissée terrifiée.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: "It is only through the generous grants given to me by this college that I'm able to continue my work."
+Top 25 Translations
+	C'est seulement par les généreuses bourses que j'ai reçu de cette université que je suis capable de continuer mon travail. »
+	« C'est seulement grâce aux généreuses subventions que ce collège me donne, que je suis en mesure d'assurer la poursuite de mon travail. »
+	Ce n'est que grâce aux généreux dons que j'obtiendrai la possibilité d'aller poursuivre mon travail au sein de l'université.
+	« Ce n'est que grâce aux généreuses subventions qui m'ont été accordées par cette université que j'ai la possibilité de poursuivre mon travail. »
+	« Seulement grâce aux généreuses subventions accordées par cette université, je suis en mesure de continuer mon travail. »
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Great care must be taken with fireworks and similar devices that can cause injury.
+Top 25 Translations
+	Il faut être très prudent lorsqu'il s'agit de feux d'incendie ou de dispositifs analogues, qui peuvent provoquer des blessures.
+	Il faut prendre très soin avec des feux d'artifice et des dispositifs semblables qui peuvent causer des blessures.
+	Il faut être prudent à l'aide de feux d'artifice ou d'appareils semblables qui peuvent causer des blessures.
+	Il faut veiller à ce que les feux d'artifice et dispositifs analogues soient très utiles et puissent causer des blessures.
+	Il faut prendre grand soin de vous servir de feux d'artifice et d'appareils similaires pouvant causer des blessures.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The Dollar-Euro exchange rate has fluctuated a lot throughout the year.
+Top 25 Translations
+	Le taux de change entre dollars et euros a beaucoup fluctué tout au long de l'année.
+	Le taux de change Dollar/Euro a fluctué de manière importante tout au long de l'année.
+	Le taux d'échange dollar-euro a fluctué de façon importante tout au long de l'année.
+	Le cours dollar-euro s'est très fortement fluctué tout au long de l'année.
+	Le taux de change de Dollar-euro a beaucoup fluctué sur l'ensemble de l'année.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Many animals are endangered because humans have invaded their usual habitat.
+Top 25 Translations
+	Beaucoup d'espèces animales sont en danger, car l'homme a envahi son habitat habituel.
+	Beaucoup de bêtes sont en danger car l'espèce humaine s'en est prise à son habitat habituel.
+	Beaucoup d'animaux sont menacés du fait que les humains ont envahi leur habitat habituel.
+	Nombre d'entre eux sont en danger parce que les humains ont envahi leur habitat habituel.
+	Beaucoup de ces animaux sont menacés par l'invasion, par les humains, de leur habitat habituel.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Despite being such a frequent visitor to Paris, Sam never bored of exploring it.
+Top 25 Translations
+	En dépit de son séjour si fréquent à Paris, Sam ne s'est jamais ennuyé de l'explorer.
+	En outre, même si le visiteur de la ville est si souvent allé à Paris, Sam n'est jamais fatigué de l'explorer.
+	Malgré la fréquentation si fréquentes à Paris, Sam n'en a jamais assez de l'explorer.
+	Malgré une visite si fréquente à Paris, Sam ne s'ennuie jamais à l'explorer.
+	Malgré ses fréquents visiteurs, Sam ne s'est jamais lasser de l'explorer.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: When choosing for this role, don't overlook the talents of Brian, one of the best actors in the academy.
+Top 25 Translations
+	Lors du choix de ce rôle, n'oubliez pas le talent de Brian, l'un des meilleurs acteurs de l'académie.
+	En choisissant ce rôle, n'oubliez pas les talents de Brian, un des meilleurs acteurs de l'académie.
+	En choisissant de devenir ce rôle, ne négligez pas les talents de Brian, l'un des meilleurs acteurs de l'académie.
+	En choisissant de jouer ce rôle, n'oublions pas le talent de Brian, l'un des meilleurs acteurs de l'académie.
+	En choisissant ce rôle, ne manquez pas les talents de Brian, l'un des meilleurs acteurs de l'académie.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The taste is wrong. Add some more salt to it. That might do the trick.
+Top 25 Translations
+	Le goût a tort, il faut lui ajouter plus de sel, ça peut faire l'affaire.
+	Le goût est mauvais, il faut ajouter du sel et faire l'astuce.
+	C'est un goût faux, il faut du sel pour le trouver, et peut-être faire le tour.
+	Il y a de mauvais goût, mais il faut y ajouter encore du sel, ça pourrait faire l'affaire.
+	J'ai eu l'impression d'en avoir mangé, j'ai dû lui en apporter de la saline et je crois que ça peut faire le tour.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The director promised a broad and thorough review to get to the bottom of why the scandal happened.
+Top 25 Translations
+	Le réalisateur avait promis une revue générale et approfondie pour savoir pourquoi le scandale s'est produit.
+	Le directeur a promis une révision générale et approfondie afin de comprendre pourquoi le scandale s'est produit.
+	Le réalisateur promet une analyse globale et approfondie pour déterminer la raison pour laquelle il s'est produit le scandale.
+	Le directeur a promis d'examiner de manière approfondie pourquoi le scandale s'était produit.
+	Le réalisateur a promis une révision vaste et détaillée pour déterminer pourquoi le scandale s'est produit.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Engineers made a tiny adjustment to the fuel pump and the mission continued.
+Top 25 Translations
+	Les ingénieurs ont effectué de petits ajustements de la pompe à combustible et la mission s'est poursuivie.
+	Des ingénieurs ont effectué une légère opération d'ajustement pour la pompe à combustible et la mission a continué.
+	Les ingénieurs ont effectué des ajustements minimes à la pompe de carburant, et la mission s'est poursuivie.
+	Les ingénieurs ont procédé à un petit ajustement à la pompe de carburant, et la mission s'est poursuivie.
+	Les ingénieurs ont procédé à un ajustement de la pompe de carburant et la mission s'est poursuivie.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: At moments like this, I like to remember my grandfather and how he used to play that old violin.
+Top 25 Translations
+	À de tels moments, je me souviens plus de mon grand-père... et de sa façon de jouer de ce vieux violon.
+	J'aime me rappeler de ce moment de figure mon grand-père, ainsi que la façon avec laquelle il jouait à ce vieux violon.
+	À des moments comme ceux-là, j'aime me souvenir de mon grand-père et de la manière dont il jouait ce vieux violon.
+	Dans de tels moments-là, on s'en souvient bien, et il jouait du vieux violon.
+	Dans de telles circonstances, j'aime me rappeler mon grand-père et de la façon dont il jouait ce vieux violon.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: If you carry out this task successfully, it will help us enormously.
+Top 25 Translations
+	Si vous réalisez ce travail avec succès, cela nous aidera énormément.
+	Si vous réalisez cette tâche avec succès, cela nous aidera énormément.
+	Si vous vous attelez à cette tâche, elle nous aidera énormément.
+	Si vous accomplissez bien cette tâche, cela nous aidera énormément.
+	Si vous exécutez cette tâche avec succès, cela nous aidera énormément.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Large black bands of clouds moved over the area and before long, the rain had started.
+Top 25 Translations
+	Les grandes bandes noires de nuages se sont déplacées dans la région, et peu de temps après, la pluie avait commencé.
+	De larges bandes noires de nuages s'étaient déplacées dans la région et bientôt, la pluie avait commencé.
+	De grands nuages noirs se déplacent sur la zone et, peu de temps après, la pluie commence.
+	De grandes bandes noires se déplaçaient sur le secteur et bientôt on commençait à pleuvoir.
+	De vastes bandes noires de nuages se déplaçaient au-dessus de la région et peu après la pluie avait commencé.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You're looking so stressed Mike. You need to take it easy.
+Top 25 Translations
+	Vous avez l'air tellement stressé Mike... qu'il faut vous calmer.
+	Mike, vous avez l'air si stressé, vous devez vous calmer.
+	Tu es tellement stressée par Mike, tu dois y aller doucement.
+	Mike a l'air stressé et vous avez besoin de vous calmer.
+	Tu as l'air stressée, Mike, il faut te calmer.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: A meteorite or comet impact is thought to have contributed to the dinosaurs' extinction.
+Top 25 Translations
+	Un impact de météorite ou comète devrait avoir contribué à l'extinction des dinosaures.
+	Une météorite ou un impact de comète, semble-t-on, a contribué à l'extinction des dinosaures.
+	On croit qu'une météorite ou un impact de comètes a contribué à l'extinction des dinosaures.
+	On pense que l'effet météorite ou comète aurait contribué à l'extinction des dinosaures.
+	On pense qu'un effet météorite ou comète a contribué à l'extinction des dinosaures.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Police clashed with protestors who are trying to protect an ancient woodland from being destroyed.
+Top 25 Translations
+	La police s'est heurtée aux protestants qui tentent de protéger un vieux bois d'ici à ce qu'il ne soit pas détruit.
+	La police s'est affrontée avec des manifestants qui essaient de protéger les forêts anciennes d'être détruites.
+	Les policiers se sont opposés aux protestataires qui cherchent à protéger la forêt ancienne d'être détruits.
+	La police est en collision avec des manifestants qui tentent de protéger une forêt antique d'être détruite.
+	La police a rencontré des manifestants essayant de protéger une forêt ancienne d'être détruite.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Oh, that dress reveals too much, Carol. I'd change it.
+Top 25 Translations
+	Oh, cette robe révèle trop, Carol, je le changerais.
+	Oh, cette robe nous révélerait trop, Carol... je le changerais.
+	Cette robe me révélerait trop, Carol... je la changerais.
+	Cette robe est trop révélatrice, Carol, j'en changerais.
+	Cette robe est trop révélatrice Carol, je la changerais.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: The findings of the report have yet to be analysed by the government so they can formulate new policies.
+Top 25 Translations
+	Les résultats du rapport ne sont pas encore analysés par le gouvernement afin qu'il puisse élaborer de nouvelles politiques.
+	L'analyse de ce rapport n'a pas encore été réalisée par le gouvernement de manière à pouvoir formuler de nouvelles politiques.
+	Le Gouvernement n'a pas encore analysé les conclusions de ce rapport pour élaborer de nouvelles politiques.
+	Le rapport reste à analyser par les pouvoirs publics afin de pouvoir formuler de nouvelles politiques.
+	Les conclusions du rapport n'ont pas encore été analysées par l'administration, afin de pouvoir formuler de nouvelles politiques.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Alcohol consumption has risen again among the young, according to a new report published today.
+Top 25 Translations
+	D'après un rapport d'aujourd'hui, la consommation d'alcool a de nouveau augmenté chez les jeunes.
+	La consommation d'alcool a de nouveau augmenté chez les jeunes, d'après un nouveau rapport publié aujourd'hui.
+	La consommation d'alcool a augmenté parmi les jeunes, selon un nouveau rapport publié aujourd'hui.
+	La consommation d'alcool a de nouveau augmenté chez les jeunes, d'après un nouveau rapport publié aujourd'hui.
+	La consommation d'alcool a recommencé à grimper parmi les jeunes selon un nouveau rapport publié aujourd'hui.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: Have you decided whether you'll opt for our standard insurance or the premium policy?
+Top 25 Translations
+	Avez-vous décidé si vous opter pour notre assurance standard ou la police de primes?
+	Vous avez décidé d'accéder ou non à notre assurance standard ou à la police de primes?
+	Vous êtes-vous dit que vous choisirez ou non l'assurance standard ou la police de primes?
+	Est-ce que vous avez décidé de vous prévaloir de notre assurance standard, ou de notre assurance-primes?
+	Tu as décidé si tu choisirais notre assurance standard ou notre assurance-prime?
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: You need to be more productive, Susan, and I mean that in terms of the hours you do here in the office.
+Top 25 Translations
+	Vous devez être plus productive, Susan, et ça, en termes d'heures que vous faites ici dans le bureau.
+	Tu dois être plus productive. Et je veux dire en ce qui concerne les heures d'ouverture ici, dans le bureau.
+	Tu dois être plus productif, Susan, et je parle des heures qu'il faut ici, dans le bureau.
+	Il faut que vous soyez plus productive, et je veux dire, que si vous avez les heures, ici, au bureau.
+	Tu as besoin de plus de productivité, Susan, et je veux dire qu'en terme d'heures où tu fais ça ici dans le bureau.
+-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
+Test Sentence: 
+Top 25 Translations
+	L'annexe VI est remplacée par le texte suivant:
+	le montant maximal indiqué est égal ou supérieur à 10 %;
+	le numéro d'ordre du fabricant et de l'organisme d'identification du type visé à l'annexe II;
+	de la florille ou de la capitulation,
+	Le présent accord avec le présent accord est sans préjudice des règles pertinentes énoncées à l'annexe I du présent règlement.
+-----------------------------------------------------------------------------------------
