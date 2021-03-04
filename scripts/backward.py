@@ -88,6 +88,7 @@ def parse_file_for_backward(forward_file):
 
     return src_to_trg
 
+
 def init_job(src, trg, nbest, direction, test_sentences_loc, device="cuda:0"):
 
     if direction == "f":
@@ -120,9 +121,7 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, device="cuda:0"):
     save_nbest(translations, test_sentences, nbest,
                translations_file_name, output_dir)
 
-
     return translations_file_name
-
 
 
 if __name__ == "__main__":
@@ -146,7 +145,8 @@ if __name__ == "__main__":
                         help="If true then it will evaluate tranlations for src to trg")
     parser.add_argument('--backward', action="store_true",
                         help="If true then it will evaluate translations for trg to src")
-    parser.add_argument("--both", action="store_true", help="If true then it will translate for both directions")
+    parser.add_argument("--both", action="store_true",
+                        help="If true then it will translate for both directions")
     args = parser.parse_args()
 
     src = args.src
@@ -166,15 +166,28 @@ if __name__ == "__main__":
 
     logger.info("Device in use: {}".format(device))
     logger.info('Getting test sentences from: {}'.format(test_sentences_loc))
-    
+
     if translate_both:
         for trg in trg_langs:
-            translation_file_path = init_job(src, trg, nbest, "f", test_sentences_loc, device) 
-            init_job(src, trg, nbest, "b", translation_file_path, device)
+            try:
+                translation_file_path = init_job(
+                    src, trg, nbest, "f", test_sentences_loc, device)
+                init_job(src, trg, nbest, "b", translation_file_path, device)
+            except:
+                logger.error(
+                    "Skipping translating from {} to {} due to error".format(src, trg))
 
     elif translate_forward:
         for trg in trg_langs:
-            init_job(src, trg, nbest, "f", test_sentences_loc, device) 
+            try:
+                init_job(src, trg, nbest, "f", test_sentences_loc, device)
+            except:
+                logger.error(
+                    "Skipping translating from {} to {} due to error".format(src, trg))
     elif translate_backward:
         for trg in trg_langs:
-            init_job(src, trg, nbest, "b", test_sentences_loc, device) 
+            try:
+                init_job(src, trg, nbest, "b", test_sentences_loc, device)
+            except:
+                logger.error(
+                    "Skipping translating from {} to {} due to error".format(src, trg))
