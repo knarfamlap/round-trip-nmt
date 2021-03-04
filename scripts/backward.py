@@ -88,46 +88,9 @@ def parse_file_for_backward(forward_file):
 
     return src_to_trg
 
+def init_job(src, trg, nbest, direction, test_sentences_loc, device="cuda:0"):
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Translate from src model to trg model and back given n number of hypothesis for each hypothesis in src_to_trg_translations"
-    )
-
-    parser.add_argument('--src', help='Name of language for the forward model')
-    parser.add_argument('--trg', help='Name of language for the pivot model')
-    parser.add_argument(
-        '--nbest',
-        help='Number of sequences to return from the backward model')
-    parser.add_argument('--output',
-                        help='Directory where the sequences will be saved')
-    parser.add_argument('--sentences',
-                        help='Sentences to produce translation from trg to src')
-    parser.add_argument('--device', help='GPU where the script should run')
-    parser.add_argument('--forward', action="store_true",
-                        help="If tru then it will evaluate tranlations for src to trg")
-    parser.add_argument('--backward', action="store_true",
-                        help="If true then it will evaluate translations for trg to src")
-    args = parser.parse_args()
-
-    src = args.src
-    trg = args.trg
-    nbest = int(args.nbest)
-    output_dir = args.output
-    test_sentences_loc = args.sentences
-    translate_forward = args.forward
-    translate_backward = args.backward
-
-    if args.device == "cpu":
-        device = "cpu"
-    else:
-        device = torch.device(
-            f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
-
-    logger.info("Device in use: {}".format(device))
-    logger.info('Getting test sentences from: {}'.format(test_sentences_loc))
-
-    if translate_forward:
+    if direction == "f":
         # load test_sentence for forward translations
         test_sentences_path = os.path.abspath(test_sentences_loc)
         test_sentences = open(test_sentences_path, 'r').read().split('\n')
@@ -138,10 +101,9 @@ if __name__ == "__main__":
         translations_file_name = "{}-{}-top{}translations.txt".format(src, trg,
                                                                       nbest * nbest)
 
-    elif translate_backward:
+    elif direction == "b":
         # load test sentences for backward tranlations
         test_sentences = parse_file_for_backward(test_sentences_loc)
-        src_sentences = test_sentences.keys()
         trg_sentences_in_batches = test_sentences.values()
 
         logger.info('Translating test sentences from {} to {}'.format(trg, src))
@@ -157,3 +119,62 @@ if __name__ == "__main__":
                 translations_file_name))))
     save_nbest(translations, test_sentences, nbest,
                translations_file_name, output_dir)
+
+
+    return translations_file_name
+
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Translate from src model to trg model and back given n number of hypothesis for each hypothesis in src_to_trg_translations"
+    )
+
+    parser.add_argument(
+        '-s', '--src', type=str, help='Name of language for the forward model')
+    parser.add_argument(
+        '-t', '--trg', action="append", type=list, help='Name of language for the pivot model')
+    parser.add_argument(
+        '--nbest',
+        help='Number of sequences to return from the backward model')
+    parser.add_argument('--output',
+                        help='Directory where the sequences will be saved')
+    parser.add_argument('--sentences',
+                        help='Sentences to produce translation from trg to src')
+    parser.add_argument('--device', help='GPU where the script should run')
+    parser.add_argument('--forward', action="store_true",
+                        help="If true then it will evaluate tranlations for src to trg")
+    parser.add_argument('--backward', action="store_true",
+                        help="If true then it will evaluate translations for trg to src")
+    parser.add_argument("--both", action="store_true", help="If true then it will translate for both directions")
+    args = parser.parse_args()
+
+    src = args.src
+    trg_langs = args.trg
+    nbest = int(args.nbest)
+    output_dir = args.output
+    test_sentences_loc = args.sentences
+    translate_forward = args.forward
+    translate_backward = args.backward
+    translate_both = args.both
+
+    if args.device == "cpu":
+        device = "cpu"
+    else:
+        device = torch.device(
+            f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
+
+    logger.info("Device in use: {}".format(device))
+    logger.info('Getting test sentences from: {}'.format(test_sentences_loc))
+    
+    if translate_both:
+        for trg in trg_langs:
+            translation_file_path = init_job(src, trg, nbest, "f", test_sentences_loc, device) 
+            init_job(src, trg, nbest, "b", translation_file_path, device)
+
+    elif translate_forward:
+        for trg in trg_langs:
+            init_job(src, trg, nbest, "f", test_sentences_loc, device) 
+    elif translate_backward:
+        for trg in trg_langs:
+            init_job(src, trg, nbest, "b", test_sentences_loc, device) 

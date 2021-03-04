@@ -41,3 +41,5 @@ def save_nbest(rt_translations, test_sents, nbest, file_name, output_dir):
             for translation in translations:
                 f.write('\t{}\n'.format(translation))
             f.write(89 * '-' + '\n')
+    # return the path where the translations were saved
+    return os.path.join(output_dir, file_name)
