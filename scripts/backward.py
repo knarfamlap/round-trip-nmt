@@ -132,7 +132,7 @@ if __name__ == "__main__":
     parser.add_argument(
         '-s', '--src', type=str, help='Name of language for the forward model')
     parser.add_argument(
-        '-t', '--trg', action="append", type=list, help='Name of language for the pivot model')
+        '-t', '--trg', type=list, nargs="*", help='Name of language for the pivot model')
     parser.add_argument(
         '--nbest',
         help='Number of sequences to return from the backward model')
@@ -150,7 +150,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     src = args.src
-    trg_langs = args.trg
+    trg_langs = list(map(lambda x: "".join(x), args.trg))
     nbest = int(args.nbest)
     output_dir = args.output
     test_sentences_loc = args.sentences
