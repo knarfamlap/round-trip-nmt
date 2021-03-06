@@ -10,4 +10,6 @@ All the models inside `en` came from the following sources:
 
 ## Scripts
 
-All scripts are stored with in the directory `scripts`
+All scripts are stored with in the directory `scripts` 
+
+### translate.py
