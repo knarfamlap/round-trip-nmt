@@ -8,4 +8,6 @@ All the models inside `en` came from the following sources:
 ## Other Pretrained Models
 - [zh-en](https://github.com/twairball/fairseq-zh-en) 
 
+## Scripts
 
+All scripts are stored with in the directory `scripts`
