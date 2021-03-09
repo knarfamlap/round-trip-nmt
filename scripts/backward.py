@@ -89,7 +89,7 @@ def parse_file_for_backward(forward_file):
     return src_to_trg
 
 
-def init_job(src, trg, nbest, direction, test_sentences_loc, device="cuda:0"):
+def init_job(src, trg, nbest, direction, test_sentences_loc, index, device="cuda:0"):
 
     if direction == "f":
         # load test_sentence for forward translations
@@ -99,8 +99,8 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, device="cuda:0"):
         logger.info('Translating test sentences from {} to {}'.format(src, trg))
         translations = translate(
             src, trg, test_sentences, nbest, direction="f", device=device)
-        translations_file_name = "{}-{}-top{}translations.txt".format(src, trg,
-                                                                      nbest * nbest)
+        translations_file_name = "{}-{}-top{}translations-{}.txt".format(src, trg,
+                                                                         nbest * nbest, index)
 
     elif direction == "b":
         # load test sentences for backward tranlations
@@ -110,8 +110,8 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, device="cuda:0"):
         logger.info('Translating test sentences from {} to {}'.format(trg, src))
         translations = translate(
             trg, src, trg_sentences_in_batches, nbest, direction="b", device=device)
-        translations_file_name = "{}-{}-{}-top{}translations.txt".format(src, trg, src,
-                                                                         nbest * nbest)
+        translations_file_name = "{}-{}-{}-top{}translations-{}.txt".format(src, trg, src,
+                                                                            nbest * nbest, index)
 
     logger.info('Saving translations to {}'.format(
         os.path.abspath(
@@ -134,11 +134,10 @@ if __name__ == "__main__":
     parser.add_argument(
         '-t', '--trg', type=list, nargs="*", help='Name of language for the pivot model')
     parser.add_argument(
-        '--nbest',
-        help='Number of sequences to return from the backward model')
+        '--nbest', help='Number of sequences to return from the backward model')
     parser.add_argument('--output',
                         help='Directory where the sequences will be saved')
-    parser.add_argument('--sentences',
+    parser.add_argument('--sentences', type=list, nargs="*",
                         help='Sentences to produce translation from trg to src')
     parser.add_argument('--device', help='GPU where the script should run')
     parser.add_argument('--forward', action="store_true",
@@ -156,6 +155,7 @@ if __name__ == "__main__":
     test_sentences_loc = args.sentences
     translate_forward = args.forward
     translate_backward = args.backward
+    per_line = args.per_line
     translate_both = args.both
 
     if args.device == "cpu":
@@ -165,29 +165,38 @@ if __name__ == "__main__":
             f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
 
     logger.info("Device in use: {}".format(device))
-    logger.info('Getting test sentences from: {}'.format(test_sentences_loc))
 
     if translate_both:
         for trg in trg_langs:
             try:
-                translation_file_path = init_job(
-                    src, trg, nbest, "f", test_sentences_loc, device)
-                init_job(src, trg, nbest, "b", translation_file_path, device)
-            except:
+
+                for i, file_name in enumerate(test_sentences_loc):
+                    translation_file_path = init_job(
+                        src, trg, nbest, "f", file_name, i + 1, device)
+                    init_job(src, trg, nbest, "b",
+                             translation_file_path, i + 1, device)
+            except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
+                logger.error(err)
 
     elif translate_forward:
         for trg in trg_langs:
             try:
-                init_job(src, trg, nbest, "f", test_sentences_loc, device)
-            except:
+                for i, file_name in enumerate(test_sentences_loc):
+                    init_job(src, trg, nbest, "f", file_name, i + 1, device)
+            except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
+                logger.error(err)
+
     elif translate_backward:
         for trg in trg_langs:
             try:
-                init_job(src, trg, nbest, "b", test_sentences_loc, device)
-            except:
+                for i, file_name in enumerate(test_sentences_loc):
+                    init_job(src, trg, nbest, "b",
+                             test_sentences_loc, i + 1, device)
+            except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
+                logger.error(err)

@@ -4,6 +4,7 @@ import torch
 from logzero import logger
 from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
+from typing import List
 
 def get_num_params(model):
     # get total number of parameters in model
@@ -43,3 +44,13 @@ def save_nbest(rt_translations, test_sents, nbest, file_name, output_dir):
             f.write(89 * '-' + '\n')
     # return the path where the translations were saved
     return os.path.join(output_dir, file_name)
+
+
+def find_retrieval(li_a: List[str], li_b: List[str]) -> int:
+    """ 
+    Compute Retrieval of gold distractors. li_a is the list of gold distractors 
+    and li_b is the list of generated distractors
+    """
+    intersection = set(li_a) & set(li_b) 
+
+    return len(intersection)
