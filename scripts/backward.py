@@ -137,7 +137,7 @@ if __name__ == "__main__":
         '--nbest', help='Number of sequences to return from the backward model')
     parser.add_argument('--output',
                         help='Directory where the sequences will be saved')
-    parser.add_argument('--sentences', type=list, nargs="*",
+    parser.add_argument('--sentences',
                         help='Sentences to produce translation from trg to src')
     parser.add_argument('--device', help='GPU where the script should run')
     parser.add_argument('--forward', action="store_true",
@@ -152,10 +152,10 @@ if __name__ == "__main__":
     trg_langs = list(map(lambda x: "".join(x), args.trg))
     nbest = int(args.nbest)
     output_dir = args.output
-    test_sentences_loc = args.sentences
+    test_sentences_loc = [f for f in os.listdir(
+        os.path.abspath(args.sentences)) if os.path.isfile(os.path.join(args.sentences, f))]
     translate_forward = args.forward
     translate_backward = args.backward
-    per_line = args.per_line
     translate_both = args.both
 
     if args.device == "cpu":
@@ -170,11 +170,14 @@ if __name__ == "__main__":
         for trg in trg_langs:
             try:
 
-                for i, file_name in enumerate(test_sentences_loc):
+                for file_name in tqdm(test_sentences_loc):
+                    exercise_line_num = int(file_name.split(".")[0])
+                    file_name = os.path.join(args.sentences, file_name)
+                    logger.info("Processing file: {}".format(file_name))
                     translation_file_path = init_job(
-                        src, trg, nbest, "f", file_name, i + 1, device)
+                        src, trg, nbest, "f", file_name, exercise_line_num, device)
                     init_job(src, trg, nbest, "b",
-                             translation_file_path, i + 1, device)
+                             os.path.join(output_dir, translation_file_path), exercise_line_num, device)
             except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
@@ -183,8 +186,10 @@ if __name__ == "__main__":
     elif translate_forward:
         for trg in trg_langs:
             try:
-                for i, file_name in enumerate(test_sentences_loc):
-                    init_job(src, trg, nbest, "f", file_name, i + 1, device)
+                for file_name in tqdm(test_sentences_loc):
+                    exercise_line_num = int(file_name.split(".")[0])
+                    file_name = os.path.join(args.sentences, file_name)
+                    init_job(src, trg, nbest, "f", file_name, exercise_line_num, device)
             except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
@@ -193,9 +198,11 @@ if __name__ == "__main__":
     elif translate_backward:
         for trg in trg_langs:
             try:
-                for i, file_name in enumerate(test_sentences_loc):
+                for file_name in tqdm(test_sentences_loc):
+                    exercise_line_num = int(file_name.split(".")[0])
+                    file_name = os.path.join(args.sentences, file_name)
                     init_job(src, trg, nbest, "b",
-                             test_sentences_loc, i + 1, device)
+                             file_name, exercise_line_num, device)
             except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
