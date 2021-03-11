@@ -38,16 +38,13 @@ def translate_sent_to_nbest(nbest, sentence, model, tokenizer, device="cuda:0"):
 
     translations.extend(decoded_translations)
 
+    del tokenized_sent, encoded_translations, decoded_translations
     torch.cuda.empty_cache()
 
     return translations
 
 
-def translate(src, trg, sentences, nbest, direction="f", device="cuda:0"):
-
-    logger.info('Getting {}-{} model and its tokenizer'.format(src, trg))
-    model, tokenizer = load_model_and_tokenizer(
-        src, trg, device=device)
+def translate(src, trg, sentences, nbest, model, tokenizer, direction="f", device="cuda:0"):
 
     translations = []
 
@@ -89,7 +86,7 @@ def parse_file_for_backward(forward_file):
     return src_to_trg
 
 
-def init_job(src, trg, nbest, direction, test_sentences_loc, index, device="cuda:0"):
+def init_job(src, trg, nbest, direction, test_sentences_loc, index, model, tokenizer, device="cuda:0"):
 
     if direction == "f":
         # load test_sentence for forward translations
@@ -98,7 +95,7 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, index, device="cuda
 
         logger.info('Translating test sentences from {} to {}'.format(src, trg))
         translations = translate(
-            src, trg, test_sentences, nbest, direction="f", device=device)
+            src, trg, test_sentences, nbest,  model, tokenizer, direction="f", device=device)
         translations_file_name = "{}-{}-top{}translations-{}.txt".format(src, trg,
                                                                          nbest * nbest, index)
 
@@ -109,7 +106,7 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, index, device="cuda
 
         logger.info('Translating test sentences from {} to {}'.format(trg, src))
         translations = translate(
-            trg, src, trg_sentences_in_batches, nbest, direction="b", device=device)
+            trg, src, trg_sentences_in_batches, nbest, model, tokenizer, direction="b", device=device)
         translations_file_name = "{}-{}-{}-top{}translations-{}.txt".format(src, trg, src,
                                                                             nbest * nbest, index)
 
@@ -169,15 +166,36 @@ if __name__ == "__main__":
     if translate_both:
         for trg in trg_langs:
             try:
+                logger.info(
+                    'Getting {}-{} model and its tokenizer'.format(src, trg))
 
+                model, tokenizer = load_model_and_tokenizer(
+                    src, trg, device=device)
+
+                translation_file_paths = []
                 for file_name in tqdm(test_sentences_loc):
                     exercise_line_num = int(file_name.split(".")[0])
                     file_name = os.path.join(args.sentences, file_name)
                     logger.info("Processing file: {}".format(file_name))
                     translation_file_path = init_job(
-                        src, trg, nbest, "f", file_name, exercise_line_num, device)
-                    init_job(src, trg, nbest, "b",
-                             os.path.join(output_dir, translation_file_path), exercise_line_num, device)
+                        src, trg, nbest, "f", file_name, exercise_line_num, model, tokenizer, device)
+                    translation_file_paths.append(translation_file_path)
+                    torch.cuda.empty_cache()
+
+                del model, tokenizer
+                logger.info(
+                    'Getting {}-{} model and its tokenizer'.format(trg, src))
+                model, tokenizer = load_model_and_tokenizer(
+                    trg, src, device=device)
+
+                for file_path in tqdm(translation_file_paths):
+                    exercise_line_num = int(
+                        file_path.split("-")[3].split(".")[0])
+                    file_path = os.path.join(output_dir, file_path)
+                    logger.info("Processing file: {}".format(file_path))
+                    init_job(src, trg, nbest, "b", file_path,
+                             exercise_line_num, model, tokenizer, device)
+
             except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
@@ -186,10 +204,16 @@ if __name__ == "__main__":
     elif translate_forward:
         for trg in trg_langs:
             try:
+                logger.info(
+                    'Getting {}-{} model and its tokenizer'.format(src, trg))
+                model, tokenizer = load_model_and_tokenizer(
+                    src, trg, device=device)
+
                 for file_name in tqdm(test_sentences_loc):
                     exercise_line_num = int(file_name.split(".")[0])
                     file_name = os.path.join(args.sentences, file_name)
-                    init_job(src, trg, nbest, "f", file_name, exercise_line_num, device)
+                    init_job(src, trg, nbest, "f", file_name,
+                             exercise_line_num, model, tokenizer, device)
             except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
@@ -198,11 +222,16 @@ if __name__ == "__main__":
     elif translate_backward:
         for trg in trg_langs:
             try:
+                logger.info(
+                    'Getting {}-{} model and its tokenizer'.format(src, trg))
+                model, tokenizer = load_model_and_tokenizer(
+                    src, trg, device=device)
+
                 for file_name in tqdm(test_sentences_loc):
                     exercise_line_num = int(file_name.split(".")[0])
                     file_name = os.path.join(args.sentences, file_name)
                     init_job(src, trg, nbest, "b",
-                             file_name, exercise_line_num, device)
+                             file_name, exercise_line_num, model, tokenizer, device)
             except Exception as err:
                 logger.error(
                     "Skipping translating from {} to {} due to error".format(src, trg))
