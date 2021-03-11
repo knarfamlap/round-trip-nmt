@@ -118,6 +118,9 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, index, model, token
     save_nbest(translations, test_sentences, nbest,
                translations_file_name, output_dir)
 
+
+    del trans
+
     return translations_file_name
 
 
@@ -165,15 +168,18 @@ if __name__ == "__main__":
 
     if translate_both:
         for trg in trg_langs:
-            try:
-                logger.info(
-                    'Getting {}-{} model and its tokenizer'.format(src, trg))
 
-                model, tokenizer = load_model_and_tokenizer(
-                    src, trg, device=device)
+            logger.info(
+                'Getting {}-{} model and its tokenizer'.format(src, trg))
 
-                translation_file_paths = []
-                for file_name in tqdm(test_sentences_loc):
+            model, tokenizer = load_model_and_tokenizer(
+                src, trg, device=device)
+
+            failed_forward_translation_files = []
+
+            translation_file_paths = []
+            for file_name in tqdm(test_sentences_loc):
+                try:
                     exercise_line_num = int(file_name.split(".")[0])
                     file_name = os.path.join(args.sentences, file_name)
                     logger.info("Processing file: {}".format(file_name))
@@ -182,24 +188,33 @@ if __name__ == "__main__":
                     translation_file_paths.append(translation_file_path)
                     torch.cuda.empty_cache()
 
-                del model, tokenizer
-                logger.info(
-                    'Getting {}-{} model and its tokenizer'.format(trg, src))
-                model, tokenizer = load_model_and_tokenizer(
-                    trg, src, device=device)
+                except Exception as err:
+                    logger.error(err)
+                    logger.error(
+                        "Failed to created translations for exerscise on file: {}. Will retry after.".format(file_name))
+                    failed_forward_translation_files.append(file_name)
 
-                for file_path in tqdm(translation_file_paths):
+            
+
+            del model, tokenizer
+            logger.info(
+                'Getting {}-{} model and its tokenizer'.format(trg, src))
+            model, tokenizer = load_model_and_tokenizer(
+                trg, src, device=device)
+            failed_backward_translation_files = []
+            for file_path in tqdm(translation_file_paths):
+
+                try:
                     exercise_line_num = int(
                         file_path.split("-")[3].split(".")[0])
                     file_path = os.path.join(output_dir, file_path)
                     logger.info("Processing file: {}".format(file_path))
                     init_job(src, trg, nbest, "b", file_path,
                              exercise_line_num, model, tokenizer, device)
-
-            except Exception as err:
-                logger.error(
-                    "Skipping translating from {} to {} due to error".format(src, trg))
-                logger.error(err)
+                except Exception as err:
+                    logger.error(
+                        "Failed to created translations for exerscise on file: {}. Will retry after.".format(file_name))
+                    failed_backward_translation_files.append(file_name)
 
     elif translate_forward:
         for trg in trg_langs:
