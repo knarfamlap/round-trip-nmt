@@ -34,9 +34,17 @@ def alignments_to_wrds(aligments, src_sent_arr, trans_sent_arr, method="mwmf"):
     return aligned_words
 
 
-def align(files_to_align, output_dir, method, device):
-    files_to_align = [os.path.abspath(file) for file in files_to_align]
-    output_dir = os.path.abspath(output_dir)
+def align(files_dir, output_dir, prefix, method, device):
+
+    files_to_align = [] 
+
+    for f in os.listdir(os.path.abspath(files_dir)):
+        hasPrefix = prefix in f
+        if os.path.isfile(os.path.join(files_dir, f)) and hasPrefix: 
+            path = os.path.abspath(os.path.join(files_dir, f))
+            files_to_align.append(path) 
+
+
     # making sure the output dir exits
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
@@ -98,8 +106,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Aligned the passed in files")
 
-    parser.add_argument("files_to_align", metavar="N",
-                        type=str, nargs="+", help="Files that will be aligned")
+    parser.add_argument("--files_dir",
+                        type=str, help="Files that will be aligned")
+    parser.add_argument(
+        "--prefix", help="The prefix for each file in the files directory")
     parser.add_argument(
         "--output_dir", default="./aligned", help="Directory where the aligned files will be saved")
     parser.add_argument(
@@ -109,11 +119,12 @@ if __name__ == "__main__":
                         help="Method for alignment. Can be the string mwmf, inter, or itermax")
     args = parser.parse_args()
 
-    files_to_align = args.files_to_align
+    files_dir = args.files_dir
+    prefix = args.prefix
     output_dir = args.output_dir
     method = args.method
     device = torch.device(
         f'cuda:{args.device}' if torch.cuda.is_available() else 'cpu')
 
     logger.info("Device in use: {}".format(device))
-    align(files_to_align, output_dir, method, device)
+    align(files_dir, output_dir, prefix, method, device)

@@ -1,10 +1,12 @@
 import argparse
 import os
+import ast
 import torch
 from logzero import logger
 from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
 from typing import List
+
 
 
 def get_num_params(model):
@@ -73,18 +75,14 @@ def extract_generated_distractors_from_file(file_path, keyword):
         if TAB in line:
 
             aligned_tokens_as_str = line.strip().strip(
-                "\n").strip('][').split(', ')
-            aligned_tokens = []
-            # get the tuples in a list
-            for i in range(1, len(aligned_tokens_as_str), 2):
-                aligned_tokens.append(
-                    aligned_tokens_as_str[i-1] + ", " + aligned_tokens_as_str[i])
-
-            aligned_tokens_as_tuples = list(map(eval, aligned_tokens)) 
+                "\n")
+            
+            aligned_tokens_as_tuples = ast.literal_eval(aligned_tokens_as_str)
 
             for src_token, trg_token in aligned_tokens_as_tuples:
                 if src_token == keyword:
                     distractors.append(trg_token)
+                    break
 
     return distractors
 
