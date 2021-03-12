@@ -118,8 +118,7 @@ def init_job(src, trg, nbest, direction, test_sentences_loc, index, model, token
     save_nbest(translations, test_sentences, nbest,
                translations_file_name, output_dir)
 
-
-    del trans
+    del translations
 
     return translations_file_name
 
@@ -152,11 +151,15 @@ if __name__ == "__main__":
     trg_langs = list(map(lambda x: "".join(x), args.trg))
     nbest = int(args.nbest)
     output_dir = args.output
-    test_sentences_loc = [f for f in os.listdir(
-        os.path.abspath(args.sentences)) if os.path.isfile(os.path.join(args.sentences, f))]
     translate_forward = args.forward
     translate_backward = args.backward
     translate_both = args.both
+
+    if os.path.isfile(os.path.abspath(args.sentences)):
+        test_sentences_loc = [os.path.abspath(args.sentences)]
+    else:
+        test_sentences_loc = [f for f in os.listdir(
+            os.path.abspath(args.sentences)) if os.path.isfile(os.path.join(args.sentences, f))]
 
     if args.device == "cpu":
         device = "cpu"
@@ -191,10 +194,13 @@ if __name__ == "__main__":
                 except Exception as err:
                     logger.error(err)
                     logger.error(
-                        "Failed to created translations for exerscise on file: {}. Will retry after.".format(file_name))
+                        "Failed to create translations for exerscise on file: {}. Will retry after.".format(file_name))
                     failed_forward_translation_files.append(file_name)
-
-            
+            # save the file names that failed
+            with open(os.path.join(output_dir, "failed", "forward", "failed_forward_translation_files.txt"), 'w') as f:
+                for item in failed_forward_translation_files:
+                    f.write("{}\n".format(item))
+                f.close()
 
             del model, tokenizer
             logger.info(
@@ -213,8 +219,14 @@ if __name__ == "__main__":
                              exercise_line_num, model, tokenizer, device)
                 except Exception as err:
                     logger.error(
-                        "Failed to created translations for exerscise on file: {}. Will retry after.".format(file_name))
-                    failed_backward_translation_files.append(file_name)
+                        "Failed to create translations for exerscise on file: {}. Will retry after.".format(file_name))
+                    failed_backward_translation_files.append(file_path)
+
+              # save the file names that failed
+            with open(os.path.join(output_dir, "failed", "backward", "failed_backward_translation_files.txt"), 'w') as f:
+                for item in failed_backward_translation_files:
+                    f.write("{}\n".format(item))
+                f.close()
 
     elif translate_forward:
         for trg in trg_langs:

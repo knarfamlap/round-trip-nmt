@@ -6,10 +6,12 @@ from tqdm import tqdm
 from transformers import MarianMTModel, MarianTokenizer
 from typing import List
 
+
 def get_num_params(model):
     # get total number of parameters in model
     return sum(param.numel() for param in model.parameters()
                if param.requires_grad)
+
 
 def load_model_and_tokenizer(src, trg, device='cuda:0'):
     # parse model name
@@ -25,6 +27,7 @@ def load_model_and_tokenizer(src, trg, device='cuda:0'):
 
     logger.info('Number of Parameters in Model: {}'.format(num_params))
     return model, tokenizer
+
 
 def save_nbest(rt_translations, test_sents, nbest, file_name, output_dir):
     output_dir = os.path.abspath(output_dir)
@@ -51,6 +54,39 @@ def find_retrieval(li_a: List[str], li_b: List[str]) -> int:
     Compute Retrieval of gold distractors. li_a is the list of gold distractors 
     and li_b is the list of generated distractors
     """
-    intersection = set(li_a) & set(li_b) 
+    intersection = set(li_a) & set(li_b)
 
     return len(intersection)
+
+
+def extract_generated_distractors_from_file(file_path, keyword):
+    """ 
+    file_path: location where the file of aligned tokens is stored. Should have extension .aligned
+    keyword: The solution of the cloze item
+    
+    Returns: A list of generated distractors. The distractors that are matched with the keyword
+     """
+    TAB = "\t"
+
+    distractors = []
+    for line in open(file_path, 'r'):
+        if TAB in line:
+
+            aligned_tokens_as_str = line.strip().strip(
+                "\n").strip('][').split(', ')
+            aligned_tokens = []
+            # get the tuples in a list
+            for i in range(1, len(aligned_tokens_as_str), 2):
+                aligned_tokens.append(
+                    aligned_tokens_as_str[i-1] + ", " + aligned_tokens_as_str[i])
+
+            aligned_tokens_as_tuples = list(map(eval, aligned_tokens)) 
+
+            for src_token, trg_token in aligned_tokens_as_tuples:
+                if src_token == keyword:
+                    distractors.append(trg_token)
+
+    return distractors
+
+
+    
